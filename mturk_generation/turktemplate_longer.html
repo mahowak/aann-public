@@ -1,0 +1,141 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<crowd-form>
+
+<crowd-instructions link-text="View instructions" link-type="button">
+    <short-summary>
+        <p>DO NOT COMPLETE THIS SURVEY MORE THAN ONCE. YOU WILL NOT BE PAID FOR MULTIPLE HITS.
+            Do not complete any surveys wwith the code GENTLE GIRAFFE more than once.
+            Please rate the sentences according to if they are acceptable. Focus on if the sentence
+        sounds natural as an English sentence, and NOT on if the sentence is likely to occur.
+        For instance, "The cat sailed on a glittery sailboat." is not likely but is grammatical.
+        You should give this sentence a high rating: a 10.
+        But a sentence like "The cat sail on boat." is not acceptable English and should receive a low rating, a 1, 2, or 3.
+        
+        Some sentences will be clearly acceptable or unacceptable, whereas others may not be so clear.
+        NOTE: If you are clearly not doing the task in earnest, your HIT will be rejected.
+        </p></p>
+    </short-summary>
+
+    <detailed-instructions>
+        <h3>DO NOT COMPLETE THIS SURVEY MORE THAN ONCE. YOU WILL NOT BE PAID FOR MULTIPLE HITS.
+        Do not complete any surveys wwith the code GENTLE GIRAFFE more than once. Please rate the sentences according to if they are acceptable. Focus on if the sentence
+        sounds natural as an English sentence, and NOT on if the sentence is likely to occur.
+        For instance, "The cat sailed on a glittery sailboat." is not likely but is grammatical.
+        You should give this sentence a high rating: a 10.
+        But a sentence like "The cat sail on boat." is not acceptable English and should receive a low rating, a 1, 2, or 3.
+        
+        Some sentences will be clearly acceptable or unacceptable, whereas others may not be so clear.
+        NOTE: If you are clearly not doing the task in earnest, your HIT will be rejected.
+        </p></h3>
+        </detailed-instructions>
+
+    <positive-example>
+        <p>The cat sailed on a glittery sailboat.</p>
+    </positive-example>
+
+    <negative-example>
+        <p>The cat sail on boat.</p>
+    </negative-example>
+</crowd-instructions>
+  
+
+
+<p>What country are you from? <input name="country" type="radio" value="USA" /><span class="answertext">USA
+    </span>&nbsp;&nbsp;&nbsp; <input name="country" type="radio" value="CAN" /><span
+        class="answertext">Canada</span>&nbsp; &nbsp; <input name="country" type="radio" value="UK" /><span
+        class="answertext">UK &nbsp; &nbsp; </span><input name="country" type="radio" value="AUS" />Australia / New
+    Zealand &nbsp;&nbsp;&nbsp;&nbsp;<input name="country" type="radio" value="IND" /><span
+        class="answertext">India&nbsp; &nbsp; </span><input name="country" type="radio" value="OTHER" /><span
+        class="answertext">Other&nbsp;&nbsp;</span></p>
+
+<p>Did you grow up speaking English?<input name="English" type="radio" value="yes" /><span class="answertext"> Yes
+    </span>&nbsp;&nbsp;&nbsp;<input name="English" type="radio" value="no" /><span class="answertext">No</span></p>
+
+    
+<p>Do you acknowledge that you will complete this HIT only one time?<input name="onetime" type="radio" value="yes" /><span class="answertext"> Yes
+    </span>&nbsp;&nbsp;&nbsp;<input name="onetime" type="radio" value="no" /><span class="answertext">No</span></p>
+
+    <div>
+        <p>DO NOT COMPLETE THIS SURVEY MORE THAN ONCE. YOU WILL NOT BE PAID FOR MULTIPLE HITS.
+        Do not complete any surveys wwith the code GENTLE GIRAFFE more than once. Please rate the sentences according to if they are acceptable. Focus on if the sentence
+            sounds natural as an English sentence, and NOT on if the sentence is likely to occur.
+            For instance, "The cat sailed on a glittery sailboat." is not likely but is grammatical.
+            You should give this sentence a high rating: a 10.
+            But a sentence like "The cat sail on boat." is not acceptable English and should receive a low rating, a 1, 2, or 3.
+    
+            Some sentences will be clearly acceptable or unacceptable, whereas others may not be so clear.
+            NOTE: If you are clearly not doing the task in earnest, your HIT will be rejected.
+        </p>
+    </div>
+
+<div>
+    <p> Rate this sentence on a scale from 1 (bad) to 10 (good) [This is a practice sentence. You should assign it a low rating because "The cat sail on boat." is not grammatical English.]: The cat sail on boat. </p>
+    <crowd-slider name="test1" id="test1" min="1" max="10" step="1" pin="true" required>
+    </crowd-slider>
+</div>
+
+<div>
+    <p> Rate this sentence on a scale from 1 (bad) to 10 (good) [This is a practice sentence. You should assign it a high rating (10) because, even though it's a strange sentence, it is acceptable English.]: The cat sailed on a glittery sailboat. </p>
+    <crowd-slider name="test2" id="test2" min="1" max="10" step="1" pin="true" required>
+    </crowd-slider>
+</div>
+
+<div>
+  <p> Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_1}</p>
+    <crowd-slider name="howMuch_${id_1}" id="howMuch_${id_1}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_2}</p>
+    <crowd-slider name="howMuch_${id_2}" id="howMuch_${id_2}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_3}</p>
+    <crowd-slider name="howMuch_${id_3}" id="howMuch_${id_3}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_4}</p>
+    <crowd-slider name="howMuch_${id_4}" id="howMuch_${id_4}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_5}</p>
+    <crowd-slider name="howMuch_${id_5}" id="howMuch_${id_5}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_6}</p>
+    <crowd-slider name="howMuch_${id_6}" id="howMuch_${id_6}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_7}</p>
+    <crowd-slider name="howMuch_${id_7}" id="howMuch_${id_7}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_8}</p>
+    <crowd-slider name="howMuch_${id_8}" id="howMuch_${id_8}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_9}</p>
+    <crowd-slider name="howMuch_${id_9}" id="howMuch_${id_9}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_10}</p>
+    <crowd-slider name="howMuch_${id_10}" id="howMuch_${id_10}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+<div>
+    <p>     Rate this sentence on a scale from 1 (bad) to 10 (good): ${value_11}</p>
+    <crowd-slider name="howMuch_${id_11}" id="howMuch_${id_11}" min="1" max="10" step="1" pin="true" required></crowd-slider>
+</div>
+
+
+
+</crowd-form>

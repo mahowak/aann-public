@@ -1,0 +1,1460 @@
+,experiment,template,adj,num,noun,adjclass,numclass,nounclass,sent,rating-sent,goodness-sent
+0,distance,2,whopping,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a whopping twenty feet., good,0.9953278549850825
+1,distance,2,whopping,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a whopping twenty yards., good,0.9972838568099396
+2,distance,2,whopping,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a whopping twenty blocks., good,0.9963915072149271
+3,distance,2,whopping,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a whopping twenty steps., good,0.9953819152968039
+4,distance,2,hefty,three,meters,adj-quant,num-num,noun-distance,Someone traveled a hefty three meters., good,0.9924327320398247
+5,distance,2,hefty,three,feet,adj-quant,num-num,noun-distance,Someone traveled a hefty three feet., good,0.9913237488023519
+6,distance,2,hefty,three,yards,adj-quant,num-num,noun-distance,Someone traveled a hefty three yards., good,0.9954734697587595
+7,distance,2,hefty,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a hefty three blocks., good,0.9962154345878171
+8,distance,2,hefty,three,steps,adj-quant,num-num,noun-distance,Someone traveled a hefty three steps., good,0.9952793942487915
+9,distance,2,hefty,five,meters,adj-quant,num-num,noun-distance,Someone traveled a hefty five meters., good,0.9954810403632842
+10,distance,2,hefty,five,feet,adj-quant,num-num,noun-distance,Someone traveled a hefty five feet., good,0.9938895886619883
+11,distance,2,hefty,five,yards,adj-quant,num-num,noun-distance,Someone traveled a hefty five yards., good,0.9968708519209676
+12,distance,2,hefty,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a hefty five blocks., good,0.9970957407442794
+13,distance,2,hefty,five,steps,adj-quant,num-num,noun-distance,Someone traveled a hefty five steps., good,0.9969391001352903
+14,distance,2,hefty,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a hefty twenty meters., good,0.9964266735805918
+15,distance,2,hefty,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a hefty twenty feet., good,0.9975104738230608
+16,distance,2,hefty,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a hefty twenty yards., good,0.9983835661387604
+17,distance,2,hefty,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a hefty twenty blocks., good,0.9977292849827166
+18,distance,2,hefty,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a hefty twenty steps., good,0.9979602536158232
+19,distance,2,paltry,three,meters,adj-quant,num-num,noun-distance,Someone traveled a paltry three meters., good,0.9866687340632114
+20,distance,2,paltry,three,feet,adj-quant,num-num,noun-distance,Someone traveled a paltry three feet., good,0.9822888699177358
+21,distance,2,paltry,three,yards,adj-quant,num-num,noun-distance,Someone traveled a paltry three yards., good,0.9922166076968805
+22,distance,2,paltry,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a paltry three blocks., good,0.9924244492308074
+23,distance,2,paltry,three,steps,adj-quant,num-num,noun-distance,Someone traveled a paltry three steps., good,0.9926132170818796
+24,distance,2,paltry,five,meters,adj-quant,num-num,noun-distance,Someone traveled a paltry five meters., good,0.9901380936953177
+25,distance,2,paltry,five,feet,adj-quant,num-num,noun-distance,Someone traveled a paltry five feet., good,0.9879434437902469
+26,distance,2,paltry,five,yards,adj-quant,num-num,noun-distance,Someone traveled a paltry five yards., good,0.9932963408492891
+27,distance,2,paltry,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a paltry five blocks., good,0.994350332338302
+28,distance,2,paltry,five,steps,adj-quant,num-num,noun-distance,Someone traveled a paltry five steps., good,0.9937810475341313
+29,distance,2,paltry,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a paltry twenty meters., good,0.9926241823421315
+30,distance,2,paltry,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a paltry twenty feet., good,0.9943061646752418
+31,distance,2,paltry,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a paltry twenty yards., good,0.9958829577518392
+32,distance,2,paltry,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a paltry twenty blocks., good,0.9940895607761423
+33,distance,2,paltry,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a paltry twenty steps., good,0.996483118366032
+34,distance,2,meager,three,meters,adj-quant,num-num,noun-distance,Someone traveled a meager three meters., good,0.9808082895606572
+35,distance,2,meager,three,feet,adj-quant,num-num,noun-distance,Someone traveled a meager three feet., good,0.9779157430101556
+36,distance,2,meager,three,yards,adj-quant,num-num,noun-distance,Someone traveled a meager three yards., good,0.9880367876143239
+37,distance,2,meager,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a meager three blocks., good,0.9916991409799722
+38,distance,2,meager,three,steps,adj-quant,num-num,noun-distance,Someone traveled a meager three steps., good,0.9889337197965338
+39,distance,2,meager,five,meters,adj-quant,num-num,noun-distance,Someone traveled a meager five meters., good,0.9851219971547512
+40,distance,2,meager,five,feet,adj-quant,num-num,noun-distance,Someone traveled a meager five feet., good,0.9770925506491073
+41,distance,2,meager,five,yards,adj-quant,num-num,noun-distance,Someone traveled a meager five yards., good,0.9877230265857275
+42,distance,2,meager,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a meager five blocks., good,0.9917171970106046
+43,distance,2,meager,five,steps,adj-quant,num-num,noun-distance,Someone traveled a meager five steps., good,0.9903597638878489
+44,distance,2,meager,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a meager twenty meters., good,0.9902381700293436
+45,distance,2,meager,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a meager twenty feet., good,0.9892897980476766
+46,distance,2,meager,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a meager twenty yards., good,0.9934327762924278
+47,distance,2,meager,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a meager twenty blocks., good,0.9930756267181188
+48,distance,2,meager,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a meager twenty steps., good,0.9937573836034406
+49,distance,2,extra,three,meters,adj-quant,num-num,noun-distance,Someone traveled an extra three meters., good,0.8001903997053034
+50,distance,2,extra,three,feet,adj-quant,num-num,noun-distance,Someone traveled an extra three feet., good,0.7206007499058549
+51,distance,2,extra,three,yards,adj-quant,num-num,noun-distance,Someone traveled an extra three yards., good,0.8910158256471363
+52,distance,2,extra,three,blocks,adj-quant,num-num,noun-distance,Someone traveled an extra three blocks., good,0.9211606149687599
+53,distance,2,extra,three,steps,adj-quant,num-num,noun-distance,Someone traveled an extra three steps., good,0.8795943444554083
+54,distance,2,extra,five,meters,adj-quant,num-num,noun-distance,Someone traveled an extra five meters., good,0.8932238300150903
+55,distance,2,extra,five,feet,adj-quant,num-num,noun-distance,Someone traveled an extra five feet., good,0.8782119882622643
+56,distance,2,extra,five,yards,adj-quant,num-num,noun-distance,Someone traveled an extra five yards., good,0.917301143384458
+57,distance,2,extra,five,blocks,adj-quant,num-num,noun-distance,Someone traveled an extra five blocks., good,0.9541488618802675
+58,distance,2,extra,five,steps,adj-quant,num-num,noun-distance,Someone traveled an extra five steps., good,0.9081833113592006
+59,distance,2,extra,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled an extra twenty meters., good,0.9367117601241204
+60,distance,2,extra,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled an extra twenty feet., good,0.9316950010010595
+61,distance,2,extra,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled an extra twenty yards., good,0.9443632265078943
+62,distance,2,extra,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled an extra twenty blocks., good,0.9369796361601479
+63,distance,2,extra,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled an extra twenty steps., good,0.9621744459592265
+64,distance,2,measly,three,meters,adj-quant,num-num,noun-distance,Someone traveled a measly three meters., good,0.9526310120313978
+65,distance,2,measly,three,feet,adj-quant,num-num,noun-distance,Someone traveled a measly three feet., good,0.9544632102857108
+66,distance,2,measly,three,yards,adj-quant,num-num,noun-distance,Someone traveled a measly three yards., good,0.9701124872220214
+67,distance,2,measly,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a measly three blocks., good,0.980546803662533
+68,distance,2,measly,three,steps,adj-quant,num-num,noun-distance,Someone traveled a measly three steps., good,0.9711298728373564
+69,distance,2,measly,five,meters,adj-quant,num-num,noun-distance,Someone traveled a measly five meters., good,0.9678624082945645
+70,distance,2,measly,five,feet,adj-quant,num-num,noun-distance,Someone traveled a measly five feet., good,0.9660125317767377
+71,distance,2,measly,five,yards,adj-quant,num-num,noun-distance,Someone traveled a measly five yards., good,0.9782094747706499
+72,distance,2,measly,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a measly five blocks., good,0.9810603592716811
+73,distance,2,measly,five,steps,adj-quant,num-num,noun-distance,Someone traveled a measly five steps., good,0.9784604078983771
+74,distance,2,measly,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a measly twenty meters., good,0.9709672086124858
+75,distance,2,measly,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a measly twenty feet., good,0.9784683941248181
+76,distance,2,measly,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a measly twenty yards., good,0.9808869103808384
+77,distance,2,measly,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a measly twenty blocks., good,0.9832164950196086
+78,distance,2,measly,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a measly twenty steps., good,0.9846913580432586
+79,distance,2,substantial,three,meters,adj-quant,num-num,noun-distance,Someone traveled a substantial three meters., good,0.9908264699391323
+80,distance,2,substantial,three,feet,adj-quant,num-num,noun-distance,Someone traveled a substantial three feet., good,0.9910085014807453
+81,distance,2,substantial,three,yards,adj-quant,num-num,noun-distance,Someone traveled a substantial three yards., good,0.9951607207260071
+82,distance,2,substantial,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a substantial three blocks., good,0.99509473878191
+83,distance,2,substantial,three,steps,adj-quant,num-num,noun-distance,Someone traveled a substantial three steps., good,0.9955979841994705
+84,distance,2,substantial,five,meters,adj-quant,num-num,noun-distance,Someone traveled a substantial five meters., good,0.996017663616575
+85,distance,2,substantial,five,feet,adj-quant,num-num,noun-distance,Someone traveled a substantial five feet., good,0.994717737075361
+86,distance,2,substantial,five,yards,adj-quant,num-num,noun-distance,Someone traveled a substantial five yards., good,0.9967906230956163
+87,distance,2,substantial,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a substantial five blocks., good,0.9975453428101037
+88,distance,2,substantial,five,steps,adj-quant,num-num,noun-distance,Someone traveled a substantial five steps., good,0.9980379205993403
+89,distance,2,substantial,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a substantial twenty meters., good,0.9962950647717541
+90,distance,2,substantial,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a substantial twenty feet., good,0.9959752258016666
+91,distance,2,substantial,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a substantial twenty yards., good,0.997763795538921
+92,distance,2,substantial,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a substantial twenty blocks., good,0.9972553041840363
+93,distance,2,substantial,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a substantial twenty steps., good,0.9983857131649281
+94,distance,2,record-setting,three,meters,adj-quant,num-num,noun-distance,Someone traveled a record-setting three meters., good,0.9913360868945092
+95,distance,2,record-setting,three,feet,adj-quant,num-num,noun-distance,Someone traveled a record-setting three feet., good,0.9800731865038209
+96,distance,2,record-setting,three,yards,adj-quant,num-num,noun-distance,Someone traveled a record-setting three yards., good,0.989054061561997
+97,distance,2,record-setting,three,blocks,adj-quant,num-num,noun-distance,Someone traveled a record-setting three blocks., good,0.9937880797524605
+98,distance,2,record-setting,three,steps,adj-quant,num-num,noun-distance,Someone traveled a record-setting three steps., good,0.9491011027083854
+99,distance,2,record-setting,five,meters,adj-quant,num-num,noun-distance,Someone traveled a record-setting five meters., good,0.9937666832285492
+100,distance,2,record-setting,five,feet,adj-quant,num-num,noun-distance,Someone traveled a record-setting five feet., good,0.9850947594006478
+101,distance,2,record-setting,five,yards,adj-quant,num-num,noun-distance,Someone traveled a record-setting five yards., good,0.9928909720407899
+102,distance,2,record-setting,five,blocks,adj-quant,num-num,noun-distance,Someone traveled a record-setting five blocks., good,0.9964963528458594
+103,distance,2,record-setting,five,steps,adj-quant,num-num,noun-distance,Someone traveled a record-setting five steps., good,0.9940871192951791
+104,distance,2,record-setting,twenty,meters,adj-quant,num-num,noun-distance,Someone traveled a record-setting twenty meters., good,0.9964425298444085
+105,distance,2,record-setting,twenty,feet,adj-quant,num-num,noun-distance,Someone traveled a record-setting twenty feet., good,0.9952397560456975
+106,distance,2,record-setting,twenty,yards,adj-quant,num-num,noun-distance,Someone traveled a record-setting twenty yards., good,0.997831684799118
+107,distance,2,record-setting,twenty,blocks,adj-quant,num-num,noun-distance,Someone traveled a record-setting twenty blocks., good,0.9981261322864783
+108,distance,2,record-setting,twenty,steps,adj-quant,num-num,noun-distance,Someone traveled a record-setting twenty steps., good,0.9985647069197748
+109,unitlike,0,astonishing,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing three pages., good,0.9930132208274162
+110,unitlike,0,astonishing,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing three acts., good,0.9928572362637696
+111,unitlike,0,astonishing,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing three paragraphs., good,0.9650218996141309
+112,unitlike,0,astonishing,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing three awards., good,0.9986494661927131
+113,unitlike,0,astonishing,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing three meals., good,0.9965790259114842
+114,unitlike,0,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing five pages., good,0.9963888845166535
+115,unitlike,0,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing five acts., good,0.9962045257896712
+116,unitlike,0,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing five paragraphs., good,0.9671191451517918
+117,unitlike,0,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing five awards., good,0.9993380190061637
+118,unitlike,0,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing five meals., good,0.9979033905624773
+119,unitlike,0,astonishing,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing twenty pages., good,0.9972039233243204
+120,unitlike,0,astonishing,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing twenty acts., good,0.9959414881107114
+121,unitlike,0,astonishing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing twenty paragraphs., good,0.9947107631337535
+122,unitlike,0,astonishing,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing twenty awards., good,0.999003041193979
+123,unitlike,0,astonishing,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in an astonishing twenty meals., good,0.9945956659419738
+124,unitlike,0,incredible,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in an incredible three pages., good,0.9164304418499348
+125,unitlike,0,incredible,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in an incredible three acts., good,0.9798302966463494
+126,unitlike,0,incredible,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an incredible three paragraphs., good,0.7503684698225409
+127,unitlike,0,incredible,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in an incredible three awards., good,0.996899998757343
+128,unitlike,0,incredible,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in an incredible three meals., good,0.975748125509369
+129,unitlike,0,incredible,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in an incredible five pages., good,0.9562800734274653
+130,unitlike,0,incredible,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in an incredible five acts., good,0.9869529908510418
+131,unitlike,0,incredible,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an incredible five paragraphs., good,0.789223175067002
+132,unitlike,0,incredible,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in an incredible five awards., good,0.9985310320911365
+133,unitlike,0,incredible,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in an incredible five meals., good,0.9840705631329434
+134,unitlike,0,incredible,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in an incredible twenty pages., good,0.98885056978948
+135,unitlike,0,incredible,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in an incredible twenty acts., good,0.9880307670305017
+136,unitlike,0,incredible,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an incredible twenty paragraphs., good,0.9396431184791862
+137,unitlike,0,incredible,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in an incredible twenty awards., good,0.9983353480725622
+138,unitlike,0,incredible,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in an incredible twenty meals., good,0.9492330625601704
+139,unitlike,0,impressive,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in an impressive three pages., good,0.9887135384399478
+140,unitlike,0,impressive,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in an impressive three acts., good,0.992510815252812
+141,unitlike,0,impressive,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an impressive three paragraphs., good,0.9846518402179759
+142,unitlike,0,impressive,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in an impressive three awards., good,0.9982156609291964
+143,unitlike,0,impressive,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in an impressive three meals., good,0.9938070335588403
+144,unitlike,0,impressive,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in an impressive five pages., good,0.9933525487089766
+145,unitlike,0,impressive,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in an impressive five acts., good,0.9961440855037479
+146,unitlike,0,impressive,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an impressive five paragraphs., good,0.9734929423159643
+147,unitlike,0,impressive,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in an impressive five awards., good,0.9991547336390455
+148,unitlike,0,impressive,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in an impressive five meals., good,0.9960657657579055
+149,unitlike,0,impressive,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in an impressive twenty pages., good,0.9964490255747888
+150,unitlike,0,impressive,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in an impressive twenty acts., good,0.9950265507586629
+151,unitlike,0,impressive,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an impressive twenty paragraphs., good,0.993138867390347
+152,unitlike,0,impressive,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in an impressive twenty awards., good,0.998832928757978
+153,unitlike,0,impressive,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in an impressive twenty meals., good,0.9853528437001071
+154,unitlike,0,disappointing,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing three pages., good,0.9168766449530599
+155,unitlike,0,disappointing,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing three acts., good,0.9094591471088336
+156,unitlike,0,disappointing,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing three paragraphs., good,0.6839994263701977
+157,unitlike,0,disappointing,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing three awards., good,0.9934165634031312
+158,unitlike,0,disappointing,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing three meals., good,0.5814895720676198
+159,unitlike,0,disappointing,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing five pages., good,0.9348947012681381
+160,unitlike,0,disappointing,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing five acts., good,0.9397626834570354
+161,unitlike,0,disappointing,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing five paragraphs., good,0.5060935577737036
+162,unitlike,0,disappointing,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing five awards., good,0.9940079635877103
+163,unitlike,0,disappointing,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing five meals., good,0.5074504389887453
+164,unitlike,0,disappointing,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing twenty pages., good,0.9406259547770903
+165,unitlike,0,disappointing,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing twenty acts., good,0.8577676160015705
+166,unitlike,0,disappointing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing twenty paragraphs., bad,0.4985070051136311
+167,unitlike,0,disappointing,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing twenty awards., good,0.9417256074935086
+168,unitlike,0,disappointing,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a disappointing twenty meals., bad,0.35112764426746756
+169,unitlike,0,surprising,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a surprising three pages., good,0.9785597061203671
+170,unitlike,0,surprising,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a surprising three acts., good,0.9812909110154882
+171,unitlike,0,surprising,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a surprising three paragraphs., good,0.9172401127832409
+172,unitlike,0,surprising,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a surprising three awards., good,0.9968223932129608
+173,unitlike,0,surprising,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a surprising three meals., good,0.9933852732610082
+174,unitlike,0,surprising,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a surprising five pages., good,0.9878078420524586
+175,unitlike,0,surprising,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a surprising five acts., good,0.99307491071085
+176,unitlike,0,surprising,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a surprising five paragraphs., good,0.8766397994178053
+177,unitlike,0,surprising,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a surprising five awards., good,0.9985449168615251
+178,unitlike,0,surprising,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a surprising five meals., good,0.991584578579323
+179,unitlike,0,surprising,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a surprising twenty pages., good,0.9931184205598869
+180,unitlike,0,surprising,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a surprising twenty acts., good,0.9834564625526818
+181,unitlike,0,surprising,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a surprising twenty paragraphs., good,0.96524124313515
+182,unitlike,0,surprising,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a surprising twenty awards., good,0.998280213131146
+183,unitlike,0,surprising,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a surprising twenty meals., good,0.9762308586862247
+184,unitlike,0,devastating,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a devastating three pages., good,0.772253588795755
+185,unitlike,0,devastating,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a devastating three acts., good,0.7660577656570289
+186,unitlike,0,devastating,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a devastating three paragraphs., good,0.7181589612065161
+187,unitlike,0,devastating,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a devastating three awards., good,0.9966575245498921
+188,unitlike,0,devastating,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a devastating three meals., good,0.8974866081610962
+189,unitlike,0,devastating,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a devastating five pages., good,0.8698106975782011
+190,unitlike,0,devastating,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a devastating five acts., good,0.9047887300444573
+191,unitlike,0,devastating,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a devastating five paragraphs., good,0.6117341660712794
+192,unitlike,0,devastating,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a devastating five awards., good,0.9982020102237283
+193,unitlike,0,devastating,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a devastating five meals., good,0.9705413377489173
+194,unitlike,0,devastating,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a devastating twenty pages., good,0.9453412458047724
+195,unitlike,0,devastating,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a devastating twenty acts., good,0.9084257887072194
+196,unitlike,0,devastating,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a devastating twenty paragraphs., good,0.6496379118497405
+197,unitlike,0,devastating,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a devastating twenty awards., good,0.9980641430927342
+198,unitlike,0,devastating,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a devastating twenty meals., good,0.8123318987742746
+199,unitlike,0,pathetic,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic three pages., good,0.780240440303895
+200,unitlike,0,pathetic,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic three acts., good,0.8129354255147353
+201,unitlike,0,pathetic,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic three paragraphs., good,0.6573312117853162
+202,unitlike,0,pathetic,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic three awards., good,0.9703931638979477
+203,unitlike,0,pathetic,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic three meals., good,0.7644423081240799
+204,unitlike,0,pathetic,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic five pages., good,0.8094456243636087
+205,unitlike,0,pathetic,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic five acts., good,0.7887839210230795
+206,unitlike,0,pathetic,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic five paragraphs., bad,0.42059180511304106
+207,unitlike,0,pathetic,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic five awards., good,0.9686900597841898
+208,unitlike,0,pathetic,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic five meals., good,0.7662507062772528
+209,unitlike,0,pathetic,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic twenty pages., good,0.738250065230374
+210,unitlike,0,pathetic,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic twenty acts., good,0.6745343351728832
+211,unitlike,0,pathetic,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic twenty paragraphs., good,0.604339513818721
+212,unitlike,0,pathetic,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic twenty awards., good,0.9465496502746563
+213,unitlike,0,pathetic,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a pathetic twenty meals., good,0.6400647985623216
+214,unitlike,0,remarkable,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable three pages., good,0.9767950673537897
+215,unitlike,0,remarkable,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable three acts., good,0.9857154808463655
+216,unitlike,0,remarkable,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable three paragraphs., good,0.8477507019172744
+217,unitlike,0,remarkable,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable three awards., good,0.997777923475406
+218,unitlike,0,remarkable,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable three meals., good,0.9875212622956749
+219,unitlike,0,remarkable,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable five pages., good,0.9891353057992689
+220,unitlike,0,remarkable,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable five acts., good,0.9943412718593533
+221,unitlike,0,remarkable,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable five paragraphs., good,0.6207662108458082
+222,unitlike,0,remarkable,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable five awards., good,0.9989906436431647
+223,unitlike,0,remarkable,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable five meals., good,0.9942597343460721
+224,unitlike,0,remarkable,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable twenty pages., good,0.9953859091752133
+225,unitlike,0,remarkable,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable twenty acts., good,0.9942934088032779
+226,unitlike,0,remarkable,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable twenty paragraphs., good,0.9726156852587883
+227,unitlike,0,remarkable,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable twenty awards., good,0.9990838050631128
+228,unitlike,0,remarkable,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a remarkable twenty meals., good,0.9846795585574118
+229,unitlike,0,mediocre,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre three pages., good,0.7416181803469748
+230,unitlike,0,mediocre,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre three acts., good,0.9129069868257315
+231,unitlike,0,mediocre,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre three paragraphs., good,0.6536969330843838
+232,unitlike,0,mediocre,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre three awards., good,0.9444076324551657
+233,unitlike,0,mediocre,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre three meals., bad,0.21998256735236732
+234,unitlike,0,mediocre,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre five pages., good,0.7705250911415598
+235,unitlike,0,mediocre,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre five acts., good,0.9390665584664645
+236,unitlike,0,mediocre,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre five paragraphs., good,0.5462351599942225
+237,unitlike,0,mediocre,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre five awards., good,0.9557066781777825
+238,unitlike,0,mediocre,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre five meals., bad,0.4413612175856374
+239,unitlike,0,mediocre,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre twenty pages., good,0.8077145036226371
+240,unitlike,0,mediocre,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre twenty acts., good,0.761169776058027
+241,unitlike,0,mediocre,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre twenty paragraphs., bad,0.4875220329419696
+242,unitlike,0,mediocre,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre twenty awards., good,0.8722771351734007
+243,unitlike,0,mediocre,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in a mediocre twenty meals., bad,0.4310086459713578
+244,unitlike,0,unsatisfying,three,pages,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying three pages., good,0.9657671938211262
+245,unitlike,0,unsatisfying,three,acts,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying three acts., good,0.9582041821047576
+246,unitlike,0,unsatisfying,three,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying three paragraphs., good,0.890302697971444
+247,unitlike,0,unsatisfying,three,awards,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying three awards., good,0.9848789901466964
+248,unitlike,0,unsatisfying,three,meals,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying three meals., good,0.9052833774873297
+249,unitlike,0,unsatisfying,five,pages,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying five pages., good,0.9706178116547276
+250,unitlike,0,unsatisfying,five,acts,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying five acts., good,0.9623484372613172
+251,unitlike,0,unsatisfying,five,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying five paragraphs., good,0.8443575134008391
+252,unitlike,0,unsatisfying,five,awards,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying five awards., good,0.9872337290845645
+253,unitlike,0,unsatisfying,five,meals,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying five meals., good,0.9194520998379633
+254,unitlike,0,unsatisfying,twenty,pages,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying twenty pages., good,0.966100504747456
+255,unitlike,0,unsatisfying,twenty,acts,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying twenty acts., good,0.6885266529109194
+256,unitlike,0,unsatisfying,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying twenty paragraphs., good,0.8400075492355363
+257,unitlike,0,unsatisfying,twenty,awards,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying twenty awards., good,0.9326368669736251
+258,unitlike,0,unsatisfying,twenty,meals,adj-ambig,num-num,noun-unit_like,Luis took in an unsatisfying twenty meals., good,0.7475193034779212
+259,unitlike,0,lovely,three,pages,adj-pos,num-num,noun-unit_like,Luis took in a lovely three pages., bad,0.42259323759404344
+260,unitlike,0,lovely,three,acts,adj-pos,num-num,noun-unit_like,Luis took in a lovely three acts., good,0.7243351205511265
+261,unitlike,0,lovely,three,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a lovely three paragraphs., bad,0.36415928810125675
+262,unitlike,0,lovely,three,awards,adj-pos,num-num,noun-unit_like,Luis took in a lovely three awards., good,0.8829809259739461
+263,unitlike,0,lovely,three,meals,adj-pos,num-num,noun-unit_like,Luis took in a lovely three meals., bad,0.35727783507683875
+264,unitlike,0,lovely,five,pages,adj-pos,num-num,noun-unit_like,Luis took in a lovely five pages., good,0.5544197542373429
+265,unitlike,0,lovely,five,acts,adj-pos,num-num,noun-unit_like,Luis took in a lovely five acts., good,0.6010460650778983
+266,unitlike,0,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a lovely five paragraphs., bad,0.26513649169453746
+267,unitlike,0,lovely,five,awards,adj-pos,num-num,noun-unit_like,Luis took in a lovely five awards., good,0.9503352366035144
+268,unitlike,0,lovely,five,meals,adj-pos,num-num,noun-unit_like,Luis took in a lovely five meals., good,0.5857574400060713
+269,unitlike,0,lovely,twenty,pages,adj-pos,num-num,noun-unit_like,Luis took in a lovely twenty pages., good,0.8319229588370243
+270,unitlike,0,lovely,twenty,acts,adj-pos,num-num,noun-unit_like,Luis took in a lovely twenty acts., bad,0.3903517942120247
+271,unitlike,0,lovely,twenty,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a lovely twenty paragraphs., bad,0.407746567342667
+272,unitlike,0,lovely,twenty,awards,adj-pos,num-num,noun-unit_like,Luis took in a lovely twenty awards., good,0.8513850372771765
+273,unitlike,0,lovely,twenty,meals,adj-pos,num-num,noun-unit_like,Luis took in a lovely twenty meals., bad,0.4294677032634109
+274,unitlike,0,beautiful,three,pages,adj-pos,num-num,noun-unit_like,Luis took in a beautiful three pages., bad,0.03141334817202446
+275,unitlike,0,beautiful,three,acts,adj-pos,num-num,noun-unit_like,Luis took in a beautiful three acts., bad,0.07501161286761937
+276,unitlike,0,beautiful,three,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a beautiful three paragraphs., bad,0.06987936854065102
+277,unitlike,0,beautiful,three,awards,adj-pos,num-num,noun-unit_like,Luis took in a beautiful three awards., bad,0.0360876483209861
+278,unitlike,0,beautiful,three,meals,adj-pos,num-num,noun-unit_like,Luis took in a beautiful three meals., bad,0.011580553169476815
+279,unitlike,0,beautiful,five,pages,adj-pos,num-num,noun-unit_like,Luis took in a beautiful five pages., bad,0.20674423422648214
+280,unitlike,0,beautiful,five,acts,adj-pos,num-num,noun-unit_like,Luis took in a beautiful five acts., bad,0.16099889879925033
+281,unitlike,0,beautiful,five,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a beautiful five paragraphs., bad,0.028036028921154865
+282,unitlike,0,beautiful,five,awards,adj-pos,num-num,noun-unit_like,Luis took in a beautiful five awards., bad,0.10524754002823067
+283,unitlike,0,beautiful,five,meals,adj-pos,num-num,noun-unit_like,Luis took in a beautiful five meals., bad,0.01167931802482014
+284,unitlike,0,beautiful,twenty,pages,adj-pos,num-num,noun-unit_like,Luis took in a beautiful twenty pages., bad,0.5008842568866818
+285,unitlike,0,beautiful,twenty,acts,adj-pos,num-num,noun-unit_like,Luis took in a beautiful twenty acts., bad,0.15965247292828888
+286,unitlike,0,beautiful,twenty,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a beautiful twenty paragraphs., bad,0.10807674758743546
+287,unitlike,0,beautiful,twenty,awards,adj-pos,num-num,noun-unit_like,Luis took in a beautiful twenty awards., bad,0.13517951899558522
+288,unitlike,0,beautiful,twenty,meals,adj-pos,num-num,noun-unit_like,Luis took in a beautiful twenty meals., bad,0.08435460809300854
+289,unitlike,0,enchanting,three,pages,adj-pos,num-num,noun-unit_like,Luis took in an enchanting three pages., good,0.9675259429684755
+290,unitlike,0,enchanting,three,acts,adj-pos,num-num,noun-unit_like,Luis took in an enchanting three acts., good,0.9831525418162617
+291,unitlike,0,enchanting,three,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in an enchanting three paragraphs., good,0.9264529843353095
+292,unitlike,0,enchanting,three,awards,adj-pos,num-num,noun-unit_like,Luis took in an enchanting three awards., good,0.992124652330786
+293,unitlike,0,enchanting,three,meals,adj-pos,num-num,noun-unit_like,Luis took in an enchanting three meals., good,0.938035682176076
+294,unitlike,0,enchanting,five,pages,adj-pos,num-num,noun-unit_like,Luis took in an enchanting five pages., good,0.9687721200260354
+295,unitlike,0,enchanting,five,acts,adj-pos,num-num,noun-unit_like,Luis took in an enchanting five acts., good,0.9823165865715141
+296,unitlike,0,enchanting,five,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in an enchanting five paragraphs., good,0.8708161096196257
+297,unitlike,0,enchanting,five,awards,adj-pos,num-num,noun-unit_like,Luis took in an enchanting five awards., good,0.9965958323618886
+298,unitlike,0,enchanting,five,meals,adj-pos,num-num,noun-unit_like,Luis took in an enchanting five meals., good,0.97072575132739
+299,unitlike,0,enchanting,twenty,pages,adj-pos,num-num,noun-unit_like,Luis took in an enchanting twenty pages., good,0.9897309930194448
+300,unitlike,0,enchanting,twenty,acts,adj-pos,num-num,noun-unit_like,Luis took in an enchanting twenty acts., good,0.978559349924699
+301,unitlike,0,enchanting,twenty,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in an enchanting twenty paragraphs., good,0.9600152838211078
+302,unitlike,0,enchanting,twenty,awards,adj-pos,num-num,noun-unit_like,Luis took in an enchanting twenty awards., good,0.9954224450873691
+303,unitlike,0,enchanting,twenty,meals,adj-pos,num-num,noun-unit_like,Luis took in an enchanting twenty meals., good,0.9175679975760921
+304,unitlike,0,soothing,three,pages,adj-pos,num-num,noun-unit_like,Luis took in a soothing three pages., good,0.9467700733958698
+305,unitlike,0,soothing,three,acts,adj-pos,num-num,noun-unit_like,Luis took in a soothing three acts., good,0.9036800212883236
+306,unitlike,0,soothing,three,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a soothing three paragraphs., good,0.8848126688465037
+307,unitlike,0,soothing,three,awards,adj-pos,num-num,noun-unit_like,Luis took in a soothing three awards., good,0.982646737741195
+308,unitlike,0,soothing,three,meals,adj-pos,num-num,noun-unit_like,Luis took in a soothing three meals., good,0.8513693038270652
+309,unitlike,0,soothing,five,pages,adj-pos,num-num,noun-unit_like,Luis took in a soothing five pages., good,0.9622208190741167
+310,unitlike,0,soothing,five,acts,adj-pos,num-num,noun-unit_like,Luis took in a soothing five acts., good,0.9045406619397236
+311,unitlike,0,soothing,five,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a soothing five paragraphs., good,0.7230875293812058
+312,unitlike,0,soothing,five,awards,adj-pos,num-num,noun-unit_like,Luis took in a soothing five awards., good,0.9878983234676577
+313,unitlike,0,soothing,five,meals,adj-pos,num-num,noun-unit_like,Luis took in a soothing five meals., good,0.7615861355827916
+314,unitlike,0,soothing,twenty,pages,adj-pos,num-num,noun-unit_like,Luis took in a soothing twenty pages., good,0.9882725242583127
+315,unitlike,0,soothing,twenty,acts,adj-pos,num-num,noun-unit_like,Luis took in a soothing twenty acts., good,0.8866052191380333
+316,unitlike,0,soothing,twenty,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a soothing twenty paragraphs., good,0.7936975576978259
+317,unitlike,0,soothing,twenty,awards,adj-pos,num-num,noun-unit_like,Luis took in a soothing twenty awards., good,0.9822490556098735
+318,unitlike,0,soothing,twenty,meals,adj-pos,num-num,noun-unit_like,Luis took in a soothing twenty meals., good,0.6541075967713063
+319,unitlike,0,charming,three,pages,adj-pos,num-num,noun-unit_like,Luis took in a charming three pages., good,0.8695883067197184
+320,unitlike,0,charming,three,acts,adj-pos,num-num,noun-unit_like,Luis took in a charming three acts., good,0.9234592924103302
+321,unitlike,0,charming,three,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a charming three paragraphs., good,0.8193699809044539
+322,unitlike,0,charming,three,awards,adj-pos,num-num,noun-unit_like,Luis took in a charming three awards., good,0.9848953826090261
+323,unitlike,0,charming,three,meals,adj-pos,num-num,noun-unit_like,Luis took in a charming three meals., bad,0.26456471457696185
+324,unitlike,0,charming,five,pages,adj-pos,num-num,noun-unit_like,Luis took in a charming five pages., good,0.8759789657806105
+325,unitlike,0,charming,five,acts,adj-pos,num-num,noun-unit_like,Luis took in a charming five acts., good,0.7731427324710856
+326,unitlike,0,charming,five,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a charming five paragraphs., good,0.6570852581783271
+327,unitlike,0,charming,five,awards,adj-pos,num-num,noun-unit_like,Luis took in a charming five awards., good,0.9972621580441176
+328,unitlike,0,charming,five,meals,adj-pos,num-num,noun-unit_like,Luis took in a charming five meals., good,0.737633972233561
+329,unitlike,0,charming,twenty,pages,adj-pos,num-num,noun-unit_like,Luis took in a charming twenty pages., good,0.9427933701784386
+330,unitlike,0,charming,twenty,acts,adj-pos,num-num,noun-unit_like,Luis took in a charming twenty acts., good,0.6809277108060934
+331,unitlike,0,charming,twenty,paragraphs,adj-pos,num-num,noun-unit_like,Luis took in a charming twenty paragraphs., good,0.8100746298034968
+332,unitlike,0,charming,twenty,awards,adj-pos,num-num,noun-unit_like,Luis took in a charming twenty awards., good,0.9746704218507036
+333,unitlike,0,charming,twenty,meals,adj-pos,num-num,noun-unit_like,Luis took in a charming twenty meals., good,0.5764910869597991
+334,unitlike,0,disgusting,three,pages,adj-neg,num-num,noun-unit_like,Luis took in a disgusting three pages., bad,0.4125887451803495
+335,unitlike,0,disgusting,three,acts,adj-neg,num-num,noun-unit_like,Luis took in a disgusting three acts., good,0.5021322990940394
+336,unitlike,0,disgusting,three,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a disgusting three paragraphs., bad,0.35662741843614865
+337,unitlike,0,disgusting,three,awards,adj-neg,num-num,noun-unit_like,Luis took in a disgusting three awards., good,0.8056872250824022
+338,unitlike,0,disgusting,three,meals,adj-neg,num-num,noun-unit_like,Luis took in a disgusting three meals., bad,0.3654180415274886
+339,unitlike,0,disgusting,five,pages,adj-neg,num-num,noun-unit_like,Luis took in a disgusting five pages., good,0.5111508432852897
+340,unitlike,0,disgusting,five,acts,adj-neg,num-num,noun-unit_like,Luis took in a disgusting five acts., good,0.5602392468333884
+341,unitlike,0,disgusting,five,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a disgusting five paragraphs., bad,0.31466149849698233
+342,unitlike,0,disgusting,five,awards,adj-neg,num-num,noun-unit_like,Luis took in a disgusting five awards., good,0.9519749286397534
+343,unitlike,0,disgusting,five,meals,adj-neg,num-num,noun-unit_like,Luis took in a disgusting five meals., good,0.6265327446564143
+344,unitlike,0,disgusting,twenty,pages,adj-neg,num-num,noun-unit_like,Luis took in a disgusting twenty pages., good,0.5721308013816793
+345,unitlike,0,disgusting,twenty,acts,adj-neg,num-num,noun-unit_like,Luis took in a disgusting twenty acts., bad,0.2788460632655745
+346,unitlike,0,disgusting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a disgusting twenty paragraphs., bad,0.4440036947569793
+347,unitlike,0,disgusting,twenty,awards,adj-neg,num-num,noun-unit_like,Luis took in a disgusting twenty awards., good,0.8886695343200622
+348,unitlike,0,disgusting,twenty,meals,adj-neg,num-num,noun-unit_like,Luis took in a disgusting twenty meals., bad,0.47479869406048025
+349,unitlike,0,uninviting,three,pages,adj-neg,num-num,noun-unit_like,Luis took in an uninviting three pages., good,0.7746842902847003
+350,unitlike,0,uninviting,three,acts,adj-neg,num-num,noun-unit_like,Luis took in an uninviting three acts., good,0.9162859651504375
+351,unitlike,0,uninviting,three,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an uninviting three paragraphs., good,0.7784493662224298
+352,unitlike,0,uninviting,three,awards,adj-neg,num-num,noun-unit_like,Luis took in an uninviting three awards., good,0.9528469045839044
+353,unitlike,0,uninviting,three,meals,adj-neg,num-num,noun-unit_like,Luis took in an uninviting three meals., good,0.5156906906290649
+354,unitlike,0,uninviting,five,pages,adj-neg,num-num,noun-unit_like,Luis took in an uninviting five pages., good,0.8148775112346607
+355,unitlike,0,uninviting,five,acts,adj-neg,num-num,noun-unit_like,Luis took in an uninviting five acts., good,0.8724274589208558
+356,unitlike,0,uninviting,five,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an uninviting five paragraphs., good,0.6455132901397193
+357,unitlike,0,uninviting,five,awards,adj-neg,num-num,noun-unit_like,Luis took in an uninviting five awards., good,0.9767439881681166
+358,unitlike,0,uninviting,five,meals,adj-neg,num-num,noun-unit_like,Luis took in an uninviting five meals., good,0.5788157633839698
+359,unitlike,0,uninviting,twenty,pages,adj-neg,num-num,noun-unit_like,Luis took in an uninviting twenty pages., good,0.890407669066749
+360,unitlike,0,uninviting,twenty,acts,adj-neg,num-num,noun-unit_like,Luis took in an uninviting twenty acts., good,0.6573392049814499
+361,unitlike,0,uninviting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an uninviting twenty paragraphs., good,0.7427329129649767
+362,unitlike,0,uninviting,twenty,awards,adj-neg,num-num,noun-unit_like,Luis took in an uninviting twenty awards., good,0.873578050194728
+363,unitlike,0,uninviting,twenty,meals,adj-neg,num-num,noun-unit_like,Luis took in an uninviting twenty meals., bad,0.45808983580606233
+364,unitlike,0,haunting,three,pages,adj-neg,num-num,noun-unit_like,Luis took in a haunting three pages., good,0.9722922694353452
+365,unitlike,0,haunting,three,acts,adj-neg,num-num,noun-unit_like,Luis took in a haunting three acts., good,0.9640220260818433
+366,unitlike,0,haunting,three,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a haunting three paragraphs., good,0.9321336344240226
+367,unitlike,0,haunting,three,awards,adj-neg,num-num,noun-unit_like,Luis took in a haunting three awards., good,0.9960790570493414
+368,unitlike,0,haunting,three,meals,adj-neg,num-num,noun-unit_like,Luis took in a haunting three meals., good,0.8891399338053032
+369,unitlike,0,haunting,five,pages,adj-neg,num-num,noun-unit_like,Luis took in a haunting five pages., good,0.9861246041368473
+370,unitlike,0,haunting,five,acts,adj-neg,num-num,noun-unit_like,Luis took in a haunting five acts., good,0.9306832268807373
+371,unitlike,0,haunting,five,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a haunting five paragraphs., good,0.8397477750767024
+372,unitlike,0,haunting,five,awards,adj-neg,num-num,noun-unit_like,Luis took in a haunting five awards., good,0.9980010857953224
+373,unitlike,0,haunting,five,meals,adj-neg,num-num,noun-unit_like,Luis took in a haunting five meals., good,0.935684829338426
+374,unitlike,0,haunting,twenty,pages,adj-neg,num-num,noun-unit_like,Luis took in a haunting twenty pages., good,0.9922014685713769
+375,unitlike,0,haunting,twenty,acts,adj-neg,num-num,noun-unit_like,Luis took in a haunting twenty acts., good,0.9831551019488138
+376,unitlike,0,haunting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a haunting twenty paragraphs., good,0.9381472681569155
+377,unitlike,0,haunting,twenty,awards,adj-neg,num-num,noun-unit_like,Luis took in a haunting twenty awards., good,0.9963220683206166
+378,unitlike,0,haunting,twenty,meals,adj-neg,num-num,noun-unit_like,Luis took in a haunting twenty meals., good,0.9065575961142842
+379,unitlike,0,hideous,three,pages,adj-neg,num-num,noun-unit_like,Luis took in a hideous three pages., bad,0.32993402413176975
+380,unitlike,0,hideous,three,acts,adj-neg,num-num,noun-unit_like,Luis took in a hideous three acts., bad,0.4958198327060124
+381,unitlike,0,hideous,three,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a hideous three paragraphs., bad,0.3759447045278227
+382,unitlike,0,hideous,three,awards,adj-neg,num-num,noun-unit_like,Luis took in a hideous three awards., good,0.8581701235097452
+383,unitlike,0,hideous,three,meals,adj-neg,num-num,noun-unit_like,Luis took in a hideous three meals., bad,0.05350637907354672
+384,unitlike,0,hideous,five,pages,adj-neg,num-num,noun-unit_like,Luis took in a hideous five pages., good,0.5815325689961554
+385,unitlike,0,hideous,five,acts,adj-neg,num-num,noun-unit_like,Luis took in a hideous five acts., good,0.5762906758523534
+386,unitlike,0,hideous,five,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a hideous five paragraphs., bad,0.3020984834902445
+387,unitlike,0,hideous,five,awards,adj-neg,num-num,noun-unit_like,Luis took in a hideous five awards., good,0.9711841682840477
+388,unitlike,0,hideous,five,meals,adj-neg,num-num,noun-unit_like,Luis took in a hideous five meals., bad,0.49741709118900423
+389,unitlike,0,hideous,twenty,pages,adj-neg,num-num,noun-unit_like,Luis took in a hideous twenty pages., good,0.6969462203153591
+390,unitlike,0,hideous,twenty,acts,adj-neg,num-num,noun-unit_like,Luis took in a hideous twenty acts., bad,0.4082948585191547
+391,unitlike,0,hideous,twenty,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in a hideous twenty paragraphs., bad,0.4328585525705093
+392,unitlike,0,hideous,twenty,awards,adj-neg,num-num,noun-unit_like,Luis took in a hideous twenty awards., good,0.9500525833733884
+393,unitlike,0,hideous,twenty,meals,adj-neg,num-num,noun-unit_like,Luis took in a hideous twenty meals., bad,0.46359889631584184
+394,unitlike,0,ugly,three,pages,adj-neg,num-num,noun-unit_like,Luis took in an ugly three pages., bad,0.08988728090065046
+395,unitlike,0,ugly,three,acts,adj-neg,num-num,noun-unit_like,Luis took in an ugly three acts., bad,0.09126939239594045
+396,unitlike,0,ugly,three,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an ugly three paragraphs., bad,0.1526827523739952
+397,unitlike,0,ugly,three,awards,adj-neg,num-num,noun-unit_like,Luis took in an ugly three awards., bad,0.36998213320082163
+398,unitlike,0,ugly,three,meals,adj-neg,num-num,noun-unit_like,Luis took in an ugly three meals., bad,0.008310934632115963
+399,unitlike,0,ugly,five,pages,adj-neg,num-num,noun-unit_like,Luis took in an ugly five pages., bad,0.14513391667257824
+400,unitlike,0,ugly,five,acts,adj-neg,num-num,noun-unit_like,Luis took in an ugly five acts., bad,0.03359819108925377
+401,unitlike,0,ugly,five,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an ugly five paragraphs., bad,0.05206966527083834
+402,unitlike,0,ugly,five,awards,adj-neg,num-num,noun-unit_like,Luis took in an ugly five awards., good,0.5692901756889591
+403,unitlike,0,ugly,five,meals,adj-neg,num-num,noun-unit_like,Luis took in an ugly five meals., bad,0.010193008558293193
+404,unitlike,0,ugly,twenty,pages,adj-neg,num-num,noun-unit_like,Luis took in an ugly twenty pages., bad,0.32339538378905375
+405,unitlike,0,ugly,twenty,acts,adj-neg,num-num,noun-unit_like,Luis took in an ugly twenty acts., bad,0.05267268885196619
+406,unitlike,0,ugly,twenty,paragraphs,adj-neg,num-num,noun-unit_like,Luis took in an ugly twenty paragraphs., bad,0.09507673596615085
+407,unitlike,0,ugly,twenty,awards,adj-neg,num-num,noun-unit_like,Luis took in an ugly twenty awards., bad,0.37183568584886484
+408,unitlike,0,ugly,twenty,meals,adj-neg,num-num,noun-unit_like,Luis took in an ugly twenty meals., bad,0.10820829656519071
+409,unitlike,0,mere,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a mere three pages., good,0.8850206207174038
+410,unitlike,0,mere,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a mere three acts., good,0.9305207484271156
+411,unitlike,0,mere,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a mere three paragraphs., good,0.7692706352387707
+412,unitlike,0,mere,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a mere three awards., good,0.9899138627124728
+413,unitlike,0,mere,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a mere three meals., good,0.8956059909190878
+414,unitlike,0,mere,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a mere five pages., good,0.8941879473224021
+415,unitlike,0,mere,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a mere five acts., good,0.9322466438344509
+416,unitlike,0,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a mere five paragraphs., good,0.6574658075557159
+417,unitlike,0,mere,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a mere five awards., good,0.9933463514997622
+418,unitlike,0,mere,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a mere five meals., good,0.879335069467027
+419,unitlike,0,mere,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a mere twenty pages., good,0.9283767629790001
+420,unitlike,0,mere,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a mere twenty acts., good,0.9011602763616587
+421,unitlike,0,mere,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a mere twenty paragraphs., good,0.6718960082916057
+422,unitlike,0,mere,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a mere twenty awards., good,0.9877039508751202
+423,unitlike,0,mere,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a mere twenty meals., good,0.804813600942511
+424,unitlike,0,staggering,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a staggering three pages., good,0.9696846523611423
+425,unitlike,0,staggering,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a staggering three acts., good,0.9896457590771754
+426,unitlike,0,staggering,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a staggering three paragraphs., good,0.9173566417824424
+427,unitlike,0,staggering,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a staggering three awards., good,0.998427139044354
+428,unitlike,0,staggering,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a staggering three meals., good,0.9924245686194758
+429,unitlike,0,staggering,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a staggering five pages., good,0.9857406893635486
+430,unitlike,0,staggering,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a staggering five acts., good,0.9937212025495229
+431,unitlike,0,staggering,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a staggering five paragraphs., good,0.9260505372141017
+432,unitlike,0,staggering,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a staggering five awards., good,0.9992774597580063
+433,unitlike,0,staggering,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a staggering five meals., good,0.9960887153775272
+434,unitlike,0,staggering,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a staggering twenty pages., good,0.9940856868166723
+435,unitlike,0,staggering,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a staggering twenty acts., good,0.9956541314357976
+436,unitlike,0,staggering,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a staggering twenty paragraphs., good,0.9754892070486635
+437,unitlike,0,staggering,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a staggering twenty awards., good,0.9992368707913196
+438,unitlike,0,staggering,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a staggering twenty meals., good,0.9868163793649545
+439,unitlike,0,whopping,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a whopping three pages., good,0.9829944685123393
+440,unitlike,0,whopping,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a whopping three acts., good,0.9887407778731533
+441,unitlike,0,whopping,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a whopping three paragraphs., good,0.9758451626307619
+442,unitlike,0,whopping,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a whopping three awards., good,0.9977294030140981
+443,unitlike,0,whopping,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a whopping three meals., good,0.9898997347626415
+444,unitlike,0,whopping,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a whopping five pages., good,0.9882699596944398
+445,unitlike,0,whopping,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a whopping five acts., good,0.9936914609190163
+446,unitlike,0,whopping,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a whopping five paragraphs., good,0.9779327285762067
+447,unitlike,0,whopping,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a whopping five awards., good,0.9988551613283849
+448,unitlike,0,whopping,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a whopping five meals., good,0.992556412147764
+449,unitlike,0,whopping,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a whopping twenty pages., good,0.9914852168673053
+450,unitlike,0,whopping,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a whopping twenty acts., good,0.9931053687854337
+451,unitlike,0,whopping,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a whopping twenty paragraphs., good,0.9799802074510416
+452,unitlike,0,whopping,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a whopping twenty awards., good,0.9985468242838471
+453,unitlike,0,whopping,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a whopping twenty meals., good,0.9864223877186636
+454,unitlike,0,hefty,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a hefty three pages., good,0.9804073327607693
+455,unitlike,0,hefty,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a hefty three acts., good,0.9910569590171139
+456,unitlike,0,hefty,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a hefty three paragraphs., good,0.9702739574498352
+457,unitlike,0,hefty,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a hefty three awards., good,0.9977058585741324
+458,unitlike,0,hefty,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a hefty three meals., good,0.9848474036142488
+459,unitlike,0,hefty,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a hefty five pages., good,0.9789621549916449
+460,unitlike,0,hefty,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a hefty five acts., good,0.9932083651113851
+461,unitlike,0,hefty,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a hefty five paragraphs., good,0.9562908679778586
+462,unitlike,0,hefty,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a hefty five awards., good,0.998734222273276
+463,unitlike,0,hefty,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a hefty five meals., good,0.9891379853704417
+464,unitlike,0,hefty,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a hefty twenty pages., good,0.9895606442954541
+465,unitlike,0,hefty,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a hefty twenty acts., good,0.9639413803365815
+466,unitlike,0,hefty,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a hefty twenty paragraphs., good,0.9535041896325804
+467,unitlike,0,hefty,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a hefty twenty awards., good,0.9981014577157306
+468,unitlike,0,hefty,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a hefty twenty meals., good,0.9235400524566331
+469,unitlike,0,paltry,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a paltry three pages., good,0.9775597262169485
+470,unitlike,0,paltry,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a paltry three acts., good,0.9789629303299786
+471,unitlike,0,paltry,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a paltry three paragraphs., good,0.9812460277957054
+472,unitlike,0,paltry,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a paltry three awards., good,0.995425963911932
+473,unitlike,0,paltry,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a paltry three meals., good,0.9715116932043205
+474,unitlike,0,paltry,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a paltry five pages., good,0.9811051820002153
+475,unitlike,0,paltry,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a paltry five acts., good,0.983159811273031
+476,unitlike,0,paltry,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a paltry five paragraphs., good,0.9753654682384854
+477,unitlike,0,paltry,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a paltry five awards., good,0.9959281362102458
+478,unitlike,0,paltry,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a paltry five meals., good,0.9626223182486217
+479,unitlike,0,paltry,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a paltry twenty pages., good,0.9654548688669828
+480,unitlike,0,paltry,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a paltry twenty acts., good,0.956065254896775
+481,unitlike,0,paltry,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a paltry twenty paragraphs., good,0.9581245519387533
+482,unitlike,0,paltry,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a paltry twenty awards., good,0.9910314495392972
+483,unitlike,0,paltry,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a paltry twenty meals., good,0.8785557262127304
+484,unitlike,0,meager,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a meager three pages., good,0.9531372660221766
+485,unitlike,0,meager,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a meager three acts., good,0.9690712726595615
+486,unitlike,0,meager,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a meager three paragraphs., good,0.9313537743064337
+487,unitlike,0,meager,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a meager three awards., good,0.9913223787938777
+488,unitlike,0,meager,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a meager three meals., good,0.9752596712075884
+489,unitlike,0,meager,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a meager five pages., good,0.9651245988489242
+490,unitlike,0,meager,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a meager five acts., good,0.967197286699805
+491,unitlike,0,meager,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a meager five paragraphs., good,0.8918850432388775
+492,unitlike,0,meager,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a meager five awards., good,0.9924834572677521
+493,unitlike,0,meager,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a meager five meals., good,0.9586169503610426
+494,unitlike,0,meager,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a meager twenty pages., good,0.9627007587987217
+495,unitlike,0,meager,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a meager twenty acts., good,0.9494952104775216
+496,unitlike,0,meager,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a meager twenty paragraphs., good,0.8813226046447697
+497,unitlike,0,meager,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a meager twenty awards., good,0.9823016269861273
+498,unitlike,0,meager,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a meager twenty meals., good,0.8542891750834074
+499,unitlike,0,extra,three,pages,adj-quant,num-num,noun-unit_like,Luis took in an extra three pages., bad,0.4229777028616748
+500,unitlike,0,extra,three,acts,adj-quant,num-num,noun-unit_like,Luis took in an extra three acts., good,0.508365958506348
+501,unitlike,0,extra,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in an extra three paragraphs., good,0.8361727152890497
+502,unitlike,0,extra,three,awards,adj-quant,num-num,noun-unit_like,Luis took in an extra three awards., good,0.9900148311560578
+503,unitlike,0,extra,three,meals,adj-quant,num-num,noun-unit_like,Luis took in an extra three meals., bad,0.4736061751774293
+504,unitlike,0,extra,five,pages,adj-quant,num-num,noun-unit_like,Luis took in an extra five pages., good,0.5614254404479282
+505,unitlike,0,extra,five,acts,adj-quant,num-num,noun-unit_like,Luis took in an extra five acts., bad,0.4604072011035991
+506,unitlike,0,extra,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in an extra five paragraphs., good,0.5919002233153046
+507,unitlike,0,extra,five,awards,adj-quant,num-num,noun-unit_like,Luis took in an extra five awards., good,0.9932716059924559
+508,unitlike,0,extra,five,meals,adj-quant,num-num,noun-unit_like,Luis took in an extra five meals., bad,0.33004354416486903
+509,unitlike,0,extra,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in an extra twenty pages., good,0.6510283430565708
+510,unitlike,0,extra,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in an extra twenty acts., bad,0.2433844390118055
+511,unitlike,0,extra,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in an extra twenty paragraphs., bad,0.2950676583034776
+512,unitlike,0,extra,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in an extra twenty awards., good,0.855795802310799
+513,unitlike,0,extra,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in an extra twenty meals., bad,0.3754621420269403
+514,unitlike,0,measly,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a measly three pages., good,0.9095319340369068
+515,unitlike,0,measly,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a measly three acts., good,0.909576096522556
+516,unitlike,0,measly,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a measly three paragraphs., good,0.8725863598787565
+517,unitlike,0,measly,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a measly three awards., good,0.9862806499919995
+518,unitlike,0,measly,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a measly three meals., good,0.8742320282612641
+519,unitlike,0,measly,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a measly five pages., good,0.9109241184293507
+520,unitlike,0,measly,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a measly five acts., good,0.8830117460780555
+521,unitlike,0,measly,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a measly five paragraphs., good,0.8306891346289572
+522,unitlike,0,measly,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a measly five awards., good,0.9860768620698634
+523,unitlike,0,measly,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a measly five meals., good,0.8571218058247345
+524,unitlike,0,measly,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a measly twenty pages., good,0.9320235410296827
+525,unitlike,0,measly,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a measly twenty acts., good,0.8345659079746023
+526,unitlike,0,measly,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a measly twenty paragraphs., good,0.8384650669049767
+527,unitlike,0,measly,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a measly twenty awards., good,0.9683880518753261
+528,unitlike,0,measly,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a measly twenty meals., good,0.746565666523196
+529,unitlike,0,substantial,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a substantial three pages., good,0.9315572041844763
+530,unitlike,0,substantial,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a substantial three acts., good,0.9244450328563883
+531,unitlike,0,substantial,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a substantial three paragraphs., good,0.7747187645026636
+532,unitlike,0,substantial,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a substantial three awards., good,0.9956681992319685
+533,unitlike,0,substantial,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a substantial three meals., good,0.753866381155451
+534,unitlike,0,substantial,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a substantial five pages., good,0.9577423048940841
+535,unitlike,0,substantial,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a substantial five acts., good,0.9654341851834367
+536,unitlike,0,substantial,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a substantial five paragraphs., good,0.7975383481696676
+537,unitlike,0,substantial,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a substantial five awards., good,0.9984931220823663
+538,unitlike,0,substantial,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a substantial five meals., good,0.9202865776487628
+539,unitlike,0,substantial,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a substantial twenty pages., good,0.9837332638500674
+540,unitlike,0,substantial,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a substantial twenty acts., good,0.9574140585875356
+541,unitlike,0,substantial,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a substantial twenty paragraphs., good,0.8374019472897907
+542,unitlike,0,substantial,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a substantial twenty awards., good,0.9969970369406409
+543,unitlike,0,substantial,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a substantial twenty meals., good,0.9176468512524533
+544,unitlike,0,record-setting,three,pages,adj-quant,num-num,noun-unit_like,Luis took in a record-setting three pages., good,0.9433715900612889
+545,unitlike,0,record-setting,three,acts,adj-quant,num-num,noun-unit_like,Luis took in a record-setting three acts., good,0.9901614612300648
+546,unitlike,0,record-setting,three,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a record-setting three paragraphs., good,0.9699653264998994
+547,unitlike,0,record-setting,three,awards,adj-quant,num-num,noun-unit_like,Luis took in a record-setting three awards., good,0.998563633762861
+548,unitlike,0,record-setting,three,meals,adj-quant,num-num,noun-unit_like,Luis took in a record-setting three meals., good,0.9924385149622029
+549,unitlike,0,record-setting,five,pages,adj-quant,num-num,noun-unit_like,Luis took in a record-setting five pages., good,0.9740984036513197
+550,unitlike,0,record-setting,five,acts,adj-quant,num-num,noun-unit_like,Luis took in a record-setting five acts., good,0.9961732913822529
+551,unitlike,0,record-setting,five,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a record-setting five paragraphs., good,0.9597973063807403
+552,unitlike,0,record-setting,five,awards,adj-quant,num-num,noun-unit_like,Luis took in a record-setting five awards., good,0.9991616484132223
+553,unitlike,0,record-setting,five,meals,adj-quant,num-num,noun-unit_like,Luis took in a record-setting five meals., good,0.9942714735406311
+554,unitlike,0,record-setting,twenty,pages,adj-quant,num-num,noun-unit_like,Luis took in a record-setting twenty pages., good,0.9918736011611256
+555,unitlike,0,record-setting,twenty,acts,adj-quant,num-num,noun-unit_like,Luis took in a record-setting twenty acts., good,0.9958374784090637
+556,unitlike,0,record-setting,twenty,paragraphs,adj-quant,num-num,noun-unit_like,Luis took in a record-setting twenty paragraphs., good,0.9934035119820562
+557,unitlike,0,record-setting,twenty,awards,adj-quant,num-num,noun-unit_like,Luis took in a record-setting twenty awards., good,0.9990734340275949
+558,unitlike,0,record-setting,twenty,meals,adj-quant,num-num,noun-unit_like,Luis took in a record-setting twenty meals., good,0.9925517055556724
+559,unitlike,1,astonishing,three,pages,adj-ambig,num-num,noun-unit_like,They consumed an astonishing three pages., good,0.9991880534071708
+560,unitlike,1,astonishing,three,acts,adj-ambig,num-num,noun-unit_like,They consumed an astonishing three acts., good,0.9967460971539465
+561,unitlike,1,astonishing,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an astonishing three paragraphs., good,0.9990303974686061
+562,unitlike,1,astonishing,three,awards,adj-ambig,num-num,noun-unit_like,They consumed an astonishing three awards., good,0.9987488243737175
+563,unitlike,1,astonishing,three,meals,adj-ambig,num-num,noun-unit_like,They consumed an astonishing three meals., good,0.9995955713033419
+564,unitlike,1,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,They consumed an astonishing five pages., good,0.9994419712559864
+565,unitlike,1,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,They consumed an astonishing five acts., good,0.9987408998326092
+566,unitlike,1,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an astonishing five paragraphs., good,0.9993753898501857
+567,unitlike,1,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,They consumed an astonishing five awards., good,0.9994854215409313
+568,unitlike,1,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,They consumed an astonishing five meals., good,0.9997683623521436
+569,unitlike,1,astonishing,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed an astonishing twenty pages., good,0.9996155988810491
+570,unitlike,1,astonishing,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed an astonishing twenty acts., good,0.9869878590356959
+571,unitlike,1,astonishing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an astonishing twenty paragraphs., good,0.9997178177209106
+572,unitlike,1,astonishing,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed an astonishing twenty awards., good,0.9995407937074984
+573,unitlike,1,astonishing,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed an astonishing twenty meals., good,0.9997211574538113
+574,unitlike,1,incredible,three,pages,adj-ambig,num-num,noun-unit_like,They consumed an incredible three pages., good,0.9952631210660936
+575,unitlike,1,incredible,three,acts,adj-ambig,num-num,noun-unit_like,They consumed an incredible three acts., good,0.9121985903825678
+576,unitlike,1,incredible,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an incredible three paragraphs., good,0.9959259893898692
+577,unitlike,1,incredible,three,awards,adj-ambig,num-num,noun-unit_like,They consumed an incredible three awards., good,0.9781200665980125
+578,unitlike,1,incredible,three,meals,adj-ambig,num-num,noun-unit_like,They consumed an incredible three meals., good,0.9979832619544952
+579,unitlike,1,incredible,five,pages,adj-ambig,num-num,noun-unit_like,They consumed an incredible five pages., good,0.9972942869576978
+580,unitlike,1,incredible,five,acts,adj-ambig,num-num,noun-unit_like,They consumed an incredible five acts., good,0.9767655627275958
+581,unitlike,1,incredible,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an incredible five paragraphs., good,0.9979633522872213
+582,unitlike,1,incredible,five,awards,adj-ambig,num-num,noun-unit_like,They consumed an incredible five awards., good,0.9955129291181937
+583,unitlike,1,incredible,five,meals,adj-ambig,num-num,noun-unit_like,They consumed an incredible five meals., good,0.9990846377998114
+584,unitlike,1,incredible,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed an incredible twenty pages., good,0.9985822910002323
+585,unitlike,1,incredible,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed an incredible twenty acts., good,0.927501311950185
+586,unitlike,1,incredible,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an incredible twenty paragraphs., good,0.9990057247195525
+587,unitlike,1,incredible,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed an incredible twenty awards., good,0.997653227685902
+588,unitlike,1,incredible,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed an incredible twenty meals., good,0.9989560130339734
+589,unitlike,1,impressive,three,pages,adj-ambig,num-num,noun-unit_like,They consumed an impressive three pages., good,0.9985884304028884
+590,unitlike,1,impressive,three,acts,adj-ambig,num-num,noun-unit_like,They consumed an impressive three acts., good,0.9909646929362497
+591,unitlike,1,impressive,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an impressive three paragraphs., good,0.9988176692044731
+592,unitlike,1,impressive,three,awards,adj-ambig,num-num,noun-unit_like,They consumed an impressive three awards., good,0.9922005745982564
+593,unitlike,1,impressive,three,meals,adj-ambig,num-num,noun-unit_like,They consumed an impressive three meals., good,0.9993660336416453
+594,unitlike,1,impressive,five,pages,adj-ambig,num-num,noun-unit_like,They consumed an impressive five pages., good,0.9986134020165583
+595,unitlike,1,impressive,five,acts,adj-ambig,num-num,noun-unit_like,They consumed an impressive five acts., good,0.9974113503470352
+596,unitlike,1,impressive,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an impressive five paragraphs., good,0.9991941347539509
+597,unitlike,1,impressive,five,awards,adj-ambig,num-num,noun-unit_like,They consumed an impressive five awards., good,0.9984232637567773
+598,unitlike,1,impressive,five,meals,adj-ambig,num-num,noun-unit_like,They consumed an impressive five meals., good,0.9996411085169612
+599,unitlike,1,impressive,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed an impressive twenty pages., good,0.9993792049730186
+600,unitlike,1,impressive,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed an impressive twenty acts., good,0.9603557473578439
+601,unitlike,1,impressive,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an impressive twenty paragraphs., good,0.9995130771854098
+602,unitlike,1,impressive,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed an impressive twenty awards., good,0.9991845973215899
+603,unitlike,1,impressive,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed an impressive twenty meals., good,0.9995083111785864
+604,unitlike,1,disappointing,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a disappointing three pages., good,0.9941363536730302
+605,unitlike,1,disappointing,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a disappointing three acts., good,0.9887206324850359
+606,unitlike,1,disappointing,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a disappointing three paragraphs., good,0.9961659604703588
+607,unitlike,1,disappointing,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a disappointing three awards., good,0.9828132121985569
+608,unitlike,1,disappointing,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a disappointing three meals., good,0.9869080460352397
+609,unitlike,1,disappointing,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a disappointing five pages., good,0.9952265254163247
+610,unitlike,1,disappointing,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a disappointing five acts., good,0.9915740291671092
+611,unitlike,1,disappointing,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a disappointing five paragraphs., good,0.99681655294735
+612,unitlike,1,disappointing,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a disappointing five awards., good,0.9891478199237512
+613,unitlike,1,disappointing,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a disappointing five meals., good,0.9887231962409598
+614,unitlike,1,disappointing,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a disappointing twenty pages., good,0.9941960752258466
+615,unitlike,1,disappointing,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a disappointing twenty acts., good,0.8927661790152431
+616,unitlike,1,disappointing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a disappointing twenty paragraphs., good,0.9969551928561287
+617,unitlike,1,disappointing,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a disappointing twenty awards., good,0.9364182668751119
+618,unitlike,1,disappointing,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a disappointing twenty meals., good,0.9583142142170654
+619,unitlike,1,surprising,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a surprising three pages., good,0.9975831914957155
+620,unitlike,1,surprising,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a surprising three acts., good,0.9701348379010821
+621,unitlike,1,surprising,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a surprising three paragraphs., good,0.9981412135872092
+622,unitlike,1,surprising,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a surprising three awards., good,0.9959813631195149
+623,unitlike,1,surprising,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a surprising three meals., good,0.9983439900002392
+624,unitlike,1,surprising,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a surprising five pages., good,0.9982108328711852
+625,unitlike,1,surprising,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a surprising five acts., good,0.9888399604686305
+626,unitlike,1,surprising,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a surprising five paragraphs., good,0.99869744636037
+627,unitlike,1,surprising,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a surprising five awards., good,0.9982150641960528
+628,unitlike,1,surprising,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a surprising five meals., good,0.9992558847911395
+629,unitlike,1,surprising,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a surprising twenty pages., good,0.9987558609834726
+630,unitlike,1,surprising,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a surprising twenty acts., good,0.9486984655580233
+631,unitlike,1,surprising,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a surprising twenty paragraphs., good,0.9991149795618088
+632,unitlike,1,surprising,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a surprising twenty awards., good,0.9987007853111239
+633,unitlike,1,surprising,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a surprising twenty meals., good,0.9990882155283053
+634,unitlike,1,devastating,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a devastating three pages., good,0.991925218614505
+635,unitlike,1,devastating,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a devastating three acts., good,0.9621542414701736
+636,unitlike,1,devastating,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a devastating three paragraphs., good,0.9937243029645115
+637,unitlike,1,devastating,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a devastating three awards., good,0.9379418082625329
+638,unitlike,1,devastating,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a devastating three meals., good,0.9841634263807337
+639,unitlike,1,devastating,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a devastating five pages., good,0.9950659491174009
+640,unitlike,1,devastating,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a devastating five acts., good,0.9821322289440657
+641,unitlike,1,devastating,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a devastating five paragraphs., good,0.9946243378628797
+642,unitlike,1,devastating,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a devastating five awards., good,0.9786597229689357
+643,unitlike,1,devastating,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a devastating five meals., good,0.9929225612702778
+644,unitlike,1,devastating,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a devastating twenty pages., good,0.9973370828707782
+645,unitlike,1,devastating,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a devastating twenty acts., good,0.9455301277819588
+646,unitlike,1,devastating,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a devastating twenty paragraphs., good,0.9970463299917679
+647,unitlike,1,devastating,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a devastating twenty awards., good,0.9881855610908424
+648,unitlike,1,devastating,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a devastating twenty meals., good,0.9888017534195438
+649,unitlike,1,pathetic,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a pathetic three pages., good,0.9902458572780956
+650,unitlike,1,pathetic,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a pathetic three acts., good,0.8614040626839166
+651,unitlike,1,pathetic,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a pathetic three paragraphs., good,0.9856269655992372
+652,unitlike,1,pathetic,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a pathetic three awards., good,0.9197767237219507
+653,unitlike,1,pathetic,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a pathetic three meals., good,0.9455019958425738
+654,unitlike,1,pathetic,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a pathetic five pages., good,0.9912352364652339
+655,unitlike,1,pathetic,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a pathetic five acts., good,0.8957432539503819
+656,unitlike,1,pathetic,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a pathetic five paragraphs., good,0.984636104622653
+657,unitlike,1,pathetic,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a pathetic five awards., good,0.9406414498360681
+658,unitlike,1,pathetic,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a pathetic five meals., good,0.9370841152141788
+659,unitlike,1,pathetic,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a pathetic twenty pages., good,0.9822147825915238
+660,unitlike,1,pathetic,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a pathetic twenty acts., good,0.5268468394029283
+661,unitlike,1,pathetic,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a pathetic twenty paragraphs., good,0.9849385357606689
+662,unitlike,1,pathetic,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a pathetic twenty awards., good,0.8333290973390617
+663,unitlike,1,pathetic,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a pathetic twenty meals., good,0.9157033229608695
+664,unitlike,1,remarkable,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a remarkable three pages., good,0.998528408654002
+665,unitlike,1,remarkable,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a remarkable three acts., good,0.9792526679077795
+666,unitlike,1,remarkable,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a remarkable three paragraphs., good,0.9984460926661632
+667,unitlike,1,remarkable,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a remarkable three awards., good,0.9850369434231804
+668,unitlike,1,remarkable,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a remarkable three meals., good,0.9992821684244472
+669,unitlike,1,remarkable,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a remarkable five pages., good,0.9992020017700777
+670,unitlike,1,remarkable,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a remarkable five acts., good,0.9976299216813127
+671,unitlike,1,remarkable,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a remarkable five paragraphs., good,0.9990569217780544
+672,unitlike,1,remarkable,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a remarkable five awards., good,0.9980761243258471
+673,unitlike,1,remarkable,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a remarkable five meals., good,0.9996766937747251
+674,unitlike,1,remarkable,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a remarkable twenty pages., good,0.9994557974319624
+675,unitlike,1,remarkable,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a remarkable twenty acts., good,0.9813195818108705
+676,unitlike,1,remarkable,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a remarkable twenty paragraphs., good,0.9996033167696059
+677,unitlike,1,remarkable,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a remarkable twenty awards., good,0.9988211279162865
+678,unitlike,1,remarkable,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a remarkable twenty meals., good,0.999623345452141
+679,unitlike,1,mediocre,three,pages,adj-ambig,num-num,noun-unit_like,They consumed a mediocre three pages., good,0.9722777269686274
+680,unitlike,1,mediocre,three,acts,adj-ambig,num-num,noun-unit_like,They consumed a mediocre three acts., good,0.8960907532742164
+681,unitlike,1,mediocre,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a mediocre three paragraphs., good,0.9872963759884522
+682,unitlike,1,mediocre,three,awards,adj-ambig,num-num,noun-unit_like,They consumed a mediocre three awards., good,0.7704777515342477
+683,unitlike,1,mediocre,three,meals,adj-ambig,num-num,noun-unit_like,They consumed a mediocre three meals., good,0.7393063701460717
+684,unitlike,1,mediocre,five,pages,adj-ambig,num-num,noun-unit_like,They consumed a mediocre five pages., good,0.9800087527302557
+685,unitlike,1,mediocre,five,acts,adj-ambig,num-num,noun-unit_like,They consumed a mediocre five acts., good,0.9007475043440137
+686,unitlike,1,mediocre,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a mediocre five paragraphs., good,0.9864962971984034
+687,unitlike,1,mediocre,five,awards,adj-ambig,num-num,noun-unit_like,They consumed a mediocre five awards., good,0.8764986542412063
+688,unitlike,1,mediocre,five,meals,adj-ambig,num-num,noun-unit_like,They consumed a mediocre five meals., good,0.7351954990757505
+689,unitlike,1,mediocre,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed a mediocre twenty pages., good,0.9786753395667318
+690,unitlike,1,mediocre,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed a mediocre twenty acts., bad,0.4732336566440779
+691,unitlike,1,mediocre,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed a mediocre twenty paragraphs., good,0.9514370434648743
+692,unitlike,1,mediocre,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed a mediocre twenty awards., good,0.5219732696383602
+693,unitlike,1,mediocre,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed a mediocre twenty meals., good,0.7663776155651529
+694,unitlike,1,unsatisfying,three,pages,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying three pages., good,0.983713059160054
+695,unitlike,1,unsatisfying,three,acts,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying three acts., good,0.9564966791351648
+696,unitlike,1,unsatisfying,three,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying three paragraphs., good,0.9807626938239422
+697,unitlike,1,unsatisfying,three,awards,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying three awards., good,0.57986225211607
+698,unitlike,1,unsatisfying,three,meals,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying three meals., good,0.9907963091450313
+699,unitlike,1,unsatisfying,five,pages,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying five pages., good,0.9877776867149498
+700,unitlike,1,unsatisfying,five,acts,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying five acts., good,0.9690933260654472
+701,unitlike,1,unsatisfying,five,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying five paragraphs., good,0.9795897317926965
+702,unitlike,1,unsatisfying,five,awards,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying five awards., good,0.7160392966057166
+703,unitlike,1,unsatisfying,five,meals,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying five meals., good,0.9885677445934482
+704,unitlike,1,unsatisfying,twenty,pages,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying twenty pages., good,0.9920744054659566
+705,unitlike,1,unsatisfying,twenty,acts,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying twenty acts., good,0.5183390573390713
+706,unitlike,1,unsatisfying,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying twenty paragraphs., good,0.9862612796302512
+707,unitlike,1,unsatisfying,twenty,awards,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying twenty awards., good,0.672251589088722
+708,unitlike,1,unsatisfying,twenty,meals,adj-ambig,num-num,noun-unit_like,They consumed an unsatisfying twenty meals., good,0.9502051721705728
+709,unitlike,1,lovely,three,pages,adj-pos,num-num,noun-unit_like,They consumed a lovely three pages., good,0.8086436346689337
+710,unitlike,1,lovely,three,acts,adj-pos,num-num,noun-unit_like,They consumed a lovely three acts., good,0.6201644277844317
+711,unitlike,1,lovely,three,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a lovely three paragraphs., good,0.8672130152926146
+712,unitlike,1,lovely,three,awards,adj-pos,num-num,noun-unit_like,They consumed a lovely three awards., bad,0.30657287662150434
+713,unitlike,1,lovely,three,meals,adj-pos,num-num,noun-unit_like,They consumed a lovely three meals., good,0.7532965379545181
+714,unitlike,1,lovely,five,pages,adj-pos,num-num,noun-unit_like,They consumed a lovely five pages., good,0.8644241208561635
+715,unitlike,1,lovely,five,acts,adj-pos,num-num,noun-unit_like,They consumed a lovely five acts., good,0.5439087745664754
+716,unitlike,1,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a lovely five paragraphs., good,0.7322582329338844
+717,unitlike,1,lovely,five,awards,adj-pos,num-num,noun-unit_like,They consumed a lovely five awards., bad,0.4893907865612467
+718,unitlike,1,lovely,five,meals,adj-pos,num-num,noun-unit_like,They consumed a lovely five meals., good,0.7136914877545137
+719,unitlike,1,lovely,twenty,pages,adj-pos,num-num,noun-unit_like,They consumed a lovely twenty pages., good,0.9795528969725661
+720,unitlike,1,lovely,twenty,acts,adj-pos,num-num,noun-unit_like,They consumed a lovely twenty acts., bad,0.3665036874528005
+721,unitlike,1,lovely,twenty,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a lovely twenty paragraphs., good,0.9470047944800044
+722,unitlike,1,lovely,twenty,awards,adj-pos,num-num,noun-unit_like,They consumed a lovely twenty awards., good,0.7030583634940974
+723,unitlike,1,lovely,twenty,meals,adj-pos,num-num,noun-unit_like,They consumed a lovely twenty meals., good,0.866112561698149
+724,unitlike,1,beautiful,three,pages,adj-pos,num-num,noun-unit_like,They consumed a beautiful three pages., good,0.708343608697837
+725,unitlike,1,beautiful,three,acts,adj-pos,num-num,noun-unit_like,They consumed a beautiful three acts., bad,0.12332550249226293
+726,unitlike,1,beautiful,three,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a beautiful three paragraphs., good,0.5211909487794234
+727,unitlike,1,beautiful,three,awards,adj-pos,num-num,noun-unit_like,They consumed a beautiful three awards., bad,0.04131844147247865
+728,unitlike,1,beautiful,three,meals,adj-pos,num-num,noun-unit_like,They consumed a beautiful three meals., bad,0.3252796498311007
+729,unitlike,1,beautiful,five,pages,adj-pos,num-num,noun-unit_like,They consumed a beautiful five pages., good,0.8216574978820131
+730,unitlike,1,beautiful,five,acts,adj-pos,num-num,noun-unit_like,They consumed a beautiful five acts., bad,0.1701817847910989
+731,unitlike,1,beautiful,five,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a beautiful five paragraphs., good,0.541863908716534
+732,unitlike,1,beautiful,five,awards,adj-pos,num-num,noun-unit_like,They consumed a beautiful five awards., bad,0.09448302021387611
+733,unitlike,1,beautiful,five,meals,adj-pos,num-num,noun-unit_like,They consumed a beautiful five meals., bad,0.09043957897681532
+734,unitlike,1,beautiful,twenty,pages,adj-pos,num-num,noun-unit_like,They consumed a beautiful twenty pages., good,0.9638330760399617
+735,unitlike,1,beautiful,twenty,acts,adj-pos,num-num,noun-unit_like,They consumed a beautiful twenty acts., bad,0.17684499944066645
+736,unitlike,1,beautiful,twenty,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a beautiful twenty paragraphs., good,0.7212167952508857
+737,unitlike,1,beautiful,twenty,awards,adj-pos,num-num,noun-unit_like,They consumed a beautiful twenty awards., bad,0.14528358207226832
+738,unitlike,1,beautiful,twenty,meals,adj-pos,num-num,noun-unit_like,They consumed a beautiful twenty meals., bad,0.47191435394883297
+739,unitlike,1,enchanting,three,pages,adj-pos,num-num,noun-unit_like,They consumed an enchanting three pages., good,0.9923012470856579
+740,unitlike,1,enchanting,three,acts,adj-pos,num-num,noun-unit_like,They consumed an enchanting three acts., good,0.9777722170267141
+741,unitlike,1,enchanting,three,paragraphs,adj-pos,num-num,noun-unit_like,They consumed an enchanting three paragraphs., good,0.9934930368712801
+742,unitlike,1,enchanting,three,awards,adj-pos,num-num,noun-unit_like,They consumed an enchanting three awards., good,0.8298804290125505
+743,unitlike,1,enchanting,three,meals,adj-pos,num-num,noun-unit_like,They consumed an enchanting three meals., good,0.991495647346651
+744,unitlike,1,enchanting,five,pages,adj-pos,num-num,noun-unit_like,They consumed an enchanting five pages., good,0.9943437163509408
+745,unitlike,1,enchanting,five,acts,adj-pos,num-num,noun-unit_like,They consumed an enchanting five acts., good,0.9841543061805199
+746,unitlike,1,enchanting,five,paragraphs,adj-pos,num-num,noun-unit_like,They consumed an enchanting five paragraphs., good,0.9957972434044191
+747,unitlike,1,enchanting,five,awards,adj-pos,num-num,noun-unit_like,They consumed an enchanting five awards., good,0.9724932571844492
+748,unitlike,1,enchanting,five,meals,adj-pos,num-num,noun-unit_like,They consumed an enchanting five meals., good,0.9954476007258316
+749,unitlike,1,enchanting,twenty,pages,adj-pos,num-num,noun-unit_like,They consumed an enchanting twenty pages., good,0.9976283718644332
+750,unitlike,1,enchanting,twenty,acts,adj-pos,num-num,noun-unit_like,They consumed an enchanting twenty acts., good,0.9689186259165209
+751,unitlike,1,enchanting,twenty,paragraphs,adj-pos,num-num,noun-unit_like,They consumed an enchanting twenty paragraphs., good,0.9976798728652919
+752,unitlike,1,enchanting,twenty,awards,adj-pos,num-num,noun-unit_like,They consumed an enchanting twenty awards., good,0.9902419250196037
+753,unitlike,1,enchanting,twenty,meals,adj-pos,num-num,noun-unit_like,They consumed an enchanting twenty meals., good,0.9953969357232345
+754,unitlike,1,soothing,three,pages,adj-pos,num-num,noun-unit_like,They consumed a soothing three pages., good,0.991668323416313
+755,unitlike,1,soothing,three,acts,adj-pos,num-num,noun-unit_like,They consumed a soothing three acts., good,0.9347128492162948
+756,unitlike,1,soothing,three,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a soothing three paragraphs., good,0.9958077932350389
+757,unitlike,1,soothing,three,awards,adj-pos,num-num,noun-unit_like,They consumed a soothing three awards., good,0.8910747772042571
+758,unitlike,1,soothing,three,meals,adj-pos,num-num,noun-unit_like,They consumed a soothing three meals., good,0.993100542603
+759,unitlike,1,soothing,five,pages,adj-pos,num-num,noun-unit_like,They consumed a soothing five pages., good,0.9930323545890937
+760,unitlike,1,soothing,five,acts,adj-pos,num-num,noun-unit_like,They consumed a soothing five acts., good,0.9608505252043096
+761,unitlike,1,soothing,five,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a soothing five paragraphs., good,0.9954590457513248
+762,unitlike,1,soothing,five,awards,adj-pos,num-num,noun-unit_like,They consumed a soothing five awards., good,0.9591441553411664
+763,unitlike,1,soothing,five,meals,adj-pos,num-num,noun-unit_like,They consumed a soothing five meals., good,0.9870446647826018
+764,unitlike,1,soothing,twenty,pages,adj-pos,num-num,noun-unit_like,They consumed a soothing twenty pages., good,0.9972731861292157
+765,unitlike,1,soothing,twenty,acts,adj-pos,num-num,noun-unit_like,They consumed a soothing twenty acts., good,0.8945846112082996
+766,unitlike,1,soothing,twenty,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a soothing twenty paragraphs., good,0.9975709726728258
+767,unitlike,1,soothing,twenty,awards,adj-pos,num-num,noun-unit_like,They consumed a soothing twenty awards., good,0.9720496806966827
+768,unitlike,1,soothing,twenty,meals,adj-pos,num-num,noun-unit_like,They consumed a soothing twenty meals., good,0.9820586768693456
+769,unitlike,1,charming,three,pages,adj-pos,num-num,noun-unit_like,They consumed a charming three pages., good,0.9931910794634189
+770,unitlike,1,charming,three,acts,adj-pos,num-num,noun-unit_like,They consumed a charming three acts., good,0.9365558424421161
+771,unitlike,1,charming,three,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a charming three paragraphs., good,0.9932257692540529
+772,unitlike,1,charming,three,awards,adj-pos,num-num,noun-unit_like,They consumed a charming three awards., good,0.8483087817899496
+773,unitlike,1,charming,three,meals,adj-pos,num-num,noun-unit_like,They consumed a charming three meals., good,0.9546833883436614
+774,unitlike,1,charming,five,pages,adj-pos,num-num,noun-unit_like,They consumed a charming five pages., good,0.9941892205657972
+775,unitlike,1,charming,five,acts,adj-pos,num-num,noun-unit_like,They consumed a charming five acts., good,0.921250078747155
+776,unitlike,1,charming,five,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a charming five paragraphs., good,0.9932382273630076
+777,unitlike,1,charming,five,awards,adj-pos,num-num,noun-unit_like,They consumed a charming five awards., good,0.9723313719275204
+778,unitlike,1,charming,five,meals,adj-pos,num-num,noun-unit_like,They consumed a charming five meals., good,0.9807346777569858
+779,unitlike,1,charming,twenty,pages,adj-pos,num-num,noun-unit_like,They consumed a charming twenty pages., good,0.9967441894834166
+780,unitlike,1,charming,twenty,acts,adj-pos,num-num,noun-unit_like,They consumed a charming twenty acts., good,0.8988130809346491
+781,unitlike,1,charming,twenty,paragraphs,adj-pos,num-num,noun-unit_like,They consumed a charming twenty paragraphs., good,0.9978174398556664
+782,unitlike,1,charming,twenty,awards,adj-pos,num-num,noun-unit_like,They consumed a charming twenty awards., good,0.9865844524731593
+783,unitlike,1,charming,twenty,meals,adj-pos,num-num,noun-unit_like,They consumed a charming twenty meals., good,0.989424447573169
+784,unitlike,1,disgusting,three,pages,adj-neg,num-num,noun-unit_like,They consumed a disgusting three pages., good,0.9173881718720619
+785,unitlike,1,disgusting,three,acts,adj-neg,num-num,noun-unit_like,They consumed a disgusting three acts., bad,0.4161398885293305
+786,unitlike,1,disgusting,three,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a disgusting three paragraphs., good,0.9761638066200632
+787,unitlike,1,disgusting,three,awards,adj-neg,num-num,noun-unit_like,They consumed a disgusting three awards., good,0.6497610493919339
+788,unitlike,1,disgusting,three,meals,adj-neg,num-num,noun-unit_like,They consumed a disgusting three meals., good,0.8781411106329968
+789,unitlike,1,disgusting,five,pages,adj-neg,num-num,noun-unit_like,They consumed a disgusting five pages., good,0.9541192360180499
+790,unitlike,1,disgusting,five,acts,adj-neg,num-num,noun-unit_like,They consumed a disgusting five acts., good,0.632624803537005
+791,unitlike,1,disgusting,five,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a disgusting five paragraphs., good,0.9766658459145655
+792,unitlike,1,disgusting,five,awards,adj-neg,num-num,noun-unit_like,They consumed a disgusting five awards., good,0.8633074880727866
+793,unitlike,1,disgusting,five,meals,adj-neg,num-num,noun-unit_like,They consumed a disgusting five meals., good,0.8851410837615311
+794,unitlike,1,disgusting,twenty,pages,adj-neg,num-num,noun-unit_like,They consumed a disgusting twenty pages., good,0.9683209971979468
+795,unitlike,1,disgusting,twenty,acts,adj-neg,num-num,noun-unit_like,They consumed a disgusting twenty acts., bad,0.27417727179548534
+796,unitlike,1,disgusting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a disgusting twenty paragraphs., good,0.985465677001931
+797,unitlike,1,disgusting,twenty,awards,adj-neg,num-num,noun-unit_like,They consumed a disgusting twenty awards., good,0.7610016293944077
+798,unitlike,1,disgusting,twenty,meals,adj-neg,num-num,noun-unit_like,They consumed a disgusting twenty meals., good,0.8682587062971937
+799,unitlike,1,uninviting,three,pages,adj-neg,num-num,noun-unit_like,They consumed an uninviting three pages., good,0.9052241956158011
+800,unitlike,1,uninviting,three,acts,adj-neg,num-num,noun-unit_like,They consumed an uninviting three acts., good,0.5504312428912987
+801,unitlike,1,uninviting,three,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an uninviting three paragraphs., good,0.9097524076473432
+802,unitlike,1,uninviting,three,awards,adj-neg,num-num,noun-unit_like,They consumed an uninviting three awards., good,0.5191820690067376
+803,unitlike,1,uninviting,three,meals,adj-neg,num-num,noun-unit_like,They consumed an uninviting three meals., good,0.799546793472469
+804,unitlike,1,uninviting,five,pages,adj-neg,num-num,noun-unit_like,They consumed an uninviting five pages., good,0.9033116660379645
+805,unitlike,1,uninviting,five,acts,adj-neg,num-num,noun-unit_like,They consumed an uninviting five acts., good,0.5751927367511708
+806,unitlike,1,uninviting,five,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an uninviting five paragraphs., good,0.8970511994613768
+807,unitlike,1,uninviting,five,awards,adj-neg,num-num,noun-unit_like,They consumed an uninviting five awards., good,0.6456158768074631
+808,unitlike,1,uninviting,five,meals,adj-neg,num-num,noun-unit_like,They consumed an uninviting five meals., good,0.770841155992936
+809,unitlike,1,uninviting,twenty,pages,adj-neg,num-num,noun-unit_like,They consumed an uninviting twenty pages., good,0.9555026518045586
+810,unitlike,1,uninviting,twenty,acts,adj-neg,num-num,noun-unit_like,They consumed an uninviting twenty acts., bad,0.26298644880912503
+811,unitlike,1,uninviting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an uninviting twenty paragraphs., good,0.935481457888967
+812,unitlike,1,uninviting,twenty,awards,adj-neg,num-num,noun-unit_like,They consumed an uninviting twenty awards., good,0.633595335759313
+813,unitlike,1,uninviting,twenty,meals,adj-neg,num-num,noun-unit_like,They consumed an uninviting twenty meals., good,0.7618598226462432
+814,unitlike,1,haunting,three,pages,adj-neg,num-num,noun-unit_like,They consumed a haunting three pages., good,0.9970285062529559
+815,unitlike,1,haunting,three,acts,adj-neg,num-num,noun-unit_like,They consumed a haunting three acts., good,0.9847216387527884
+816,unitlike,1,haunting,three,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a haunting three paragraphs., good,0.9982483825755738
+817,unitlike,1,haunting,three,awards,adj-neg,num-num,noun-unit_like,They consumed a haunting three awards., good,0.9802955119169556
+818,unitlike,1,haunting,three,meals,adj-neg,num-num,noun-unit_like,They consumed a haunting three meals., good,0.9954893237954843
+819,unitlike,1,haunting,five,pages,adj-neg,num-num,noun-unit_like,They consumed a haunting five pages., good,0.9982423042596777
+820,unitlike,1,haunting,five,acts,adj-neg,num-num,noun-unit_like,They consumed a haunting five acts., good,0.9907294906089446
+821,unitlike,1,haunting,five,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a haunting five paragraphs., good,0.9985561240932915
+822,unitlike,1,haunting,five,awards,adj-neg,num-num,noun-unit_like,They consumed a haunting five awards., good,0.992906707303021
+823,unitlike,1,haunting,five,meals,adj-neg,num-num,noun-unit_like,They consumed a haunting five meals., good,0.997062544190729
+824,unitlike,1,haunting,twenty,pages,adj-neg,num-num,noun-unit_like,They consumed a haunting twenty pages., good,0.9989751463216169
+825,unitlike,1,haunting,twenty,acts,adj-neg,num-num,noun-unit_like,They consumed a haunting twenty acts., good,0.9850877258491755
+826,unitlike,1,haunting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a haunting twenty paragraphs., good,0.9992438434305771
+827,unitlike,1,haunting,twenty,awards,adj-neg,num-num,noun-unit_like,They consumed a haunting twenty awards., good,0.9965895740586903
+828,unitlike,1,haunting,twenty,meals,adj-neg,num-num,noun-unit_like,They consumed a haunting twenty meals., good,0.9964611248312483
+829,unitlike,1,hideous,three,pages,adj-neg,num-num,noun-unit_like,They consumed a hideous three pages., good,0.9583088524640364
+830,unitlike,1,hideous,three,acts,adj-neg,num-num,noun-unit_like,They consumed a hideous three acts., good,0.9329885410901306
+831,unitlike,1,hideous,three,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a hideous three paragraphs., good,0.9645519731320268
+832,unitlike,1,hideous,three,awards,adj-neg,num-num,noun-unit_like,They consumed a hideous three awards., good,0.7915520742296912
+833,unitlike,1,hideous,three,meals,adj-neg,num-num,noun-unit_like,They consumed a hideous three meals., good,0.7600430671535415
+834,unitlike,1,hideous,five,pages,adj-neg,num-num,noun-unit_like,They consumed a hideous five pages., good,0.9774659700272185
+835,unitlike,1,hideous,five,acts,adj-neg,num-num,noun-unit_like,They consumed a hideous five acts., good,0.9706204925048257
+836,unitlike,1,hideous,five,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a hideous five paragraphs., good,0.9791999776978149
+837,unitlike,1,hideous,five,awards,adj-neg,num-num,noun-unit_like,They consumed a hideous five awards., good,0.9267660300882484
+838,unitlike,1,hideous,five,meals,adj-neg,num-num,noun-unit_like,They consumed a hideous five meals., good,0.8958517430894976
+839,unitlike,1,hideous,twenty,pages,adj-neg,num-num,noun-unit_like,They consumed a hideous twenty pages., good,0.9909127162193291
+840,unitlike,1,hideous,twenty,acts,adj-neg,num-num,noun-unit_like,They consumed a hideous twenty acts., good,0.8229458552162284
+841,unitlike,1,hideous,twenty,paragraphs,adj-neg,num-num,noun-unit_like,They consumed a hideous twenty paragraphs., good,0.9900682374615509
+842,unitlike,1,hideous,twenty,awards,adj-neg,num-num,noun-unit_like,They consumed a hideous twenty awards., good,0.9178281099107037
+843,unitlike,1,hideous,twenty,meals,adj-neg,num-num,noun-unit_like,They consumed a hideous twenty meals., good,0.9276003697421391
+844,unitlike,1,ugly,three,pages,adj-neg,num-num,noun-unit_like,They consumed an ugly three pages., good,0.6234480545519627
+845,unitlike,1,ugly,three,acts,adj-neg,num-num,noun-unit_like,They consumed an ugly three acts., bad,0.1291805551482874
+846,unitlike,1,ugly,three,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an ugly three paragraphs., good,0.7208988952732158
+847,unitlike,1,ugly,three,awards,adj-neg,num-num,noun-unit_like,They consumed an ugly three awards., bad,0.20276801518138243
+848,unitlike,1,ugly,three,meals,adj-neg,num-num,noun-unit_like,They consumed an ugly three meals., bad,0.04405633453032953
+849,unitlike,1,ugly,five,pages,adj-neg,num-num,noun-unit_like,They consumed an ugly five pages., good,0.7856259267533559
+850,unitlike,1,ugly,five,acts,adj-neg,num-num,noun-unit_like,They consumed an ugly five acts., bad,0.15824765072217428
+851,unitlike,1,ugly,five,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an ugly five paragraphs., good,0.7738762050347767
+852,unitlike,1,ugly,five,awards,adj-neg,num-num,noun-unit_like,They consumed an ugly five awards., bad,0.4947360939652651
+853,unitlike,1,ugly,five,meals,adj-neg,num-num,noun-unit_like,They consumed an ugly five meals., bad,0.08532842722701961
+854,unitlike,1,ugly,twenty,pages,adj-neg,num-num,noun-unit_like,They consumed an ugly twenty pages., good,0.9351991665728365
+855,unitlike,1,ugly,twenty,acts,adj-neg,num-num,noun-unit_like,They consumed an ugly twenty acts., bad,0.10173188302337188
+856,unitlike,1,ugly,twenty,paragraphs,adj-neg,num-num,noun-unit_like,They consumed an ugly twenty paragraphs., good,0.8306964114976492
+857,unitlike,1,ugly,twenty,awards,adj-neg,num-num,noun-unit_like,They consumed an ugly twenty awards., bad,0.47357928629412116
+858,unitlike,1,ugly,twenty,meals,adj-neg,num-num,noun-unit_like,They consumed an ugly twenty meals., bad,0.30015773146934843
+859,unitlike,1,mere,three,pages,adj-quant,num-num,noun-unit_like,They consumed a mere three pages., good,0.9968215594710599
+860,unitlike,1,mere,three,acts,adj-quant,num-num,noun-unit_like,They consumed a mere three acts., good,0.9812647442609379
+861,unitlike,1,mere,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a mere three paragraphs., good,0.998240396620457
+862,unitlike,1,mere,three,awards,adj-quant,num-num,noun-unit_like,They consumed a mere three awards., good,0.9920252930461293
+863,unitlike,1,mere,three,meals,adj-quant,num-num,noun-unit_like,They consumed a mere three meals., good,0.9982944571939875
+864,unitlike,1,mere,five,pages,adj-quant,num-num,noun-unit_like,They consumed a mere five pages., good,0.9963034702497843
+865,unitlike,1,mere,five,acts,adj-quant,num-num,noun-unit_like,They consumed a mere five acts., good,0.9769190441899995
+866,unitlike,1,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a mere five paragraphs., good,0.9976728990075866
+867,unitlike,1,mere,five,awards,adj-quant,num-num,noun-unit_like,They consumed a mere five awards., good,0.9905568155639398
+868,unitlike,1,mere,five,meals,adj-quant,num-num,noun-unit_like,They consumed a mere five meals., good,0.9974353142405311
+869,unitlike,1,mere,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a mere twenty pages., good,0.9971462267744942
+870,unitlike,1,mere,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a mere twenty acts., good,0.8190361720394719
+871,unitlike,1,mere,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a mere twenty paragraphs., good,0.9978440237626724
+872,unitlike,1,mere,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a mere twenty awards., good,0.9851737937682129
+873,unitlike,1,mere,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a mere twenty meals., good,0.996922231071498
+874,unitlike,1,staggering,three,pages,adj-quant,num-num,noun-unit_like,They consumed a staggering three pages., good,0.9987560991867738
+875,unitlike,1,staggering,three,acts,adj-quant,num-num,noun-unit_like,They consumed a staggering three acts., good,0.9968286500873951
+876,unitlike,1,staggering,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a staggering three paragraphs., good,0.998779998607538
+877,unitlike,1,staggering,three,awards,adj-quant,num-num,noun-unit_like,They consumed a staggering three awards., good,0.9983672967125679
+878,unitlike,1,staggering,three,meals,adj-quant,num-num,noun-unit_like,They consumed a staggering three meals., good,0.9990409480445774
+879,unitlike,1,staggering,five,pages,adj-quant,num-num,noun-unit_like,They consumed a staggering five pages., good,0.9989748472285028
+880,unitlike,1,staggering,five,acts,adj-quant,num-num,noun-unit_like,They consumed a staggering five acts., good,0.9984334565122202
+881,unitlike,1,staggering,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a staggering five paragraphs., good,0.9991902003048962
+882,unitlike,1,staggering,five,awards,adj-quant,num-num,noun-unit_like,They consumed a staggering five awards., good,0.9992158885062106
+883,unitlike,1,staggering,five,meals,adj-quant,num-num,noun-unit_like,They consumed a staggering five meals., good,0.999475525734736
+884,unitlike,1,staggering,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a staggering twenty pages., good,0.9993210305041762
+885,unitlike,1,staggering,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a staggering twenty acts., good,0.9871002729907306
+886,unitlike,1,staggering,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a staggering twenty paragraphs., good,0.999619413081582
+887,unitlike,1,staggering,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a staggering twenty awards., good,0.9993010031721848
+888,unitlike,1,staggering,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a staggering twenty meals., good,0.9994300485840499
+889,unitlike,1,whopping,three,pages,adj-quant,num-num,noun-unit_like,They consumed a whopping three pages., good,0.9972486299755214
+890,unitlike,1,whopping,three,acts,adj-quant,num-num,noun-unit_like,They consumed a whopping three acts., good,0.992963629992473
+891,unitlike,1,whopping,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a whopping three paragraphs., good,0.9968285312654271
+892,unitlike,1,whopping,three,awards,adj-quant,num-num,noun-unit_like,They consumed a whopping three awards., good,0.9967993856214611
+893,unitlike,1,whopping,three,meals,adj-quant,num-num,noun-unit_like,They consumed a whopping three meals., good,0.9982231708333279
+894,unitlike,1,whopping,five,pages,adj-quant,num-num,noun-unit_like,They consumed a whopping five pages., good,0.9975822374076074
+895,unitlike,1,whopping,five,acts,adj-quant,num-num,noun-unit_like,They consumed a whopping five acts., good,0.9952531679870193
+896,unitlike,1,whopping,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a whopping five paragraphs., good,0.9980654555479452
+897,unitlike,1,whopping,five,awards,adj-quant,num-num,noun-unit_like,They consumed a whopping five awards., good,0.9981792405971922
+898,unitlike,1,whopping,five,meals,adj-quant,num-num,noun-unit_like,They consumed a whopping five meals., good,0.9987437000063955
+899,unitlike,1,whopping,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a whopping twenty pages., good,0.9978568398542633
+900,unitlike,1,whopping,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a whopping twenty acts., good,0.9681341399282973
+901,unitlike,1,whopping,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a whopping twenty paragraphs., good,0.997867744992326
+902,unitlike,1,whopping,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a whopping twenty awards., good,0.9977931232411758
+903,unitlike,1,whopping,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a whopping twenty meals., good,0.9980405424484015
+904,unitlike,1,hefty,three,pages,adj-quant,num-num,noun-unit_like,They consumed a hefty three pages., good,0.9980203347272938
+905,unitlike,1,hefty,three,acts,adj-quant,num-num,noun-unit_like,They consumed a hefty three acts., good,0.9945164498503711
+906,unitlike,1,hefty,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a hefty three paragraphs., good,0.9983960253445383
+907,unitlike,1,hefty,three,awards,adj-quant,num-num,noun-unit_like,They consumed a hefty three awards., good,0.9904227646569305
+908,unitlike,1,hefty,three,meals,adj-quant,num-num,noun-unit_like,They consumed a hefty three meals., good,0.9989079716973533
+909,unitlike,1,hefty,five,pages,adj-quant,num-num,noun-unit_like,They consumed a hefty five pages., good,0.9983766530553676
+910,unitlike,1,hefty,five,acts,adj-quant,num-num,noun-unit_like,They consumed a hefty five acts., good,0.9966128792793946
+911,unitlike,1,hefty,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a hefty five paragraphs., good,0.9990700965284558
+912,unitlike,1,hefty,five,awards,adj-quant,num-num,noun-unit_like,They consumed a hefty five awards., good,0.9979651405393545
+913,unitlike,1,hefty,five,meals,adj-quant,num-num,noun-unit_like,They consumed a hefty five meals., good,0.9991783978999881
+914,unitlike,1,hefty,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a hefty twenty pages., good,0.9990133541554052
+915,unitlike,1,hefty,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a hefty twenty acts., good,0.929666402662528
+916,unitlike,1,hefty,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a hefty twenty paragraphs., good,0.9993775371104552
+917,unitlike,1,hefty,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a hefty twenty awards., good,0.9979355765593698
+918,unitlike,1,hefty,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a hefty twenty meals., good,0.9989209053418289
+919,unitlike,1,paltry,three,pages,adj-quant,num-num,noun-unit_like,They consumed a paltry three pages., good,0.9964120700582786
+920,unitlike,1,paltry,three,acts,adj-quant,num-num,noun-unit_like,They consumed a paltry three acts., good,0.9731936665058283
+921,unitlike,1,paltry,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a paltry three paragraphs., good,0.9972185274827162
+922,unitlike,1,paltry,three,awards,adj-quant,num-num,noun-unit_like,They consumed a paltry three awards., good,0.9906520076948021
+923,unitlike,1,paltry,three,meals,adj-quant,num-num,noun-unit_like,They consumed a paltry three meals., good,0.9960980687940881
+924,unitlike,1,paltry,five,pages,adj-quant,num-num,noun-unit_like,They consumed a paltry five pages., good,0.9962796868768511
+925,unitlike,1,paltry,five,acts,adj-quant,num-num,noun-unit_like,They consumed a paltry five acts., good,0.975803377835517
+926,unitlike,1,paltry,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a paltry five paragraphs., good,0.9970015081832786
+927,unitlike,1,paltry,five,awards,adj-quant,num-num,noun-unit_like,They consumed a paltry five awards., good,0.9911199605283035
+928,unitlike,1,paltry,five,meals,adj-quant,num-num,noun-unit_like,They consumed a paltry five meals., good,0.9942974033850719
+929,unitlike,1,paltry,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a paltry twenty pages., good,0.9962553086096895
+930,unitlike,1,paltry,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a paltry twenty acts., good,0.8265778861870717
+931,unitlike,1,paltry,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a paltry twenty paragraphs., good,0.9962018426160149
+932,unitlike,1,paltry,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a paltry twenty awards., good,0.9647073064779593
+933,unitlike,1,paltry,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a paltry twenty meals., good,0.9925263125369203
+934,unitlike,1,meager,three,pages,adj-quant,num-num,noun-unit_like,They consumed a meager three pages., good,0.995589402779189
+935,unitlike,1,meager,three,acts,adj-quant,num-num,noun-unit_like,They consumed a meager three acts., good,0.9803552951010194
+936,unitlike,1,meager,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a meager three paragraphs., good,0.9968772294226427
+937,unitlike,1,meager,three,awards,adj-quant,num-num,noun-unit_like,They consumed a meager three awards., good,0.9881687482447333
+938,unitlike,1,meager,three,meals,adj-quant,num-num,noun-unit_like,They consumed a meager three meals., good,0.9974942616165791
+939,unitlike,1,meager,five,pages,adj-quant,num-num,noun-unit_like,They consumed a meager five pages., good,0.9952740897223398
+940,unitlike,1,meager,five,acts,adj-quant,num-num,noun-unit_like,They consumed a meager five acts., good,0.9736153122282766
+941,unitlike,1,meager,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a meager five paragraphs., good,0.9960786987597691
+942,unitlike,1,meager,five,awards,adj-quant,num-num,noun-unit_like,They consumed a meager five awards., good,0.9887929916860256
+943,unitlike,1,meager,five,meals,adj-quant,num-num,noun-unit_like,They consumed a meager five meals., good,0.9959065022966874
+944,unitlike,1,meager,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a meager twenty pages., good,0.996239452635254
+945,unitlike,1,meager,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a meager twenty acts., good,0.8573169003764646
+946,unitlike,1,meager,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a meager twenty paragraphs., good,0.9962697332954776
+947,unitlike,1,meager,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a meager twenty awards., good,0.9728176805771538
+948,unitlike,1,meager,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a meager twenty meals., good,0.9924794638200993
+949,unitlike,1,extra,three,pages,adj-quant,num-num,noun-unit_like,They consumed an extra three pages., good,0.9639853708052181
+950,unitlike,1,extra,three,acts,adj-quant,num-num,noun-unit_like,They consumed an extra three acts., good,0.49960374737911895
+951,unitlike,1,extra,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed an extra three paragraphs., good,0.9782556082172982
+952,unitlike,1,extra,three,awards,adj-quant,num-num,noun-unit_like,They consumed an extra three awards., good,0.9205492557162219
+953,unitlike,1,extra,three,meals,adj-quant,num-num,noun-unit_like,They consumed an extra three meals., good,0.9746157053891263
+954,unitlike,1,extra,five,pages,adj-quant,num-num,noun-unit_like,They consumed an extra five pages., good,0.9918076784730243
+955,unitlike,1,extra,five,acts,adj-quant,num-num,noun-unit_like,They consumed an extra five acts., bad,0.4546874377518709
+956,unitlike,1,extra,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed an extra five paragraphs., good,0.9845825802742014
+957,unitlike,1,extra,five,awards,adj-quant,num-num,noun-unit_like,They consumed an extra five awards., good,0.9091347790624136
+958,unitlike,1,extra,five,meals,adj-quant,num-num,noun-unit_like,They consumed an extra five meals., good,0.9880107388618194
+959,unitlike,1,extra,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed an extra twenty pages., good,0.9880608648821452
+960,unitlike,1,extra,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed an extra twenty acts., bad,0.1827419227695639
+961,unitlike,1,extra,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed an extra twenty paragraphs., good,0.9824791871749908
+962,unitlike,1,extra,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed an extra twenty awards., good,0.7857318441237414
+963,unitlike,1,extra,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed an extra twenty meals., good,0.9649689676846176
+964,unitlike,1,measly,three,pages,adj-quant,num-num,noun-unit_like,They consumed a measly three pages., good,0.9796169726027126
+965,unitlike,1,measly,three,acts,adj-quant,num-num,noun-unit_like,They consumed a measly three acts., good,0.8867657978831857
+966,unitlike,1,measly,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a measly three paragraphs., good,0.9762884355514162
+967,unitlike,1,measly,three,awards,adj-quant,num-num,noun-unit_like,They consumed a measly three awards., good,0.9557101387979297
+968,unitlike,1,measly,three,meals,adj-quant,num-num,noun-unit_like,They consumed a measly three meals., good,0.9775213440653816
+969,unitlike,1,measly,five,pages,adj-quant,num-num,noun-unit_like,They consumed a measly five pages., good,0.9741929931985625
+970,unitlike,1,measly,five,acts,adj-quant,num-num,noun-unit_like,They consumed a measly five acts., good,0.8121595645980293
+971,unitlike,1,measly,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a measly five paragraphs., good,0.9793473192106834
+972,unitlike,1,measly,five,awards,adj-quant,num-num,noun-unit_like,They consumed a measly five awards., good,0.9447247875593877
+973,unitlike,1,measly,five,meals,adj-quant,num-num,noun-unit_like,They consumed a measly five meals., good,0.9708837041686603
+974,unitlike,1,measly,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a measly twenty pages., good,0.9792425963458832
+975,unitlike,1,measly,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a measly twenty acts., bad,0.4883393465945193
+976,unitlike,1,measly,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a measly twenty paragraphs., good,0.9762172100980001
+977,unitlike,1,measly,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a measly twenty awards., good,0.8927936587811446
+978,unitlike,1,measly,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a measly twenty meals., good,0.9547749984286132
+979,unitlike,1,substantial,three,pages,adj-quant,num-num,noun-unit_like,They consumed a substantial three pages., good,0.9970169421851869
+980,unitlike,1,substantial,three,acts,adj-quant,num-num,noun-unit_like,They consumed a substantial three acts., good,0.821289798068582
+981,unitlike,1,substantial,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a substantial three paragraphs., good,0.9882781277794112
+982,unitlike,1,substantial,three,awards,adj-quant,num-num,noun-unit_like,They consumed a substantial three awards., good,0.7371551156075125
+983,unitlike,1,substantial,three,meals,adj-quant,num-num,noun-unit_like,They consumed a substantial three meals., good,0.9914176256581383
+984,unitlike,1,substantial,five,pages,adj-quant,num-num,noun-unit_like,They consumed a substantial five pages., good,0.9985197670271363
+985,unitlike,1,substantial,five,acts,adj-quant,num-num,noun-unit_like,They consumed a substantial five acts., good,0.8457962479919449
+986,unitlike,1,substantial,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a substantial five paragraphs., good,0.9882728830013041
+987,unitlike,1,substantial,five,awards,adj-quant,num-num,noun-unit_like,They consumed a substantial five awards., good,0.9075839320612196
+988,unitlike,1,substantial,five,meals,adj-quant,num-num,noun-unit_like,They consumed a substantial five meals., good,0.9972662122222093
+989,unitlike,1,substantial,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a substantial twenty pages., good,0.9983071532841381
+990,unitlike,1,substantial,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a substantial twenty acts., good,0.6987522531319713
+991,unitlike,1,substantial,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a substantial twenty paragraphs., good,0.9958443337778612
+992,unitlike,1,substantial,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a substantial twenty awards., good,0.8086555622505108
+993,unitlike,1,substantial,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a substantial twenty meals., good,0.9936841294904634
+994,unitlike,1,record-setting,three,pages,adj-quant,num-num,noun-unit_like,They consumed a record-setting three pages., good,0.9899122521239284
+995,unitlike,1,record-setting,three,acts,adj-quant,num-num,noun-unit_like,They consumed a record-setting three acts., good,0.9390294285088068
+996,unitlike,1,record-setting,three,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a record-setting three paragraphs., good,0.9962067902647525
+997,unitlike,1,record-setting,three,awards,adj-quant,num-num,noun-unit_like,They consumed a record-setting three awards., good,0.9609178207273358
+998,unitlike,1,record-setting,three,meals,adj-quant,num-num,noun-unit_like,They consumed a record-setting three meals., good,0.99803327105091
+999,unitlike,1,record-setting,five,pages,adj-quant,num-num,noun-unit_like,They consumed a record-setting five pages., good,0.9917593974586222
+1000,unitlike,1,record-setting,five,acts,adj-quant,num-num,noun-unit_like,They consumed a record-setting five acts., good,0.9565518724989126
+1001,unitlike,1,record-setting,five,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a record-setting five paragraphs., good,0.9967756025708893
+1002,unitlike,1,record-setting,five,awards,adj-quant,num-num,noun-unit_like,They consumed a record-setting five awards., good,0.9860651189504376
+1003,unitlike,1,record-setting,five,meals,adj-quant,num-num,noun-unit_like,They consumed a record-setting five meals., good,0.9988613587444592
+1004,unitlike,1,record-setting,twenty,pages,adj-quant,num-num,noun-unit_like,They consumed a record-setting twenty pages., good,0.9958650132976693
+1005,unitlike,1,record-setting,twenty,acts,adj-quant,num-num,noun-unit_like,They consumed a record-setting twenty acts., good,0.8409616840795903
+1006,unitlike,1,record-setting,twenty,paragraphs,adj-quant,num-num,noun-unit_like,They consumed a record-setting twenty paragraphs., good,0.9980514471987454
+1007,unitlike,1,record-setting,twenty,awards,adj-quant,num-num,noun-unit_like,They consumed a record-setting twenty awards., good,0.9832535098845065
+1008,unitlike,1,record-setting,twenty,meals,adj-quant,num-num,noun-unit_like,They consumed a record-setting twenty meals., good,0.9991891272951001
+1009,unitlike,2,astonishing,three,pages,adj-ambig,num-num,noun-unit_like,It lasted an astonishing three pages., good,0.998969364569894
+1010,unitlike,2,astonishing,three,acts,adj-ambig,num-num,noun-unit_like,It lasted an astonishing three acts., good,0.9992061145439413
+1011,unitlike,2,astonishing,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an astonishing three paragraphs., good,0.998162612866261
+1012,unitlike,2,astonishing,three,awards,adj-ambig,num-num,noun-unit_like,It lasted an astonishing three awards., good,0.8345109536189541
+1013,unitlike,2,astonishing,three,meals,adj-ambig,num-num,noun-unit_like,It lasted an astonishing three meals., good,0.9982499932506385
+1014,unitlike,2,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,It lasted an astonishing five pages., good,0.9991631969151449
+1015,unitlike,2,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,It lasted an astonishing five acts., good,0.9994942441376348
+1016,unitlike,2,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an astonishing five paragraphs., good,0.9985265021655315
+1017,unitlike,2,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,It lasted an astonishing five awards., good,0.9108727346491233
+1018,unitlike,2,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,It lasted an astonishing five meals., good,0.9989393845505796
+1019,unitlike,2,astonishing,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted an astonishing twenty pages., good,0.9993576896696539
+1020,unitlike,2,astonishing,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted an astonishing twenty acts., good,0.9993712192255363
+1021,unitlike,2,astonishing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an astonishing twenty paragraphs., good,0.9989443896490108
+1022,unitlike,2,astonishing,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted an astonishing twenty awards., good,0.992008362294932
+1023,unitlike,2,astonishing,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted an astonishing twenty meals., good,0.9988394861176799
+1024,unitlike,2,incredible,three,pages,adj-ambig,num-num,noun-unit_like,It lasted an incredible three pages., good,0.9970050837361989
+1025,unitlike,2,incredible,three,acts,adj-ambig,num-num,noun-unit_like,It lasted an incredible three acts., good,0.9974586774415136
+1026,unitlike,2,incredible,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an incredible three paragraphs., good,0.9962709253329266
+1027,unitlike,2,incredible,three,awards,adj-ambig,num-num,noun-unit_like,It lasted an incredible three awards., bad,0.07874144571313302
+1028,unitlike,2,incredible,three,meals,adj-ambig,num-num,noun-unit_like,It lasted an incredible three meals., good,0.9612507480087858
+1029,unitlike,2,incredible,five,pages,adj-ambig,num-num,noun-unit_like,It lasted an incredible five pages., good,0.9975362226937433
+1030,unitlike,2,incredible,five,acts,adj-ambig,num-num,noun-unit_like,It lasted an incredible five acts., good,0.9981260142081638
+1031,unitlike,2,incredible,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an incredible five paragraphs., good,0.9974102774322227
+1032,unitlike,2,incredible,five,awards,adj-ambig,num-num,noun-unit_like,It lasted an incredible five awards., bad,0.17770188552739052
+1033,unitlike,2,incredible,five,meals,adj-ambig,num-num,noun-unit_like,It lasted an incredible five meals., good,0.9845267904829693
+1034,unitlike,2,incredible,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted an incredible twenty pages., good,0.9977418589452621
+1035,unitlike,2,incredible,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted an incredible twenty acts., good,0.998159035557683
+1036,unitlike,2,incredible,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an incredible twenty paragraphs., good,0.9979907710084045
+1037,unitlike,2,incredible,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted an incredible twenty awards., good,0.7507628620482888
+1038,unitlike,2,incredible,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted an incredible twenty meals., good,0.9662858186629166
+1039,unitlike,2,impressive,three,pages,adj-ambig,num-num,noun-unit_like,It lasted an impressive three pages., good,0.9984397760169391
+1040,unitlike,2,impressive,three,acts,adj-ambig,num-num,noun-unit_like,It lasted an impressive three acts., good,0.9989932644985563
+1041,unitlike,2,impressive,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an impressive three paragraphs., good,0.998335227972827
+1042,unitlike,2,impressive,three,awards,adj-ambig,num-num,noun-unit_like,It lasted an impressive three awards., bad,0.47230082396569606
+1043,unitlike,2,impressive,three,meals,adj-ambig,num-num,noun-unit_like,It lasted an impressive three meals., good,0.9872151317507448
+1044,unitlike,2,impressive,five,pages,adj-ambig,num-num,noun-unit_like,It lasted an impressive five pages., good,0.9987279038012057
+1045,unitlike,2,impressive,five,acts,adj-ambig,num-num,noun-unit_like,It lasted an impressive five acts., good,0.9993306264305114
+1046,unitlike,2,impressive,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an impressive five paragraphs., good,0.9987717738878699
+1047,unitlike,2,impressive,five,awards,adj-ambig,num-num,noun-unit_like,It lasted an impressive five awards., good,0.892107185950108
+1048,unitlike,2,impressive,five,meals,adj-ambig,num-num,noun-unit_like,It lasted an impressive five meals., good,0.9957995098415243
+1049,unitlike,2,impressive,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted an impressive twenty pages., good,0.999216723221536
+1050,unitlike,2,impressive,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted an impressive twenty acts., good,0.9991839999092978
+1051,unitlike,2,impressive,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an impressive twenty paragraphs., good,0.9992532622475112
+1052,unitlike,2,impressive,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted an impressive twenty awards., good,0.9766594683074146
+1053,unitlike,2,impressive,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted an impressive twenty meals., good,0.9965851623657288
+1054,unitlike,2,disappointing,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a disappointing three pages., good,0.9981181463112418
+1055,unitlike,2,disappointing,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a disappointing three acts., good,0.9978617279677515
+1056,unitlike,2,disappointing,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a disappointing three paragraphs., good,0.9974135572218304
+1057,unitlike,2,disappointing,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a disappointing three awards., good,0.9391103068401802
+1058,unitlike,2,disappointing,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a disappointing three meals., good,0.9758977328256383
+1059,unitlike,2,disappointing,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a disappointing five pages., good,0.9983948334600746
+1060,unitlike,2,disappointing,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a disappointing five acts., good,0.998453424382585
+1061,unitlike,2,disappointing,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a disappointing five paragraphs., good,0.9978784763193325
+1062,unitlike,2,disappointing,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a disappointing five awards., good,0.9654038449600525
+1063,unitlike,2,disappointing,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a disappointing five meals., good,0.9775005397000064
+1064,unitlike,2,disappointing,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a disappointing twenty pages., good,0.9983360029807653
+1065,unitlike,2,disappointing,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a disappointing twenty acts., good,0.9970494887392496
+1066,unitlike,2,disappointing,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a disappointing twenty paragraphs., good,0.9982194763163872
+1067,unitlike,2,disappointing,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a disappointing twenty awards., good,0.8538188987803937
+1068,unitlike,2,disappointing,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a disappointing twenty meals., good,0.9425100062551393
+1069,unitlike,2,surprising,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a surprising three pages., good,0.9981788836483596
+1070,unitlike,2,surprising,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a surprising three acts., good,0.998253687980351
+1071,unitlike,2,surprising,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a surprising three paragraphs., good,0.9978922451415396
+1072,unitlike,2,surprising,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a surprising three awards., good,0.7664408366621791
+1073,unitlike,2,surprising,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a surprising three meals., good,0.9944830721510456
+1074,unitlike,2,surprising,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a surprising five pages., good,0.9980039447731279
+1075,unitlike,2,surprising,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a surprising five acts., good,0.998769152714666
+1076,unitlike,2,surprising,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a surprising five paragraphs., good,0.9985093945575226
+1077,unitlike,2,surprising,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a surprising five awards., good,0.7103205513918432
+1078,unitlike,2,surprising,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a surprising five meals., good,0.995760049080429
+1079,unitlike,2,surprising,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a surprising twenty pages., good,0.9988243464227925
+1080,unitlike,2,surprising,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a surprising twenty acts., good,0.998650896659233
+1081,unitlike,2,surprising,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a surprising twenty paragraphs., good,0.9989881408750403
+1082,unitlike,2,surprising,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a surprising twenty awards., good,0.9604920026927651
+1083,unitlike,2,surprising,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a surprising twenty meals., good,0.9946662975723886
+1084,unitlike,2,devastating,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a devastating three pages., good,0.9962109636826008
+1085,unitlike,2,devastating,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a devastating three acts., good,0.9964510532509739
+1086,unitlike,2,devastating,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a devastating three paragraphs., good,0.9949707008888109
+1087,unitlike,2,devastating,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a devastating three awards., good,0.6836752191015614
+1088,unitlike,2,devastating,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a devastating three meals., good,0.9667259364367712
+1089,unitlike,2,devastating,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a devastating five pages., good,0.9964765026369221
+1090,unitlike,2,devastating,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a devastating five acts., good,0.9975211430526446
+1091,unitlike,2,devastating,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a devastating five paragraphs., good,0.9951219180761719
+1092,unitlike,2,devastating,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a devastating five awards., good,0.8238549468046257
+1093,unitlike,2,devastating,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a devastating five meals., good,0.9697894935452084
+1094,unitlike,2,devastating,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a devastating twenty pages., good,0.9977910955280511
+1095,unitlike,2,devastating,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a devastating twenty acts., good,0.9968249580402783
+1096,unitlike,2,devastating,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a devastating twenty paragraphs., good,0.996907926337034
+1097,unitlike,2,devastating,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a devastating twenty awards., good,0.8376918055098821
+1098,unitlike,2,devastating,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a devastating twenty meals., good,0.9704369140895582
+1099,unitlike,2,pathetic,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a pathetic three pages., good,0.9953869827990339
+1100,unitlike,2,pathetic,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a pathetic three acts., good,0.9971177952503265
+1101,unitlike,2,pathetic,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a pathetic three paragraphs., good,0.9925409160810007
+1102,unitlike,2,pathetic,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a pathetic three awards., good,0.9868859948082163
+1103,unitlike,2,pathetic,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a pathetic three meals., good,0.9969873198560735
+1104,unitlike,2,pathetic,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a pathetic five pages., good,0.9965295522727786
+1105,unitlike,2,pathetic,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a pathetic five acts., good,0.9974115891273411
+1106,unitlike,2,pathetic,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a pathetic five paragraphs., good,0.993492083813867
+1107,unitlike,2,pathetic,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a pathetic five awards., good,0.9856868698840514
+1108,unitlike,2,pathetic,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a pathetic five meals., good,0.9965611432585728
+1109,unitlike,2,pathetic,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a pathetic twenty pages., good,0.9963488881771863
+1110,unitlike,2,pathetic,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a pathetic twenty acts., good,0.9968067172075845
+1111,unitlike,2,pathetic,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a pathetic twenty paragraphs., good,0.9941614436052731
+1112,unitlike,2,pathetic,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a pathetic twenty awards., good,0.9614877380237894
+1113,unitlike,2,pathetic,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a pathetic twenty meals., good,0.9920576593913296
+1114,unitlike,2,remarkable,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a remarkable three pages., good,0.9985562412239318
+1115,unitlike,2,remarkable,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a remarkable three acts., good,0.9990367769374419
+1116,unitlike,2,remarkable,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a remarkable three paragraphs., good,0.9982887374822805
+1117,unitlike,2,remarkable,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a remarkable three awards., bad,0.3311052462572609
+1118,unitlike,2,remarkable,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a remarkable three meals., good,0.989949147831043
+1119,unitlike,2,remarkable,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a remarkable five pages., good,0.9989936227376052
+1120,unitlike,2,remarkable,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a remarkable five acts., good,0.9994290945985409
+1121,unitlike,2,remarkable,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a remarkable five paragraphs., good,0.9987082951697847
+1122,unitlike,2,remarkable,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a remarkable five awards., good,0.6054211787120806
+1123,unitlike,2,remarkable,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a remarkable five meals., good,0.9972497017191999
+1124,unitlike,2,remarkable,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a remarkable twenty pages., good,0.9993037468567857
+1125,unitlike,2,remarkable,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a remarkable twenty acts., good,0.9993461245697737
+1126,unitlike,2,remarkable,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a remarkable twenty paragraphs., good,0.9991446019616692
+1127,unitlike,2,remarkable,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a remarkable twenty awards., good,0.9466777432000623
+1128,unitlike,2,remarkable,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a remarkable twenty meals., good,0.9921648838011256
+1129,unitlike,2,mediocre,three,pages,adj-ambig,num-num,noun-unit_like,It lasted a mediocre three pages., good,0.9907942814824594
+1130,unitlike,2,mediocre,three,acts,adj-ambig,num-num,noun-unit_like,It lasted a mediocre three acts., good,0.9922444447242914
+1131,unitlike,2,mediocre,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a mediocre three paragraphs., good,0.9892310903866318
+1132,unitlike,2,mediocre,three,awards,adj-ambig,num-num,noun-unit_like,It lasted a mediocre three awards., good,0.8915731342413981
+1133,unitlike,2,mediocre,three,meals,adj-ambig,num-num,noun-unit_like,It lasted a mediocre three meals., good,0.9722101346260976
+1134,unitlike,2,mediocre,five,pages,adj-ambig,num-num,noun-unit_like,It lasted a mediocre five pages., good,0.9904158535109917
+1135,unitlike,2,mediocre,five,acts,adj-ambig,num-num,noun-unit_like,It lasted a mediocre five acts., good,0.9929317401867371
+1136,unitlike,2,mediocre,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a mediocre five paragraphs., good,0.9895299456317709
+1137,unitlike,2,mediocre,five,awards,adj-ambig,num-num,noun-unit_like,It lasted a mediocre five awards., good,0.7606925276645357
+1138,unitlike,2,mediocre,five,meals,adj-ambig,num-num,noun-unit_like,It lasted a mediocre five meals., good,0.9731210699393499
+1139,unitlike,2,mediocre,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted a mediocre twenty pages., good,0.991978322752536
+1140,unitlike,2,mediocre,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted a mediocre twenty acts., good,0.992905753517296
+1141,unitlike,2,mediocre,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted a mediocre twenty paragraphs., good,0.9937109526662973
+1142,unitlike,2,mediocre,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted a mediocre twenty awards., good,0.8870566692887454
+1143,unitlike,2,mediocre,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted a mediocre twenty meals., good,0.9644029632924394
+1144,unitlike,2,unsatisfying,three,pages,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying three pages., good,0.9961356814700069
+1145,unitlike,2,unsatisfying,three,acts,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying three acts., good,0.9964306662702721
+1146,unitlike,2,unsatisfying,three,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying three paragraphs., good,0.9924096076341474
+1147,unitlike,2,unsatisfying,three,awards,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying three awards., good,0.9345899425579128
+1148,unitlike,2,unsatisfying,three,meals,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying three meals., good,0.9826896498785437
+1149,unitlike,2,unsatisfying,five,pages,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying five pages., good,0.996492597357131
+1150,unitlike,2,unsatisfying,five,acts,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying five acts., good,0.9972059510408396
+1151,unitlike,2,unsatisfying,five,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying five paragraphs., good,0.9943755464987917
+1152,unitlike,2,unsatisfying,five,awards,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying five awards., good,0.9294408687832134
+1153,unitlike,2,unsatisfying,five,meals,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying five meals., good,0.986587373754048
+1154,unitlike,2,unsatisfying,twenty,pages,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying twenty pages., good,0.9969470288234821
+1155,unitlike,2,unsatisfying,twenty,acts,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying twenty acts., good,0.9956665277055987
+1156,unitlike,2,unsatisfying,twenty,paragraphs,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying twenty paragraphs., good,0.9961616088284819
+1157,unitlike,2,unsatisfying,twenty,awards,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying twenty awards., good,0.9229538414435963
+1158,unitlike,2,unsatisfying,twenty,meals,adj-ambig,num-num,noun-unit_like,It lasted an unsatisfying twenty meals., good,0.9804231243088549
+1159,unitlike,2,lovely,three,pages,adj-pos,num-num,noun-unit_like,It lasted a lovely three pages., good,0.9944365213885213
+1160,unitlike,2,lovely,three,acts,adj-pos,num-num,noun-unit_like,It lasted a lovely three acts., good,0.998024507359234
+1161,unitlike,2,lovely,three,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a lovely three paragraphs., good,0.9964353166230432
+1162,unitlike,2,lovely,three,awards,adj-pos,num-num,noun-unit_like,It lasted a lovely three awards., bad,0.14496088281640318
+1163,unitlike,2,lovely,three,meals,adj-pos,num-num,noun-unit_like,It lasted a lovely three meals., good,0.6220944306505194
+1164,unitlike,2,lovely,five,pages,adj-pos,num-num,noun-unit_like,It lasted a lovely five pages., good,0.995063921672595
+1165,unitlike,2,lovely,five,acts,adj-pos,num-num,noun-unit_like,It lasted a lovely five acts., good,0.9978645866461245
+1166,unitlike,2,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a lovely five paragraphs., good,0.9965089296060439
+1167,unitlike,2,lovely,five,awards,adj-pos,num-num,noun-unit_like,It lasted a lovely five awards., bad,0.14221318694436924
+1168,unitlike,2,lovely,five,meals,adj-pos,num-num,noun-unit_like,It lasted a lovely five meals., bad,0.3862854553910555
+1169,unitlike,2,lovely,twenty,pages,adj-pos,num-num,noun-unit_like,It lasted a lovely twenty pages., good,0.9969835057886781
+1170,unitlike,2,lovely,twenty,acts,adj-pos,num-num,noun-unit_like,It lasted a lovely twenty acts., good,0.9954112413721736
+1171,unitlike,2,lovely,twenty,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a lovely twenty paragraphs., good,0.9975260318159942
+1172,unitlike,2,lovely,twenty,awards,adj-pos,num-num,noun-unit_like,It lasted a lovely twenty awards., good,0.593755203430064
+1173,unitlike,2,lovely,twenty,meals,adj-pos,num-num,noun-unit_like,It lasted a lovely twenty meals., good,0.8173910641110366
+1174,unitlike,2,beautiful,three,pages,adj-pos,num-num,noun-unit_like,It lasted a beautiful three pages., good,0.9903578564567804
+1175,unitlike,2,beautiful,three,acts,adj-pos,num-num,noun-unit_like,It lasted a beautiful three acts., good,0.9975766949558513
+1176,unitlike,2,beautiful,three,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a beautiful three paragraphs., good,0.9932321470751619
+1177,unitlike,2,beautiful,three,awards,adj-pos,num-num,noun-unit_like,It lasted a beautiful three awards., bad,0.3159403790317582
+1178,unitlike,2,beautiful,three,meals,adj-pos,num-num,noun-unit_like,It lasted a beautiful three meals., good,0.6163094547394135
+1179,unitlike,2,beautiful,five,pages,adj-pos,num-num,noun-unit_like,It lasted a beautiful five pages., good,0.9916707658984014
+1180,unitlike,2,beautiful,five,acts,adj-pos,num-num,noun-unit_like,It lasted a beautiful five acts., good,0.997704010724823
+1181,unitlike,2,beautiful,five,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a beautiful five paragraphs., good,0.9937049911140615
+1182,unitlike,2,beautiful,five,awards,adj-pos,num-num,noun-unit_like,It lasted a beautiful five awards., bad,0.27100113215545474
+1183,unitlike,2,beautiful,five,meals,adj-pos,num-num,noun-unit_like,It lasted a beautiful five meals., bad,0.4731538981821306
+1184,unitlike,2,beautiful,twenty,pages,adj-pos,num-num,noun-unit_like,It lasted a beautiful twenty pages., good,0.9971719165836563
+1185,unitlike,2,beautiful,twenty,acts,adj-pos,num-num,noun-unit_like,It lasted a beautiful twenty acts., good,0.9973769571046963
+1186,unitlike,2,beautiful,twenty,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a beautiful twenty paragraphs., good,0.9972535145112732
+1187,unitlike,2,beautiful,twenty,awards,adj-pos,num-num,noun-unit_like,It lasted a beautiful twenty awards., good,0.7362344682458601
+1188,unitlike,2,beautiful,twenty,meals,adj-pos,num-num,noun-unit_like,It lasted a beautiful twenty meals., good,0.8381539199569669
+1189,unitlike,2,enchanting,three,pages,adj-pos,num-num,noun-unit_like,It lasted an enchanting three pages., good,0.9967855566211131
+1190,unitlike,2,enchanting,three,acts,adj-pos,num-num,noun-unit_like,It lasted an enchanting three acts., good,0.998285637800563
+1191,unitlike,2,enchanting,three,paragraphs,adj-pos,num-num,noun-unit_like,It lasted an enchanting three paragraphs., good,0.9973892970279591
+1192,unitlike,2,enchanting,three,awards,adj-pos,num-num,noun-unit_like,It lasted an enchanting three awards., good,0.5038874597456886
+1193,unitlike,2,enchanting,three,meals,adj-pos,num-num,noun-unit_like,It lasted an enchanting three meals., good,0.948452831895158
+1194,unitlike,2,enchanting,five,pages,adj-pos,num-num,noun-unit_like,It lasted an enchanting five pages., good,0.9974861542156672
+1195,unitlike,2,enchanting,five,acts,adj-pos,num-num,noun-unit_like,It lasted an enchanting five acts., good,0.9988470540534843
+1196,unitlike,2,enchanting,five,paragraphs,adj-pos,num-num,noun-unit_like,It lasted an enchanting five paragraphs., good,0.9978794279964892
+1197,unitlike,2,enchanting,five,awards,adj-pos,num-num,noun-unit_like,It lasted an enchanting five awards., good,0.5923105167940128
+1198,unitlike,2,enchanting,five,meals,adj-pos,num-num,noun-unit_like,It lasted an enchanting five meals., good,0.9591432604600868
+1199,unitlike,2,enchanting,twenty,pages,adj-pos,num-num,noun-unit_like,It lasted an enchanting twenty pages., good,0.9979092936774441
+1200,unitlike,2,enchanting,twenty,acts,adj-pos,num-num,noun-unit_like,It lasted an enchanting twenty acts., good,0.99888514451365
+1201,unitlike,2,enchanting,twenty,paragraphs,adj-pos,num-num,noun-unit_like,It lasted an enchanting twenty paragraphs., good,0.9982458788719452
+1202,unitlike,2,enchanting,twenty,awards,adj-pos,num-num,noun-unit_like,It lasted an enchanting twenty awards., good,0.936488131902473
+1203,unitlike,2,enchanting,twenty,meals,adj-pos,num-num,noun-unit_like,It lasted an enchanting twenty meals., good,0.9780969382443654
+1204,unitlike,2,soothing,three,pages,adj-pos,num-num,noun-unit_like,It lasted a soothing three pages., good,0.9979839767103633
+1205,unitlike,2,soothing,three,acts,adj-pos,num-num,noun-unit_like,It lasted a soothing three acts., good,0.9980224820701561
+1206,unitlike,2,soothing,three,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a soothing three paragraphs., good,0.9984358416727533
+1207,unitlike,2,soothing,three,awards,adj-pos,num-num,noun-unit_like,It lasted a soothing three awards., good,0.9041977432295962
+1208,unitlike,2,soothing,three,meals,adj-pos,num-num,noun-unit_like,It lasted a soothing three meals., good,0.9506336820679026
+1209,unitlike,2,soothing,five,pages,adj-pos,num-num,noun-unit_like,It lasted a soothing five pages., good,0.9977590257404975
+1210,unitlike,2,soothing,five,acts,adj-pos,num-num,noun-unit_like,It lasted a soothing five acts., good,0.9981419285560166
+1211,unitlike,2,soothing,five,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a soothing five paragraphs., good,0.9986358752651503
+1212,unitlike,2,soothing,five,awards,adj-pos,num-num,noun-unit_like,It lasted a soothing five awards., good,0.7941854347318977
+1213,unitlike,2,soothing,five,meals,adj-pos,num-num,noun-unit_like,It lasted a soothing five meals., good,0.8718720042185888
+1214,unitlike,2,soothing,twenty,pages,adj-pos,num-num,noun-unit_like,It lasted a soothing twenty pages., good,0.9982250786392751
+1215,unitlike,2,soothing,twenty,acts,adj-pos,num-num,noun-unit_like,It lasted a soothing twenty acts., good,0.9973935286605063
+1216,unitlike,2,soothing,twenty,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a soothing twenty paragraphs., good,0.9989778863144059
+1217,unitlike,2,soothing,twenty,awards,adj-pos,num-num,noun-unit_like,It lasted a soothing twenty awards., good,0.9745065701347893
+1218,unitlike,2,soothing,twenty,meals,adj-pos,num-num,noun-unit_like,It lasted a soothing twenty meals., good,0.9674732529403839
+1219,unitlike,2,charming,three,pages,adj-pos,num-num,noun-unit_like,It lasted a charming three pages., good,0.9983729577707003
+1220,unitlike,2,charming,three,acts,adj-pos,num-num,noun-unit_like,It lasted a charming three acts., good,0.9987928135365208
+1221,unitlike,2,charming,three,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a charming three paragraphs., good,0.9985146403402575
+1222,unitlike,2,charming,three,awards,adj-pos,num-num,noun-unit_like,It lasted a charming three awards., good,0.6210095740610185
+1223,unitlike,2,charming,three,meals,adj-pos,num-num,noun-unit_like,It lasted a charming three meals., good,0.9765696441836672
+1224,unitlike,2,charming,five,pages,adj-pos,num-num,noun-unit_like,It lasted a charming five pages., good,0.9983462557444955
+1225,unitlike,2,charming,five,acts,adj-pos,num-num,noun-unit_like,It lasted a charming five acts., good,0.9989843264459043
+1226,unitlike,2,charming,five,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a charming five paragraphs., good,0.9986695516322195
+1227,unitlike,2,charming,five,awards,adj-pos,num-num,noun-unit_like,It lasted a charming five awards., good,0.7271633472213697
+1228,unitlike,2,charming,five,meals,adj-pos,num-num,noun-unit_like,It lasted a charming five meals., good,0.9548529045633145
+1229,unitlike,2,charming,twenty,pages,adj-pos,num-num,noun-unit_like,It lasted a charming twenty pages., good,0.9988752472091174
+1230,unitlike,2,charming,twenty,acts,adj-pos,num-num,noun-unit_like,It lasted a charming twenty acts., good,0.9988655928268468
+1231,unitlike,2,charming,twenty,paragraphs,adj-pos,num-num,noun-unit_like,It lasted a charming twenty paragraphs., good,0.9990871417088683
+1232,unitlike,2,charming,twenty,awards,adj-pos,num-num,noun-unit_like,It lasted a charming twenty awards., good,0.9672165969863983
+1233,unitlike,2,charming,twenty,meals,adj-pos,num-num,noun-unit_like,It lasted a charming twenty meals., good,0.9836193010181697
+1234,unitlike,2,disgusting,three,pages,adj-neg,num-num,noun-unit_like,It lasted a disgusting three pages., good,0.9936442567273918
+1235,unitlike,2,disgusting,three,acts,adj-neg,num-num,noun-unit_like,It lasted a disgusting three acts., good,0.9942731431226912
+1236,unitlike,2,disgusting,three,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a disgusting three paragraphs., good,0.9899574337400868
+1237,unitlike,2,disgusting,three,awards,adj-neg,num-num,noun-unit_like,It lasted a disgusting three awards., good,0.753227757587853
+1238,unitlike,2,disgusting,three,meals,adj-neg,num-num,noun-unit_like,It lasted a disgusting three meals., good,0.9723806052282795
+1239,unitlike,2,disgusting,five,pages,adj-neg,num-num,noun-unit_like,It lasted a disgusting five pages., good,0.994412678169336
+1240,unitlike,2,disgusting,five,acts,adj-neg,num-num,noun-unit_like,It lasted a disgusting five acts., good,0.9960136132193799
+1241,unitlike,2,disgusting,five,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a disgusting five paragraphs., good,0.9908050703001301
+1242,unitlike,2,disgusting,five,awards,adj-neg,num-num,noun-unit_like,It lasted a disgusting five awards., good,0.9175550012350148
+1243,unitlike,2,disgusting,five,meals,adj-neg,num-num,noun-unit_like,It lasted a disgusting five meals., good,0.9662122639209328
+1244,unitlike,2,disgusting,twenty,pages,adj-neg,num-num,noun-unit_like,It lasted a disgusting twenty pages., good,0.9952498890313335
+1245,unitlike,2,disgusting,twenty,acts,adj-neg,num-num,noun-unit_like,It lasted a disgusting twenty acts., good,0.9948926165629176
+1246,unitlike,2,disgusting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a disgusting twenty paragraphs., good,0.9941134043001998
+1247,unitlike,2,disgusting,twenty,awards,adj-neg,num-num,noun-unit_like,It lasted a disgusting twenty awards., good,0.9303816366695769
+1248,unitlike,2,disgusting,twenty,meals,adj-neg,num-num,noun-unit_like,It lasted a disgusting twenty meals., good,0.9728660804335408
+1249,unitlike,2,uninviting,three,pages,adj-neg,num-num,noun-unit_like,It lasted an uninviting three pages., good,0.9945426169169225
+1250,unitlike,2,uninviting,three,acts,adj-neg,num-num,noun-unit_like,It lasted an uninviting three acts., good,0.9964778147980448
+1251,unitlike,2,uninviting,three,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an uninviting three paragraphs., good,0.9925683936662981
+1252,unitlike,2,uninviting,three,awards,adj-neg,num-num,noun-unit_like,It lasted an uninviting three awards., bad,0.4919733133460056
+1253,unitlike,2,uninviting,three,meals,adj-neg,num-num,noun-unit_like,It lasted an uninviting three meals., good,0.7147286848858855
+1254,unitlike,2,uninviting,five,pages,adj-neg,num-num,noun-unit_like,It lasted an uninviting five pages., good,0.9960037164788825
+1255,unitlike,2,uninviting,five,acts,adj-neg,num-num,noun-unit_like,It lasted an uninviting five acts., good,0.9955237762861646
+1256,unitlike,2,uninviting,five,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an uninviting five paragraphs., good,0.9921546938240147
+1257,unitlike,2,uninviting,five,awards,adj-neg,num-num,noun-unit_like,It lasted an uninviting five awards., bad,0.4152763286426905
+1258,unitlike,2,uninviting,five,meals,adj-neg,num-num,noun-unit_like,It lasted an uninviting five meals., good,0.7998712114190422
+1259,unitlike,2,uninviting,twenty,pages,adj-neg,num-num,noun-unit_like,It lasted an uninviting twenty pages., good,0.9948268743407286
+1260,unitlike,2,uninviting,twenty,acts,adj-neg,num-num,noun-unit_like,It lasted an uninviting twenty acts., good,0.9866482904988377
+1261,unitlike,2,uninviting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an uninviting twenty paragraphs., good,0.9930295530501667
+1262,unitlike,2,uninviting,twenty,awards,adj-neg,num-num,noun-unit_like,It lasted an uninviting twenty awards., good,0.6186860029649734
+1263,unitlike,2,uninviting,twenty,meals,adj-neg,num-num,noun-unit_like,It lasted an uninviting twenty meals., good,0.8999194676952875
+1264,unitlike,2,haunting,three,pages,adj-neg,num-num,noun-unit_like,It lasted a haunting three pages., good,0.9991077059313226
+1265,unitlike,2,haunting,three,acts,adj-neg,num-num,noun-unit_like,It lasted a haunting three acts., good,0.9991271384654485
+1266,unitlike,2,haunting,three,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a haunting three paragraphs., good,0.9989670992096347
+1267,unitlike,2,haunting,three,awards,adj-neg,num-num,noun-unit_like,It lasted a haunting three awards., good,0.9707555559776767
+1268,unitlike,2,haunting,three,meals,adj-neg,num-num,noun-unit_like,It lasted a haunting three meals., good,0.996191769472391
+1269,unitlike,2,haunting,five,pages,adj-neg,num-num,noun-unit_like,It lasted a haunting five pages., good,0.9991971134860018
+1270,unitlike,2,haunting,five,acts,adj-neg,num-num,noun-unit_like,It lasted a haunting five acts., good,0.9992508789313976
+1271,unitlike,2,haunting,five,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a haunting five paragraphs., good,0.9988041378137581
+1272,unitlike,2,haunting,five,awards,adj-neg,num-num,noun-unit_like,It lasted a haunting five awards., good,0.9842471153232744
+1273,unitlike,2,haunting,five,meals,adj-neg,num-num,noun-unit_like,It lasted a haunting five meals., good,0.9938349315051674
+1274,unitlike,2,haunting,twenty,pages,adj-neg,num-num,noun-unit_like,It lasted a haunting twenty pages., good,0.9993721732357512
+1275,unitlike,2,haunting,twenty,acts,adj-neg,num-num,noun-unit_like,It lasted a haunting twenty acts., good,0.9993539928525259
+1276,unitlike,2,haunting,twenty,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a haunting twenty paragraphs., good,0.9994261151349481
+1277,unitlike,2,haunting,twenty,awards,adj-neg,num-num,noun-unit_like,It lasted a haunting twenty awards., good,0.9961192297277888
+1278,unitlike,2,haunting,twenty,meals,adj-neg,num-num,noun-unit_like,It lasted a haunting twenty meals., good,0.9971422930403888
+1279,unitlike,2,hideous,three,pages,adj-neg,num-num,noun-unit_like,It lasted a hideous three pages., good,0.997649413764668
+1280,unitlike,2,hideous,three,acts,adj-neg,num-num,noun-unit_like,It lasted a hideous three acts., good,0.9977000764863544
+1281,unitlike,2,hideous,three,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a hideous three paragraphs., good,0.9962504207938847
+1282,unitlike,2,hideous,three,awards,adj-neg,num-num,noun-unit_like,It lasted a hideous three awards., good,0.7296903375302219
+1283,unitlike,2,hideous,three,meals,adj-neg,num-num,noun-unit_like,It lasted a hideous three meals., good,0.9736667477365964
+1284,unitlike,2,hideous,five,pages,adj-neg,num-num,noun-unit_like,It lasted a hideous five pages., good,0.997524958777819
+1285,unitlike,2,hideous,five,acts,adj-neg,num-num,noun-unit_like,It lasted a hideous five acts., good,0.9984426371500608
+1286,unitlike,2,hideous,five,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a hideous five paragraphs., good,0.9963980043065714
+1287,unitlike,2,hideous,five,awards,adj-neg,num-num,noun-unit_like,It lasted a hideous five awards., good,0.8417626103015042
+1288,unitlike,2,hideous,five,meals,adj-neg,num-num,noun-unit_like,It lasted a hideous five meals., good,0.9779667015713552
+1289,unitlike,2,hideous,twenty,pages,adj-neg,num-num,noun-unit_like,It lasted a hideous twenty pages., good,0.9983949532674619
+1290,unitlike,2,hideous,twenty,acts,adj-neg,num-num,noun-unit_like,It lasted a hideous twenty acts., good,0.9984851340694928
+1291,unitlike,2,hideous,twenty,paragraphs,adj-neg,num-num,noun-unit_like,It lasted a hideous twenty paragraphs., good,0.9981545055229956
+1292,unitlike,2,hideous,twenty,awards,adj-neg,num-num,noun-unit_like,It lasted a hideous twenty awards., good,0.9722073949417985
+1293,unitlike,2,hideous,twenty,meals,adj-neg,num-num,noun-unit_like,It lasted a hideous twenty meals., good,0.9820907455369623
+1294,unitlike,2,ugly,three,pages,adj-neg,num-num,noun-unit_like,It lasted an ugly three pages., good,0.9909817981254403
+1295,unitlike,2,ugly,three,acts,adj-neg,num-num,noun-unit_like,It lasted an ugly three acts., good,0.9933930201069296
+1296,unitlike,2,ugly,three,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an ugly three paragraphs., good,0.985601276552787
+1297,unitlike,2,ugly,three,awards,adj-neg,num-num,noun-unit_like,It lasted an ugly three awards., bad,0.19499262490753955
+1298,unitlike,2,ugly,three,meals,adj-neg,num-num,noun-unit_like,It lasted an ugly three meals., good,0.6094684897016115
+1299,unitlike,2,ugly,five,pages,adj-neg,num-num,noun-unit_like,It lasted an ugly five pages., good,0.9924293383226569
+1300,unitlike,2,ugly,five,acts,adj-neg,num-num,noun-unit_like,It lasted an ugly five acts., good,0.9950956933767509
+1301,unitlike,2,ugly,five,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an ugly five paragraphs., good,0.9894197369345878
+1302,unitlike,2,ugly,five,awards,adj-neg,num-num,noun-unit_like,It lasted an ugly five awards., bad,0.46202683540535394
+1303,unitlike,2,ugly,five,meals,adj-neg,num-num,noun-unit_like,It lasted an ugly five meals., good,0.5780442015290718
+1304,unitlike,2,ugly,twenty,pages,adj-neg,num-num,noun-unit_like,It lasted an ugly twenty pages., good,0.9951898074100707
+1305,unitlike,2,ugly,twenty,acts,adj-neg,num-num,noun-unit_like,It lasted an ugly twenty acts., good,0.9926299057304047
+1306,unitlike,2,ugly,twenty,paragraphs,adj-neg,num-num,noun-unit_like,It lasted an ugly twenty paragraphs., good,0.9944797943402416
+1307,unitlike,2,ugly,twenty,awards,adj-neg,num-num,noun-unit_like,It lasted an ugly twenty awards., good,0.758477366844494
+1308,unitlike,2,ugly,twenty,meals,adj-neg,num-num,noun-unit_like,It lasted an ugly twenty meals., good,0.9150776499261818
+1309,unitlike,2,mere,three,pages,adj-quant,num-num,noun-unit_like,It lasted a mere three pages., good,0.998061044008575
+1310,unitlike,2,mere,three,acts,adj-quant,num-num,noun-unit_like,It lasted a mere three acts., good,0.9983729577707003
+1311,unitlike,2,mere,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a mere three paragraphs., good,0.9970654043684456
+1312,unitlike,2,mere,three,awards,adj-quant,num-num,noun-unit_like,It lasted a mere three awards., good,0.981228920901578
+1313,unitlike,2,mere,three,meals,adj-quant,num-num,noun-unit_like,It lasted a mere three meals., good,0.9979411193085419
+1314,unitlike,2,mere,five,pages,adj-quant,num-num,noun-unit_like,It lasted a mere five pages., good,0.9981459823180628
+1315,unitlike,2,mere,five,acts,adj-quant,num-num,noun-unit_like,It lasted a mere five acts., good,0.9979451730533959
+1316,unitlike,2,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a mere five paragraphs., good,0.9973437585688842
+1317,unitlike,2,mere,five,awards,adj-quant,num-num,noun-unit_like,It lasted a mere five awards., good,0.95977644637277
+1318,unitlike,2,mere,five,meals,adj-quant,num-num,noun-unit_like,It lasted a mere five meals., good,0.996956621693335
+1319,unitlike,2,mere,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a mere twenty pages., good,0.998810575926219
+1320,unitlike,2,mere,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a mere twenty acts., good,0.9974869903089121
+1321,unitlike,2,mere,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a mere twenty paragraphs., good,0.998685825085151
+1322,unitlike,2,mere,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a mere twenty awards., good,0.9110230647368769
+1323,unitlike,2,mere,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a mere twenty meals., good,0.9961516565264119
+1324,unitlike,2,staggering,three,pages,adj-quant,num-num,noun-unit_like,It lasted a staggering three pages., good,0.9981035441491986
+1325,unitlike,2,staggering,three,acts,adj-quant,num-num,noun-unit_like,It lasted a staggering three acts., good,0.998498007920865
+1326,unitlike,2,staggering,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a staggering three paragraphs., good,0.9975051706724746
+1327,unitlike,2,staggering,three,awards,adj-quant,num-num,noun-unit_like,It lasted a staggering three awards., good,0.9652294421678509
+1328,unitlike,2,staggering,three,meals,adj-quant,num-num,noun-unit_like,It lasted a staggering three meals., good,0.9972162615056307
+1329,unitlike,2,staggering,five,pages,adj-quant,num-num,noun-unit_like,It lasted a staggering five pages., good,0.9983423209701519
+1330,unitlike,2,staggering,five,acts,adj-quant,num-num,noun-unit_like,It lasted a staggering five acts., good,0.9989542267024281
+1331,unitlike,2,staggering,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a staggering five paragraphs., good,0.9976407095110342
+1332,unitlike,2,staggering,five,awards,adj-quant,num-num,noun-unit_like,It lasted a staggering five awards., good,0.9789014778608868
+1333,unitlike,2,staggering,five,meals,adj-quant,num-num,noun-unit_like,It lasted a staggering five meals., good,0.9976538243824759
+1334,unitlike,2,staggering,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a staggering twenty pages., good,0.9984437074811414
+1335,unitlike,2,staggering,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a staggering twenty acts., good,0.9989278204956236
+1336,unitlike,2,staggering,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a staggering twenty paragraphs., good,0.9985847926517213
+1337,unitlike,2,staggering,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a staggering twenty awards., good,0.9919298062792501
+1338,unitlike,2,staggering,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a staggering twenty meals., good,0.9977214165215105
+1339,unitlike,2,whopping,three,pages,adj-quant,num-num,noun-unit_like,It lasted a whopping three pages., good,0.9926141714799466
+1340,unitlike,2,whopping,three,acts,adj-quant,num-num,noun-unit_like,It lasted a whopping three acts., good,0.9948290191897818
+1341,unitlike,2,whopping,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a whopping three paragraphs., good,0.9929265552100208
+1342,unitlike,2,whopping,three,awards,adj-quant,num-num,noun-unit_like,It lasted a whopping three awards., good,0.9677821196952341
+1343,unitlike,2,whopping,three,meals,adj-quant,num-num,noun-unit_like,It lasted a whopping three meals., good,0.9959941206269016
+1344,unitlike,2,whopping,five,pages,adj-quant,num-num,noun-unit_like,It lasted a whopping five pages., good,0.9940508185804238
+1345,unitlike,2,whopping,five,acts,adj-quant,num-num,noun-unit_like,It lasted a whopping five acts., good,0.9955861843425287
+1346,unitlike,2,whopping,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a whopping five paragraphs., good,0.9947883097291014
+1347,unitlike,2,whopping,five,awards,adj-quant,num-num,noun-unit_like,It lasted a whopping five awards., good,0.9648072630506298
+1348,unitlike,2,whopping,five,meals,adj-quant,num-num,noun-unit_like,It lasted a whopping five meals., good,0.9956548486057268
+1349,unitlike,2,whopping,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a whopping twenty pages., good,0.9927768883732138
+1350,unitlike,2,whopping,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a whopping twenty acts., good,0.9957810907083406
+1351,unitlike,2,whopping,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a whopping twenty paragraphs., good,0.9964887829900673
+1352,unitlike,2,whopping,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a whopping twenty awards., good,0.9705011649627657
+1353,unitlike,2,whopping,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a whopping twenty meals., good,0.9927783797237756
+1354,unitlike,2,hefty,three,pages,adj-quant,num-num,noun-unit_like,It lasted a hefty three pages., good,0.998330459336166
+1355,unitlike,2,hefty,three,acts,adj-quant,num-num,noun-unit_like,It lasted a hefty three acts., good,0.9985548109928517
+1356,unitlike,2,hefty,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a hefty three paragraphs., good,0.9968877778351665
+1357,unitlike,2,hefty,three,awards,adj-quant,num-num,noun-unit_like,It lasted a hefty three awards., good,0.8397701966416234
+1358,unitlike,2,hefty,three,meals,adj-quant,num-num,noun-unit_like,It lasted a hefty three meals., good,0.9933988028632096
+1359,unitlike,2,hefty,five,pages,adj-quant,num-num,noun-unit_like,It lasted a hefty five pages., good,0.998396384267974
+1360,unitlike,2,hefty,five,acts,adj-quant,num-num,noun-unit_like,It lasted a hefty five acts., good,0.9989199527713076
+1361,unitlike,2,hefty,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a hefty five paragraphs., good,0.997447471255714
+1362,unitlike,2,hefty,five,awards,adj-quant,num-num,noun-unit_like,It lasted a hefty five awards., good,0.7999466828281473
+1363,unitlike,2,hefty,five,meals,adj-quant,num-num,noun-unit_like,It lasted a hefty five meals., good,0.9880619369287651
+1364,unitlike,2,hefty,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a hefty twenty pages., good,0.9986603717041589
+1365,unitlike,2,hefty,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a hefty twenty acts., good,0.9983346320667073
+1366,unitlike,2,hefty,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a hefty twenty paragraphs., good,0.9988677379928974
+1367,unitlike,2,hefty,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a hefty twenty awards., good,0.9208953782491575
+1368,unitlike,2,hefty,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a hefty twenty meals., good,0.9932161138553138
+1369,unitlike,2,paltry,three,pages,adj-quant,num-num,noun-unit_like,It lasted a paltry three pages., good,0.9941799211621584
+1370,unitlike,2,paltry,three,acts,adj-quant,num-num,noun-unit_like,It lasted a paltry three acts., good,0.9949842905899408
+1371,unitlike,2,paltry,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a paltry three paragraphs., good,0.990516346201397
+1372,unitlike,2,paltry,three,awards,adj-quant,num-num,noun-unit_like,It lasted a paltry three awards., good,0.9841677803293629
+1373,unitlike,2,paltry,three,meals,adj-quant,num-num,noun-unit_like,It lasted a paltry three meals., good,0.9941848692079391
+1374,unitlike,2,paltry,five,pages,adj-quant,num-num,noun-unit_like,It lasted a paltry five pages., good,0.994940360913845
+1375,unitlike,2,paltry,five,acts,adj-quant,num-num,noun-unit_like,It lasted a paltry five acts., good,0.9950718491794246
+1376,unitlike,2,paltry,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a paltry five paragraphs., good,0.9923100672937224
+1377,unitlike,2,paltry,five,awards,adj-quant,num-num,noun-unit_like,It lasted a paltry five awards., good,0.9773615441189258
+1378,unitlike,2,paltry,five,meals,adj-quant,num-num,noun-unit_like,It lasted a paltry five meals., good,0.995183668501159
+1379,unitlike,2,paltry,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a paltry twenty pages., good,0.9951083306747524
+1380,unitlike,2,paltry,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a paltry twenty acts., good,0.9950871089222514
+1381,unitlike,2,paltry,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a paltry twenty paragraphs., good,0.9971424117003287
+1382,unitlike,2,paltry,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a paltry twenty awards., good,0.9402972878957805
+1383,unitlike,2,paltry,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a paltry twenty meals., good,0.994960091871279
+1384,unitlike,2,meager,three,pages,adj-quant,num-num,noun-unit_like,It lasted a meager three pages., good,0.9952430360627664
+1385,unitlike,2,meager,three,acts,adj-quant,num-num,noun-unit_like,It lasted a meager three acts., good,0.9963457291584095
+1386,unitlike,2,meager,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a meager three paragraphs., good,0.9942970445432038
+1387,unitlike,2,meager,three,awards,adj-quant,num-num,noun-unit_like,It lasted a meager three awards., good,0.9838115849240487
+1388,unitlike,2,meager,three,meals,adj-quant,num-num,noun-unit_like,It lasted a meager three meals., good,0.9946561637648383
+1389,unitlike,2,meager,five,pages,adj-quant,num-num,noun-unit_like,It lasted a meager five pages., good,0.9955294980755118
+1390,unitlike,2,meager,five,acts,adj-quant,num-num,noun-unit_like,It lasted a meager five acts., good,0.9966433966309532
+1391,unitlike,2,meager,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a meager five paragraphs., good,0.9956593186082037
+1392,unitlike,2,meager,five,awards,adj-quant,num-num,noun-unit_like,It lasted a meager five awards., good,0.9776357207535431
+1393,unitlike,2,meager,five,meals,adj-quant,num-num,noun-unit_like,It lasted a meager five meals., good,0.9923579902794321
+1394,unitlike,2,meager,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a meager twenty pages., good,0.9957351929295905
+1395,unitlike,2,meager,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a meager twenty acts., good,0.9963034702497843
+1396,unitlike,2,meager,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a meager twenty paragraphs., good,0.996403486304192
+1397,unitlike,2,meager,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a meager twenty awards., good,0.9287819560047198
+1398,unitlike,2,meager,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a meager twenty meals., good,0.9916808403328852
+1399,unitlike,2,extra,three,pages,adj-quant,num-num,noun-unit_like,It lasted an extra three pages., good,0.9679391163657406
+1400,unitlike,2,extra,three,acts,adj-quant,num-num,noun-unit_like,It lasted an extra three acts., good,0.9556640020489268
+1401,unitlike,2,extra,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted an extra three paragraphs., good,0.9774984546935788
+1402,unitlike,2,extra,three,awards,adj-quant,num-num,noun-unit_like,It lasted an extra three awards., bad,0.11807341200040444
+1403,unitlike,2,extra,three,meals,adj-quant,num-num,noun-unit_like,It lasted an extra three meals., good,0.6924928263747018
+1404,unitlike,2,extra,five,pages,adj-quant,num-num,noun-unit_like,It lasted an extra five pages., good,0.9529113963976642
+1405,unitlike,2,extra,five,acts,adj-quant,num-num,noun-unit_like,It lasted an extra five acts., good,0.9401702096634239
+1406,unitlike,2,extra,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted an extra five paragraphs., good,0.9754822947566326
+1407,unitlike,2,extra,five,awards,adj-quant,num-num,noun-unit_like,It lasted an extra five awards., bad,0.05115591702708833
+1408,unitlike,2,extra,five,meals,adj-quant,num-num,noun-unit_like,It lasted an extra five meals., good,0.6614673990584127
+1409,unitlike,2,extra,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted an extra twenty pages., good,0.982092772574353
+1410,unitlike,2,extra,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted an extra twenty acts., good,0.8380173622829049
+1411,unitlike,2,extra,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted an extra twenty paragraphs., good,0.9707310553873859
+1412,unitlike,2,extra,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted an extra twenty awards., bad,0.04824966905787953
+1413,unitlike,2,extra,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted an extra twenty meals., good,0.6515261924013255
+1414,unitlike,2,measly,three,pages,adj-quant,num-num,noun-unit_like,It lasted a measly three pages., good,0.9730732081565755
+1415,unitlike,2,measly,three,acts,adj-quant,num-num,noun-unit_like,It lasted a measly three acts., good,0.9767555489783774
+1416,unitlike,2,measly,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a measly three paragraphs., good,0.9734708871097055
+1417,unitlike,2,measly,three,awards,adj-quant,num-num,noun-unit_like,It lasted a measly three awards., good,0.938864018959648
+1418,unitlike,2,measly,three,meals,adj-quant,num-num,noun-unit_like,It lasted a measly three meals., good,0.9829460090625471
+1419,unitlike,2,measly,five,pages,adj-quant,num-num,noun-unit_like,It lasted a measly five pages., good,0.971786886629319
+1420,unitlike,2,measly,five,acts,adj-quant,num-num,noun-unit_like,It lasted a measly five acts., good,0.9773836571740145
+1421,unitlike,2,measly,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a measly five paragraphs., good,0.9750471238484445
+1422,unitlike,2,measly,five,awards,adj-quant,num-num,noun-unit_like,It lasted a measly five awards., good,0.9114876263469939
+1423,unitlike,2,measly,five,meals,adj-quant,num-num,noun-unit_like,It lasted a measly five meals., good,0.9842741706798275
+1424,unitlike,2,measly,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a measly twenty pages., good,0.9783838170154531
+1425,unitlike,2,measly,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a measly twenty acts., good,0.9764876323790866
+1426,unitlike,2,measly,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a measly twenty paragraphs., good,0.9835173797325579
+1427,unitlike,2,measly,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a measly twenty awards., good,0.7995291556647508
+1428,unitlike,2,measly,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a measly twenty meals., good,0.9755808800277074
+1429,unitlike,2,substantial,three,pages,adj-quant,num-num,noun-unit_like,It lasted a substantial three pages., good,0.9982465948141462
+1430,unitlike,2,substantial,three,acts,adj-quant,num-num,noun-unit_like,It lasted a substantial three acts., good,0.9984791142207663
+1431,unitlike,2,substantial,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a substantial three paragraphs., good,0.9974934284099704
+1432,unitlike,2,substantial,three,awards,adj-quant,num-num,noun-unit_like,It lasted a substantial three awards., bad,0.40323244707866435
+1433,unitlike,2,substantial,three,meals,adj-quant,num-num,noun-unit_like,It lasted a substantial three meals., good,0.9725724087140807
+1434,unitlike,2,substantial,five,pages,adj-quant,num-num,noun-unit_like,It lasted a substantial five pages., good,0.9984230258325419
+1435,unitlike,2,substantial,five,acts,adj-quant,num-num,noun-unit_like,It lasted a substantial five acts., good,0.9989389071575618
+1436,unitlike,2,substantial,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a substantial five paragraphs., good,0.9979367680951595
+1437,unitlike,2,substantial,five,awards,adj-quant,num-num,noun-unit_like,It lasted a substantial five awards., bad,0.382260746215466
+1438,unitlike,2,substantial,five,meals,adj-quant,num-num,noun-unit_like,It lasted a substantial five meals., good,0.9789156651828136
+1439,unitlike,2,substantial,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a substantial twenty pages., good,0.9985203613462785
+1440,unitlike,2,substantial,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a substantial twenty acts., good,0.9973322540755138
+1441,unitlike,2,substantial,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a substantial twenty paragraphs., good,0.9985135661387852
+1442,unitlike,2,substantial,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a substantial twenty awards., good,0.5587510242200615
+1443,unitlike,2,substantial,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a substantial twenty meals., good,0.9898925223794488
+1444,unitlike,2,record-setting,three,pages,adj-quant,num-num,noun-unit_like,It lasted a record-setting three pages., good,0.9929144569701145
+1445,unitlike,2,record-setting,three,acts,adj-quant,num-num,noun-unit_like,It lasted a record-setting three acts., good,0.9974555785417083
+1446,unitlike,2,record-setting,three,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a record-setting three paragraphs., good,0.9973268881432223
+1447,unitlike,2,record-setting,three,awards,adj-quant,num-num,noun-unit_like,It lasted a record-setting three awards., bad,0.4604011846103495
+1448,unitlike,2,record-setting,three,meals,adj-quant,num-num,noun-unit_like,It lasted a record-setting three meals., good,0.9624220472213046
+1449,unitlike,2,record-setting,five,pages,adj-quant,num-num,noun-unit_like,It lasted a record-setting five pages., good,0.9948714600979087
+1450,unitlike,2,record-setting,five,acts,adj-quant,num-num,noun-unit_like,It lasted a record-setting five acts., good,0.9982727027978698
+1451,unitlike,2,record-setting,five,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a record-setting five paragraphs., good,0.9986437435482086
+1452,unitlike,2,record-setting,five,awards,adj-quant,num-num,noun-unit_like,It lasted a record-setting five awards., good,0.672800498089767
+1453,unitlike,2,record-setting,five,meals,adj-quant,num-num,noun-unit_like,It lasted a record-setting five meals., good,0.9808370198178563
+1454,unitlike,2,record-setting,twenty,pages,adj-quant,num-num,noun-unit_like,It lasted a record-setting twenty pages., good,0.9968371743046771
+1455,unitlike,2,record-setting,twenty,acts,adj-quant,num-num,noun-unit_like,It lasted a record-setting twenty acts., good,0.9984147994597531
+1456,unitlike,2,record-setting,twenty,paragraphs,adj-quant,num-num,noun-unit_like,It lasted a record-setting twenty paragraphs., good,0.9991161697082814
+1457,unitlike,2,record-setting,twenty,awards,adj-quant,num-num,noun-unit_like,It lasted a record-setting twenty awards., good,0.8538497819684817
+1458,unitlike,2,record-setting,twenty,meals,adj-quant,num-num,noun-unit_like,It lasted a record-setting twenty meals., good,0.989422420244553

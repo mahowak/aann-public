@@ -1,0 +1,561 @@
+,experiment,template,adj,num,noun,adjclass,numclass,nounclass,sent,singplur,rating-sent,goodness-sent
+0,temporal,0,astonishing,five,days,adj-ambig,num-num,noun-temporal,An astonishing five days is just what you need.,singular, good,0.9973636669458147
+1,temporal,0,astonishing,five,weeks,adj-ambig,num-num,noun-temporal,An astonishing five weeks is just what you need.,singular, good,0.9967022890325462
+2,temporal,0,astonishing,five,months,adj-ambig,num-num,noun-temporal,An astonishing five months is just what you need.,singular, good,0.9950111717471436
+3,temporal,0,astonishing,five,years,adj-ambig,num-num,noun-temporal,An astonishing five years is just what you need.,singular, good,0.9950313781416839
+4,temporal,0,astonishing,five,hours,adj-ambig,num-num,noun-temporal,An astonishing five hours is just what you need.,singular, good,0.9962885681520773
+5,temporal,0,lovely,five,days,adj-pos,num-num,noun-temporal,A lovely five days is just what you need.,singular, good,0.9973464396319797
+6,temporal,0,lovely,five,weeks,adj-pos,num-num,noun-temporal,A lovely five weeks is just what you need.,singular, good,0.9895343569661014
+7,temporal,0,lovely,five,months,adj-pos,num-num,noun-temporal,A lovely five months is just what you need.,singular, good,0.9726222397379766
+8,temporal,0,lovely,five,years,adj-pos,num-num,noun-temporal,A lovely five years is just what you need.,singular, good,0.9285706598573457
+9,temporal,0,lovely,five,hours,adj-pos,num-num,noun-temporal,A lovely five hours is just what you need.,singular, good,0.9954894432542103
+10,temporal,0,mere,five,days,adj-quant,num-num,noun-temporal,A mere five days is just what you need.,singular, good,0.9905738651745778
+11,temporal,0,mere,five,weeks,adj-quant,num-num,noun-temporal,A mere five weeks is just what you need.,singular, good,0.9902408515979388
+12,temporal,0,mere,five,months,adj-quant,num-num,noun-temporal,A mere five months is just what you need.,singular, good,0.9802841895691797
+13,temporal,0,mere,five,years,adj-quant,num-num,noun-temporal,A mere five years is just what you need.,singular, good,0.9583551628999667
+14,temporal,0,mere,five,hours,adj-quant,num-num,noun-temporal,A mere five hours is just what you need.,singular, good,0.9888906862931128
+15,temporal,1,astonishing,five,days,adj-ambig,num-num,noun-temporal,An astonishing five days are just what you need.,plural, good,0.9980161654062524
+16,temporal,1,astonishing,five,weeks,adj-ambig,num-num,noun-temporal,An astonishing five weeks are just what you need.,plural, good,0.9954376443087213
+17,temporal,1,astonishing,five,months,adj-ambig,num-num,noun-temporal,An astonishing five months are just what you need.,plural, good,0.9959405359911039
+18,temporal,1,astonishing,five,years,adj-ambig,num-num,noun-temporal,An astonishing five years are just what you need.,plural, good,0.9826420279266681
+19,temporal,1,astonishing,five,hours,adj-ambig,num-num,noun-temporal,An astonishing five hours are just what you need.,plural, good,0.9889572626328965
+20,temporal,1,lovely,five,days,adj-pos,num-num,noun-temporal,A lovely five days are just what you need.,plural, good,0.9263084504160777
+21,temporal,1,lovely,five,weeks,adj-pos,num-num,noun-temporal,A lovely five weeks are just what you need.,plural, bad,0.32550196728812786
+22,temporal,1,lovely,five,months,adj-pos,num-num,noun-temporal,A lovely five months are just what you need.,plural, bad,0.23396065781069209
+23,temporal,1,lovely,five,years,adj-pos,num-num,noun-temporal,A lovely five years are just what you need.,plural, bad,0.06332871056989275
+24,temporal,1,lovely,five,hours,adj-pos,num-num,noun-temporal,A lovely five hours are just what you need.,plural, bad,0.20146570262878116
+25,temporal,1,mere,five,days,adj-quant,num-num,noun-temporal,A mere five days are just what you need.,plural, good,0.9831323923113998
+26,temporal,1,mere,five,weeks,adj-quant,num-num,noun-temporal,A mere five weeks are just what you need.,plural, good,0.9336932414297813
+27,temporal,1,mere,five,months,adj-quant,num-num,noun-temporal,A mere five months are just what you need.,plural, good,0.8987065734014552
+28,temporal,1,mere,five,years,adj-quant,num-num,noun-temporal,A mere five years are just what you need.,plural, bad,0.06354578708338798
+29,temporal,1,mere,five,hours,adj-quant,num-num,noun-temporal,A mere five hours are just what you need.,plural, good,0.9119970076488279
+30,temporal,2,astonishing,five,days,adj-ambig,num-num,noun-temporal,An astonishing five days is ideal.,singular, good,0.9930668042734404
+31,temporal,2,astonishing,five,weeks,adj-ambig,num-num,noun-temporal,An astonishing five weeks is ideal.,singular, good,0.9955423746359733
+32,temporal,2,astonishing,five,months,adj-ambig,num-num,noun-temporal,An astonishing five months is ideal.,singular, good,0.9882412894105178
+33,temporal,2,astonishing,five,years,adj-ambig,num-num,noun-temporal,An astonishing five years is ideal.,singular, good,0.9920388809096244
+34,temporal,2,astonishing,five,hours,adj-ambig,num-num,noun-temporal,An astonishing five hours is ideal.,singular, good,0.9967608806029918
+35,temporal,2,lovely,five,days,adj-pos,num-num,noun-temporal,A lovely five days is ideal.,singular, good,0.9908673582278831
+36,temporal,2,lovely,five,weeks,adj-pos,num-num,noun-temporal,A lovely five weeks is ideal.,singular, good,0.9731596929079431
+37,temporal,2,lovely,five,months,adj-pos,num-num,noun-temporal,A lovely five months is ideal.,singular, good,0.9142058262924093
+38,temporal,2,lovely,five,years,adj-pos,num-num,noun-temporal,A lovely five years is ideal.,singular, good,0.8514432740053997
+39,temporal,2,lovely,five,hours,adj-pos,num-num,noun-temporal,A lovely five hours is ideal.,singular, good,0.9885707854325073
+40,temporal,2,mere,five,days,adj-quant,num-num,noun-temporal,A mere five days is ideal.,singular, good,0.9889635207742552
+41,temporal,2,mere,five,weeks,adj-quant,num-num,noun-temporal,A mere five weeks is ideal.,singular, good,0.991224325999032
+42,temporal,2,mere,five,months,adj-quant,num-num,noun-temporal,A mere five months is ideal.,singular, good,0.9716308418465641
+43,temporal,2,mere,five,years,adj-quant,num-num,noun-temporal,A mere five years is ideal.,singular, good,0.900833989263548
+44,temporal,2,mere,five,hours,adj-quant,num-num,noun-temporal,A mere five hours is ideal.,singular, good,0.9882139327996752
+45,temporal,3,astonishing,five,days,adj-ambig,num-num,noun-temporal,An astonishing five days are ideal.,plural, good,0.9904656806050903
+46,temporal,3,astonishing,five,weeks,adj-ambig,num-num,noun-temporal,An astonishing five weeks are ideal.,plural, good,0.9819683758155944
+47,temporal,3,astonishing,five,months,adj-ambig,num-num,noun-temporal,An astonishing five months are ideal.,plural, good,0.9547239221967471
+48,temporal,3,astonishing,five,years,adj-ambig,num-num,noun-temporal,An astonishing five years are ideal.,plural, good,0.7870935094692919
+49,temporal,3,astonishing,five,hours,adj-ambig,num-num,noun-temporal,An astonishing five hours are ideal.,plural, good,0.9228300493326873
+50,temporal,3,lovely,five,days,adj-pos,num-num,noun-temporal,A lovely five days are ideal.,plural, good,0.5163685625299492
+51,temporal,3,lovely,five,weeks,adj-pos,num-num,noun-temporal,A lovely five weeks are ideal.,plural, bad,0.062403834626715504
+52,temporal,3,lovely,five,months,adj-pos,num-num,noun-temporal,A lovely five months are ideal.,plural, bad,0.046449081796121616
+53,temporal,3,lovely,five,years,adj-pos,num-num,noun-temporal,A lovely five years are ideal.,plural, bad,0.01575127739987403
+54,temporal,3,lovely,five,hours,adj-pos,num-num,noun-temporal,A lovely five hours are ideal.,plural, bad,0.02560989593032259
+55,temporal,3,mere,five,days,adj-quant,num-num,noun-temporal,A mere five days are ideal.,plural, good,0.9536574872878412
+56,temporal,3,mere,five,weeks,adj-quant,num-num,noun-temporal,A mere five weeks are ideal.,plural, good,0.7277076435310357
+57,temporal,3,mere,five,months,adj-quant,num-num,noun-temporal,A mere five months are ideal.,plural, good,0.5964083652196681
+58,temporal,3,mere,five,years,adj-quant,num-num,noun-temporal,A mere five years are ideal.,plural, bad,0.015531561675116934
+59,temporal,3,mere,five,hours,adj-quant,num-num,noun-temporal,A mere five hours are ideal.,plural, good,0.6338730190593858
+60,objects,0,astonishing,five,desks,adj-ambig,num-num,noun-objects,An astonishing five desks is available.,singular, bad,0.0850175973792271
+61,objects,0,astonishing,five,marbles,adj-ambig,num-num,noun-objects,An astonishing five marbles is available.,singular, bad,0.34394049151607287
+62,objects,0,astonishing,five,pencils,adj-ambig,num-num,noun-objects,An astonishing five pencils is available.,singular, bad,0.4150022980215723
+63,objects,0,astonishing,five,belts,adj-ambig,num-num,noun-objects,An astonishing five belts is available.,singular, bad,0.4563320149241752
+64,objects,0,astonishing,five,forks,adj-ambig,num-num,noun-objects,An astonishing five forks is available.,singular, bad,0.48808978466810315
+65,objects,0,astonishing,five,chairs,adj-ambig,num-num,noun-objects,An astonishing five chairs is available.,singular, bad,0.06898715983403614
+66,objects,0,astonishing,five,cans,adj-ambig,num-num,noun-objects,An astonishing five cans is available.,singular, good,0.7237560651191202
+67,objects,0,astonishing,five,bananas,adj-ambig,num-num,noun-objects,An astonishing five bananas is available.,singular, good,0.7791743933014132
+68,objects,0,astonishing,five,apples,adj-ambig,num-num,noun-objects,An astonishing five apples is available.,singular, good,0.6659604463967908
+69,objects,0,astonishing,five,trays,adj-ambig,num-num,noun-objects,An astonishing five trays is available.,singular, good,0.5033524794109114
+70,objects,0,lovely,five,desks,adj-pos,num-num,noun-objects,A lovely five desks is available.,singular, bad,0.2921225262923933
+71,objects,0,lovely,five,marbles,adj-pos,num-num,noun-objects,A lovely five marbles is available.,singular, bad,0.22449004533463024
+72,objects,0,lovely,five,pencils,adj-pos,num-num,noun-objects,A lovely five pencils is available.,singular, bad,0.40730288040336904
+73,objects,0,lovely,five,belts,adj-pos,num-num,noun-objects,A lovely five belts is available.,singular, bad,0.25745247231226065
+74,objects,0,lovely,five,forks,adj-pos,num-num,noun-objects,A lovely five forks is available.,singular, good,0.676845895831172
+75,objects,0,lovely,five,chairs,adj-pos,num-num,noun-objects,A lovely five chairs is available.,singular, bad,0.12436667111094912
+76,objects,0,lovely,five,cans,adj-pos,num-num,noun-objects,A lovely five cans is available.,singular, bad,0.04131009611318859
+77,objects,0,lovely,five,bananas,adj-pos,num-num,noun-objects,A lovely five bananas is available.,singular, bad,0.42239417117591604
+78,objects,0,lovely,five,apples,adj-pos,num-num,noun-objects,A lovely five apples is available.,singular, bad,0.1839017036013082
+79,objects,0,lovely,five,trays,adj-pos,num-num,noun-objects,A lovely five trays is available.,singular, bad,0.3878610440277306
+80,objects,0,mere,five,desks,adj-quant,num-num,noun-objects,A mere five desks is available.,singular, bad,0.013469488543711106
+81,objects,0,mere,five,marbles,adj-quant,num-num,noun-objects,A mere five marbles is available.,singular, bad,0.04481265980850824
+82,objects,0,mere,five,pencils,adj-quant,num-num,noun-objects,A mere five pencils is available.,singular, bad,0.021381940624571882
+83,objects,0,mere,five,belts,adj-quant,num-num,noun-objects,A mere five belts is available.,singular, bad,0.048794165696493974
+84,objects,0,mere,five,forks,adj-quant,num-num,noun-objects,A mere five forks is available.,singular, bad,0.024916279021060417
+85,objects,0,mere,five,chairs,adj-quant,num-num,noun-objects,A mere five chairs is available.,singular, bad,0.012151446584033887
+86,objects,0,mere,five,cans,adj-quant,num-num,noun-objects,A mere five cans is available.,singular, bad,0.09002567485896662
+87,objects,0,mere,five,bananas,adj-quant,num-num,noun-objects,A mere five bananas is available.,singular, bad,0.07795470063486976
+88,objects,0,mere,five,apples,adj-quant,num-num,noun-objects,A mere five apples is available.,singular, bad,0.02592013521308212
+89,objects,0,mere,five,trays,adj-quant,num-num,noun-objects,A mere five trays is available.,singular, bad,0.05691689319129911
+90,objects,0,large,five,desks,adj-stubborn,num-num,noun-objects,A large five desks is available.,singular, bad,0.007558683975379621
+91,objects,0,large,five,marbles,adj-stubborn,num-num,noun-objects,A large five marbles is available.,singular, bad,0.026765682345728514
+92,objects,0,large,five,pencils,adj-stubborn,num-num,noun-objects,A large five pencils is available.,singular, bad,0.07510924948841347
+93,objects,0,large,five,belts,adj-stubborn,num-num,noun-objects,A large five belts is available.,singular, bad,0.04304465877053032
+94,objects,0,large,five,forks,adj-stubborn,num-num,noun-objects,A large five forks is available.,singular, bad,0.10018901105785494
+95,objects,0,large,five,chairs,adj-stubborn,num-num,noun-objects,A large five chairs is available.,singular, bad,0.00720010464931542
+96,objects,0,large,five,cans,adj-stubborn,num-num,noun-objects,A large five cans is available.,singular, bad,0.022258779816776486
+97,objects,0,large,five,bananas,adj-stubborn,num-num,noun-objects,A large five bananas is available.,singular, bad,0.07833918249364336
+98,objects,0,large,five,apples,adj-stubborn,num-num,noun-objects,A large five apples is available.,singular, bad,0.024671485708315344
+99,objects,0,large,five,trays,adj-stubborn,num-num,noun-objects,A large five trays is available.,singular, bad,0.016784638628356552
+100,objects,1,astonishing,five,desks,adj-ambig,num-num,noun-objects,An astonishing five desks are available.,plural, good,0.9985757325329988
+101,objects,1,astonishing,five,marbles,adj-ambig,num-num,noun-objects,An astonishing five marbles are available.,plural, good,0.9980109172522439
+102,objects,1,astonishing,five,pencils,adj-ambig,num-num,noun-objects,An astonishing five pencils are available.,plural, good,0.9985983229681744
+103,objects,1,astonishing,five,belts,adj-ambig,num-num,noun-objects,An astonishing five belts are available.,plural, good,0.9951560125322588
+104,objects,1,astonishing,five,forks,adj-ambig,num-num,noun-objects,An astonishing five forks are available.,plural, good,0.9940833640387702
+105,objects,1,astonishing,five,chairs,adj-ambig,num-num,noun-objects,An astonishing five chairs are available.,plural, good,0.9986632326704898
+106,objects,1,astonishing,five,cans,adj-ambig,num-num,noun-objects,An astonishing five cans are available.,plural, good,0.9983225906263288
+107,objects,1,astonishing,five,bananas,adj-ambig,num-num,noun-objects,An astonishing five bananas are available.,plural, good,0.9993713383905676
+108,objects,1,astonishing,five,apples,adj-ambig,num-num,noun-objects,An astonishing five apples are available.,plural, good,0.9990890492078237
+109,objects,1,astonishing,five,trays,adj-ambig,num-num,noun-objects,An astonishing five trays are available.,plural, good,0.9985881913408468
+110,objects,1,lovely,five,desks,adj-pos,num-num,noun-objects,A lovely five desks are available.,plural, bad,0.06267907245397886
+111,objects,1,lovely,five,marbles,adj-pos,num-num,noun-objects,A lovely five marbles are available.,plural, bad,0.3081087300088309
+112,objects,1,lovely,five,pencils,adj-pos,num-num,noun-objects,A lovely five pencils are available.,plural, bad,0.4907641295180226
+113,objects,1,lovely,five,belts,adj-pos,num-num,noun-objects,A lovely five belts are available.,plural, bad,0.012078192922181819
+114,objects,1,lovely,five,forks,adj-pos,num-num,noun-objects,A lovely five forks are available.,plural, bad,0.014882890515912517
+115,objects,1,lovely,five,chairs,adj-pos,num-num,noun-objects,A lovely five chairs are available.,plural, bad,0.030807908601191425
+116,objects,1,lovely,five,cans,adj-pos,num-num,noun-objects,A lovely five cans are available.,plural, bad,0.08686669830716898
+117,objects,1,lovely,five,bananas,adj-pos,num-num,noun-objects,A lovely five bananas are available.,plural, bad,0.40317867589979095
+118,objects,1,lovely,five,apples,adj-pos,num-num,noun-objects,A lovely five apples are available.,plural, bad,0.22378997139447665
+119,objects,1,lovely,five,trays,adj-pos,num-num,noun-objects,A lovely five trays are available.,plural, bad,0.1525708736922824
+120,objects,1,mere,five,desks,adj-quant,num-num,noun-objects,A mere five desks are available.,plural, good,0.9843855889474644
+121,objects,1,mere,five,marbles,adj-quant,num-num,noun-objects,A mere five marbles are available.,plural, good,0.9859043068160922
+122,objects,1,mere,five,pencils,adj-quant,num-num,noun-objects,A mere five pencils are available.,plural, good,0.984182324468287
+123,objects,1,mere,five,belts,adj-quant,num-num,noun-objects,A mere five belts are available.,plural, good,0.7963448964356433
+124,objects,1,mere,five,forks,adj-quant,num-num,noun-objects,A mere five forks are available.,plural, good,0.9383136257970331
+125,objects,1,mere,five,chairs,adj-quant,num-num,noun-objects,A mere five chairs are available.,plural, good,0.981205255907841
+126,objects,1,mere,five,cans,adj-quant,num-num,noun-objects,A mere five cans are available.,plural, good,0.9840492257622528
+127,objects,1,mere,five,bananas,adj-quant,num-num,noun-objects,A mere five bananas are available.,plural, good,0.988102887016241
+128,objects,1,mere,five,apples,adj-quant,num-num,noun-objects,A mere five apples are available.,plural, good,0.9764991364476483
+129,objects,1,mere,five,trays,adj-quant,num-num,noun-objects,A mere five trays are available.,plural, good,0.9774174507981652
+130,objects,1,large,five,desks,adj-stubborn,num-num,noun-objects,A large five desks are available.,plural, bad,0.00513527545753667
+131,objects,1,large,five,marbles,adj-stubborn,num-num,noun-objects,A large five marbles are available.,plural, bad,0.02713004560601373
+132,objects,1,large,five,pencils,adj-stubborn,num-num,noun-objects,A large five pencils are available.,plural, bad,0.03303016071524323
+133,objects,1,large,five,belts,adj-stubborn,num-num,noun-objects,A large five belts are available.,plural, bad,0.01018764576948572
+134,objects,1,large,five,forks,adj-stubborn,num-num,noun-objects,A large five forks are available.,plural, bad,0.00872030068105123
+135,objects,1,large,five,chairs,adj-stubborn,num-num,noun-objects,A large five chairs are available.,plural, bad,0.0030380721903170427
+136,objects,1,large,five,cans,adj-stubborn,num-num,noun-objects,A large five cans are available.,plural, bad,0.023308584638885854
+137,objects,1,large,five,bananas,adj-stubborn,num-num,noun-objects,A large five bananas are available.,plural, bad,0.0822318498411101
+138,objects,1,large,five,apples,adj-stubborn,num-num,noun-objects,A large five apples are available.,plural, bad,0.02697757326290995
+139,objects,1,large,five,trays,adj-stubborn,num-num,noun-objects,A large five trays are available.,plural, bad,0.010560651582447456
+140,objects,2,astonishing,five,desks,adj-ambig,num-num,noun-objects,An astonishing five desks makes a lovely gift.,singular, good,0.9034130503953207
+141,objects,2,astonishing,five,marbles,adj-ambig,num-num,noun-objects,An astonishing five marbles makes a lovely gift.,singular, good,0.9987408998326092
+142,objects,2,astonishing,five,pencils,adj-ambig,num-num,noun-objects,An astonishing five pencils makes a lovely gift.,singular, good,0.9919695636226176
+143,objects,2,astonishing,five,belts,adj-ambig,num-num,noun-objects,An astonishing five belts makes a lovely gift.,singular, good,0.9959151425202094
+144,objects,2,astonishing,five,forks,adj-ambig,num-num,noun-objects,An astonishing five forks makes a lovely gift.,singular, good,0.9984221899531346
+145,objects,2,astonishing,five,chairs,adj-ambig,num-num,noun-objects,An astonishing five chairs makes a lovely gift.,singular, good,0.9691499518427952
+146,objects,2,astonishing,five,cans,adj-ambig,num-num,noun-objects,An astonishing five cans makes a lovely gift.,singular, good,0.9986720546008534
+147,objects,2,astonishing,five,bananas,adj-ambig,num-num,noun-objects,An astonishing five bananas makes a lovely gift.,singular, good,0.9995732181972736
+148,objects,2,astonishing,five,apples,adj-ambig,num-num,noun-objects,An astonishing five apples makes a lovely gift.,singular, good,0.9993307464801068
+149,objects,2,astonishing,five,trays,adj-ambig,num-num,noun-objects,An astonishing five trays makes a lovely gift.,singular, good,0.9921607747587681
+150,objects,2,lovely,five,desks,adj-pos,num-num,noun-objects,A lovely five desks makes a lovely gift.,singular, good,0.7478205396852514
+151,objects,2,lovely,five,marbles,adj-pos,num-num,noun-objects,A lovely five marbles makes a lovely gift.,singular, good,0.9902648137359825
+152,objects,2,lovely,five,pencils,adj-pos,num-num,noun-objects,A lovely five pencils makes a lovely gift.,singular, good,0.9180165226446814
+153,objects,2,lovely,five,belts,adj-pos,num-num,noun-objects,A lovely five belts makes a lovely gift.,singular, good,0.7224842778453503
+154,objects,2,lovely,five,forks,adj-pos,num-num,noun-objects,A lovely five forks makes a lovely gift.,singular, good,0.985026334139915
+155,objects,2,lovely,five,chairs,adj-pos,num-num,noun-objects,A lovely five chairs makes a lovely gift.,singular, good,0.9532852044055848
+156,objects,2,lovely,five,cans,adj-pos,num-num,noun-objects,A lovely five cans makes a lovely gift.,singular, good,0.5324444532420619
+157,objects,2,lovely,five,bananas,adj-pos,num-num,noun-objects,A lovely five bananas makes a lovely gift.,singular, good,0.9934759893724745
+158,objects,2,lovely,five,apples,adj-pos,num-num,noun-objects,A lovely five apples makes a lovely gift.,singular, good,0.9934343258500807
+159,objects,2,lovely,five,trays,adj-pos,num-num,noun-objects,A lovely five trays makes a lovely gift.,singular, good,0.8602825991931448
+160,objects,2,mere,five,desks,adj-quant,num-num,noun-objects,A mere five desks makes a lovely gift.,singular, good,0.9574557855163018
+161,objects,2,mere,five,marbles,adj-quant,num-num,noun-objects,A mere five marbles makes a lovely gift.,singular, good,0.9993180522921061
+162,objects,2,mere,five,pencils,adj-quant,num-num,noun-objects,A mere five pencils makes a lovely gift.,singular, good,0.9875641759645281
+163,objects,2,mere,five,belts,adj-quant,num-num,noun-objects,A mere five belts makes a lovely gift.,singular, good,0.996212215820948
+164,objects,2,mere,five,forks,adj-quant,num-num,noun-objects,A mere five forks makes a lovely gift.,singular, good,0.9980375625033986
+165,objects,2,mere,five,chairs,adj-quant,num-num,noun-objects,A mere five chairs makes a lovely gift.,singular, good,0.990036886952145
+166,objects,2,mere,five,cans,adj-quant,num-num,noun-objects,A mere five cans makes a lovely gift.,singular, good,0.9990371332539623
+167,objects,2,mere,five,bananas,adj-quant,num-num,noun-objects,A mere five bananas makes a lovely gift.,singular, good,0.9995184399372851
+168,objects,2,mere,five,apples,adj-quant,num-num,noun-objects,A mere five apples makes a lovely gift.,singular, good,0.9994625933547074
+169,objects,2,mere,five,trays,adj-quant,num-num,noun-objects,A mere five trays makes a lovely gift.,singular, good,0.9911833208880658
+170,objects,2,large,five,desks,adj-stubborn,num-num,noun-objects,A large five desks makes a lovely gift.,singular, bad,0.31771167053200244
+171,objects,2,large,five,marbles,adj-stubborn,num-num,noun-objects,A large five marbles makes a lovely gift.,singular, good,0.9735921229349322
+172,objects,2,large,five,pencils,adj-stubborn,num-num,noun-objects,A large five pencils makes a lovely gift.,singular, good,0.9366889926847727
+173,objects,2,large,five,belts,adj-stubborn,num-num,noun-objects,A large five belts makes a lovely gift.,singular, good,0.6834266253049145
+174,objects,2,large,five,forks,adj-stubborn,num-num,noun-objects,A large five forks makes a lovely gift.,singular, good,0.9591640040756911
+175,objects,2,large,five,chairs,adj-stubborn,num-num,noun-objects,A large five chairs makes a lovely gift.,singular, good,0.5353582660701017
+176,objects,2,large,five,cans,adj-stubborn,num-num,noun-objects,A large five cans makes a lovely gift.,singular, good,0.8016591110824308
+177,objects,2,large,five,bananas,adj-stubborn,num-num,noun-objects,A large five bananas makes a lovely gift.,singular, good,0.9936143315939419
+178,objects,2,large,five,apples,adj-stubborn,num-num,noun-objects,A large five apples makes a lovely gift.,singular, good,0.9770344388207115
+179,objects,2,large,five,trays,adj-stubborn,num-num,noun-objects,A large five trays makes a lovely gift.,singular, good,0.6226985535341731
+180,objects,3,astonishing,five,desks,adj-ambig,num-num,noun-objects,An astonishing five desks make a lovely gift.,plural, good,0.9992530230862641
+181,objects,3,astonishing,five,marbles,adj-ambig,num-num,noun-objects,An astonishing five marbles make a lovely gift.,plural, good,0.9995197524757766
+182,objects,3,astonishing,five,pencils,adj-ambig,num-num,noun-objects,An astonishing five pencils make a lovely gift.,plural, good,0.9995483032657002
+183,objects,3,astonishing,five,belts,adj-ambig,num-num,noun-objects,An astonishing five belts make a lovely gift.,plural, good,0.9991087796729511
+184,objects,3,astonishing,five,forks,adj-ambig,num-num,noun-objects,An astonishing five forks make a lovely gift.,plural, good,0.9991367344283056
+185,objects,3,astonishing,five,chairs,adj-ambig,num-num,noun-objects,An astonishing five chairs make a lovely gift.,plural, good,0.9993233576857289
+186,objects,3,astonishing,five,cans,adj-ambig,num-num,noun-objects,An astonishing five cans make a lovely gift.,plural, good,0.9996508839352007
+187,objects,3,astonishing,five,bananas,adj-ambig,num-num,noun-objects,An astonishing five bananas make a lovely gift.,plural, good,0.9996899255230305
+188,objects,3,astonishing,five,apples,adj-ambig,num-num,noun-objects,An astonishing five apples make a lovely gift.,plural, good,0.9996951681306784
+189,objects,3,astonishing,five,trays,adj-ambig,num-num,noun-objects,An astonishing five trays make a lovely gift.,plural, good,0.9993193627387
+190,objects,3,lovely,five,desks,adj-pos,num-num,noun-objects,A lovely five desks make a lovely gift.,plural, good,0.7898439536953517
+191,objects,3,lovely,five,marbles,adj-pos,num-num,noun-objects,A lovely five marbles make a lovely gift.,plural, good,0.993892390937634
+192,objects,3,lovely,five,pencils,adj-pos,num-num,noun-objects,A lovely five pencils make a lovely gift.,plural, good,0.9704177190372373
+193,objects,3,lovely,five,belts,adj-pos,num-num,noun-objects,A lovely five belts make a lovely gift.,plural, good,0.7406956254112336
+194,objects,3,lovely,five,forks,adj-pos,num-num,noun-objects,A lovely five forks make a lovely gift.,plural, good,0.9102511814384491
+195,objects,3,lovely,five,chairs,adj-pos,num-num,noun-objects,A lovely five chairs make a lovely gift.,plural, good,0.933630060545883
+196,objects,3,lovely,five,cans,adj-pos,num-num,noun-objects,A lovely five cans make a lovely gift.,plural, good,0.6423699147674796
+197,objects,3,lovely,five,bananas,adj-pos,num-num,noun-objects,A lovely five bananas make a lovely gift.,plural, good,0.9922038528343705
+198,objects,3,lovely,five,apples,adj-pos,num-num,noun-objects,A lovely five apples make a lovely gift.,plural, good,0.9885337097804652
+199,objects,3,lovely,five,trays,adj-pos,num-num,noun-objects,A lovely five trays make a lovely gift.,plural, good,0.876729089728408
+200,objects,3,mere,five,desks,adj-quant,num-num,noun-objects,A mere five desks make a lovely gift.,plural, good,0.997258701439742
+201,objects,3,mere,five,marbles,adj-quant,num-num,noun-objects,A mere five marbles make a lovely gift.,plural, good,0.9995566479095963
+202,objects,3,mere,five,pencils,adj-quant,num-num,noun-objects,A mere five pencils make a lovely gift.,plural, good,0.999538766251004
+203,objects,3,mere,five,belts,adj-quant,num-num,noun-objects,A mere five belts make a lovely gift.,plural, good,0.9981762610366061
+204,objects,3,mere,five,forks,adj-quant,num-num,noun-objects,A mere five forks make a lovely gift.,plural, good,0.9992082585927619
+205,objects,3,mere,five,chairs,adj-quant,num-num,noun-objects,A mere five chairs make a lovely gift.,plural, good,0.9986500623866225
+206,objects,3,mere,five,cans,adj-quant,num-num,noun-objects,A mere five cans make a lovely gift.,plural, good,0.9995591529816152
+207,objects,3,mere,five,bananas,adj-quant,num-num,noun-objects,A mere five bananas make a lovely gift.,plural, good,0.9997101877336905
+208,objects,3,mere,five,apples,adj-quant,num-num,noun-objects,A mere five apples make a lovely gift.,plural, good,0.999713766702569
+209,objects,3,mere,five,trays,adj-quant,num-num,noun-objects,A mere five trays make a lovely gift.,plural, good,0.9988024690131987
+210,objects,3,large,five,desks,adj-stubborn,num-num,noun-objects,A large five desks make a lovely gift.,plural, bad,0.021332887143595713
+211,objects,3,large,five,marbles,adj-stubborn,num-num,noun-objects,A large five marbles make a lovely gift.,plural, good,0.9444482825233057
+212,objects,3,large,five,pencils,adj-stubborn,num-num,noun-objects,A large five pencils make a lovely gift.,plural, good,0.9683676084509543
+213,objects,3,large,five,belts,adj-stubborn,num-num,noun-objects,A large five belts make a lovely gift.,plural, bad,0.3518410114349001
+214,objects,3,large,five,forks,adj-stubborn,num-num,noun-objects,A large five forks make a lovely gift.,plural, good,0.6392546632248388
+215,objects,3,large,five,chairs,adj-stubborn,num-num,noun-objects,A large five chairs make a lovely gift.,plural, bad,0.31499838290495175
+216,objects,3,large,five,cans,adj-stubborn,num-num,noun-objects,A large five cans make a lovely gift.,plural, good,0.7515564320952252
+217,objects,3,large,five,bananas,adj-stubborn,num-num,noun-objects,A large five bananas make a lovely gift.,plural, good,0.9707987662398877
+218,objects,3,large,five,apples,adj-stubborn,num-num,noun-objects,A large five apples make a lovely gift.,plural, good,0.87115372078823
+219,objects,3,large,five,trays,adj-stubborn,num-num,noun-objects,A large five trays make a lovely gift.,plural, good,0.5309700459349415
+220,human,0,astonishing,five,soldiers,adj-ambig,num-num,noun-human,An astonishing five soldiers regularly shows up at the door.,singular, bad,0.36010727252665453
+221,human,0,astonishing,five,students,adj-ambig,num-num,noun-human,An astonishing five students regularly shows up at the door.,singular, bad,0.2964518420688729
+222,human,0,astonishing,five,athletes,adj-ambig,num-num,noun-human,An astonishing five athletes regularly shows up at the door.,singular, bad,0.3402692092661016
+223,human,0,astonishing,five,pianists,adj-ambig,num-num,noun-human,An astonishing five pianists regularly shows up at the door.,singular, bad,0.191447631787392
+224,human,0,astonishing,five,teammates,adj-ambig,num-num,noun-human,An astonishing five teammates regularly shows up at the door.,singular, bad,0.32030077850785277
+225,human,0,astonishing,five,lawyers,adj-ambig,num-num,noun-human,An astonishing five lawyers regularly shows up at the door.,singular, bad,0.14389093622125182
+226,human,0,astonishing,five,doctors,adj-ambig,num-num,noun-human,An astonishing five doctors regularly shows up at the door.,singular, bad,0.16439185344543716
+227,human,0,astonishing,five,actors,adj-ambig,num-num,noun-human,An astonishing five actors regularly shows up at the door.,singular, bad,0.23897547933229701
+228,human,0,astonishing,five,Americans,adj-ambig,num-num,noun-human,An astonishing five Americans regularly shows up at the door.,singular, bad,0.3255139462668152
+229,human,0,astonishing,five,bankers,adj-ambig,num-num,noun-human,An astonishing five bankers regularly shows up at the door.,singular, bad,0.36175159379726796
+230,human,0,lovely,five,soldiers,adj-pos,num-num,noun-human,A lovely five soldiers regularly shows up at the door.,singular, good,0.7879675974161311
+231,human,0,lovely,five,students,adj-pos,num-num,noun-human,A lovely five students regularly shows up at the door.,singular, bad,0.48274476935716126
+232,human,0,lovely,five,athletes,adj-pos,num-num,noun-human,A lovely five athletes regularly shows up at the door.,singular, bad,0.36121484385228386
+233,human,0,lovely,five,pianists,adj-pos,num-num,noun-human,A lovely five pianists regularly shows up at the door.,singular, bad,0.4211497671110014
+234,human,0,lovely,five,teammates,adj-pos,num-num,noun-human,A lovely five teammates regularly shows up at the door.,singular, good,0.5862844486057678
+235,human,0,lovely,five,lawyers,adj-pos,num-num,noun-human,A lovely five lawyers regularly shows up at the door.,singular, good,0.6706159235525272
+236,human,0,lovely,five,doctors,adj-pos,num-num,noun-human,A lovely five doctors regularly shows up at the door.,singular, good,0.5449794071928558
+237,human,0,lovely,five,actors,adj-pos,num-num,noun-human,A lovely five actors regularly shows up at the door.,singular, bad,0.47736345544925607
+238,human,0,lovely,five,Americans,adj-pos,num-num,noun-human,A lovely five Americans regularly shows up at the door.,singular, good,0.6190597093278019
+239,human,0,lovely,five,bankers,adj-pos,num-num,noun-human,A lovely five bankers regularly shows up at the door.,singular, good,0.8211662361013645
+240,human,0,mere,five,soldiers,adj-quant,num-num,noun-human,A mere five soldiers regularly shows up at the door.,singular, bad,0.24372210169737785
+241,human,0,mere,five,students,adj-quant,num-num,noun-human,A mere five students regularly shows up at the door.,singular, bad,0.13838402308248132
+242,human,0,mere,five,athletes,adj-quant,num-num,noun-human,A mere five athletes regularly shows up at the door.,singular, bad,0.22427914775157565
+243,human,0,mere,five,pianists,adj-quant,num-num,noun-human,A mere five pianists regularly shows up at the door.,singular, bad,0.25295088025966983
+244,human,0,mere,five,teammates,adj-quant,num-num,noun-human,A mere five teammates regularly shows up at the door.,singular, bad,0.2349221915992744
+245,human,0,mere,five,lawyers,adj-quant,num-num,noun-human,A mere five lawyers regularly shows up at the door.,singular, bad,0.3787211723550119
+246,human,0,mere,five,doctors,adj-quant,num-num,noun-human,A mere five doctors regularly shows up at the door.,singular, bad,0.23799676660197588
+247,human,0,mere,five,actors,adj-quant,num-num,noun-human,A mere five actors regularly shows up at the door.,singular, bad,0.1690546080963925
+248,human,0,mere,five,Americans,adj-quant,num-num,noun-human,A mere five Americans regularly shows up at the door.,singular, bad,0.3675608193000699
+249,human,0,mere,five,bankers,adj-quant,num-num,noun-human,A mere five bankers regularly shows up at the door.,singular, bad,0.42815362565766013
+250,human,0,lucky,five,soldiers,adj-human,num-num,noun-human,A lucky five soldiers regularly shows up at the door.,singular, good,0.6655213436905655
+251,human,0,lucky,five,students,adj-human,num-num,noun-human,A lucky five students regularly shows up at the door.,singular, bad,0.3306403299978834
+252,human,0,lucky,five,athletes,adj-human,num-num,noun-human,A lucky five athletes regularly shows up at the door.,singular, bad,0.4558696789159302
+253,human,0,lucky,five,pianists,adj-human,num-num,noun-human,A lucky five pianists regularly shows up at the door.,singular, bad,0.2616546426841644
+254,human,0,lucky,five,teammates,adj-human,num-num,noun-human,A lucky five teammates regularly shows up at the door.,singular, good,0.5888632473276132
+255,human,0,lucky,five,lawyers,adj-human,num-num,noun-human,A lucky five lawyers regularly shows up at the door.,singular, good,0.5515227444881432
+256,human,0,lucky,five,doctors,adj-human,num-num,noun-human,A lucky five doctors regularly shows up at the door.,singular, bad,0.4834664313559994
+257,human,0,lucky,five,actors,adj-human,num-num,noun-human,A lucky five actors regularly shows up at the door.,singular, bad,0.395167488636349
+258,human,0,lucky,five,Americans,adj-human,num-num,noun-human,A lucky five Americans regularly shows up at the door.,singular, bad,0.4503438070820521
+259,human,0,lucky,five,bankers,adj-human,num-num,noun-human,A lucky five bankers regularly shows up at the door.,singular, good,0.6045918601053921
+260,human,1,astonishing,five,soldiers,adj-ambig,num-num,noun-human,An astonishing five soldiers regularly show up at the door.,plural, good,0.9991688606178374
+261,human,1,astonishing,five,students,adj-ambig,num-num,noun-human,An astonishing five students regularly show up at the door.,plural, good,0.9979395716028601
+262,human,1,astonishing,five,athletes,adj-ambig,num-num,noun-human,An astonishing five athletes regularly show up at the door.,plural, good,0.9971762083211038
+263,human,1,astonishing,five,pianists,adj-ambig,num-num,noun-human,An astonishing five pianists regularly show up at the door.,plural, good,0.9988965288725156
+264,human,1,astonishing,five,teammates,adj-ambig,num-num,noun-human,An astonishing five teammates regularly show up at the door.,plural, good,0.9972637084887999
+265,human,1,astonishing,five,lawyers,adj-ambig,num-num,noun-human,An astonishing five lawyers regularly show up at the door.,plural, good,0.9989613793401934
+266,human,1,astonishing,five,doctors,adj-ambig,num-num,noun-human,An astonishing five doctors regularly show up at the door.,plural, good,0.9990353458782261
+267,human,1,astonishing,five,actors,adj-ambig,num-num,noun-human,An astonishing five actors regularly show up at the door.,plural, good,0.9976320671865293
+268,human,1,astonishing,five,Americans,adj-ambig,num-num,noun-human,An astonishing five Americans regularly show up at the door.,plural, good,0.9978029544454726
+269,human,1,astonishing,five,bankers,adj-ambig,num-num,noun-human,An astonishing five bankers regularly show up at the door.,plural, good,0.9989519593785927
+270,human,1,lovely,five,soldiers,adj-pos,num-num,noun-human,A lovely five soldiers regularly show up at the door.,plural, good,0.9055831392734437
+271,human,1,lovely,five,students,adj-pos,num-num,noun-human,A lovely five students regularly show up at the door.,plural, good,0.5934204317815642
+272,human,1,lovely,five,athletes,adj-pos,num-num,noun-human,A lovely five athletes regularly show up at the door.,plural, good,0.6572266124194649
+273,human,1,lovely,five,pianists,adj-pos,num-num,noun-human,A lovely five pianists regularly show up at the door.,plural, good,0.9767972143517073
+274,human,1,lovely,five,teammates,adj-pos,num-num,noun-human,A lovely five teammates regularly show up at the door.,plural, good,0.8459050243836087
+275,human,1,lovely,five,lawyers,adj-pos,num-num,noun-human,A lovely five lawyers regularly show up at the door.,plural, good,0.8973154827562562
+276,human,1,lovely,five,doctors,adj-pos,num-num,noun-human,A lovely five doctors regularly show up at the door.,plural, good,0.8132992955274962
+277,human,1,lovely,five,actors,adj-pos,num-num,noun-human,A lovely five actors regularly show up at the door.,plural, good,0.8719499617795268
+278,human,1,lovely,five,Americans,adj-pos,num-num,noun-human,A lovely five Americans regularly show up at the door.,plural, good,0.8575047162132705
+279,human,1,lovely,five,bankers,adj-pos,num-num,noun-human,A lovely five bankers regularly show up at the door.,plural, good,0.8946705044000584
+280,human,1,mere,five,soldiers,adj-quant,num-num,noun-human,A mere five soldiers regularly show up at the door.,plural, good,0.9975423052891594
+281,human,1,mere,five,students,adj-quant,num-num,noun-human,A mere five students regularly show up at the door.,plural, good,0.9963655772604697
+282,human,1,mere,five,athletes,adj-quant,num-num,noun-human,A mere five athletes regularly show up at the door.,plural, good,0.9923955403276615
+283,human,1,mere,five,pianists,adj-quant,num-num,noun-human,A mere five pianists regularly show up at the door.,plural, good,0.9957934882600946
+284,human,1,mere,five,teammates,adj-quant,num-num,noun-human,A mere five teammates regularly show up at the door.,plural, good,0.9892174395863873
+285,human,1,mere,five,lawyers,adj-quant,num-num,noun-human,A mere five lawyers regularly show up at the door.,plural, good,0.9968761560855076
+286,human,1,mere,five,doctors,adj-quant,num-num,noun-human,A mere five doctors regularly show up at the door.,plural, good,0.9964204744309685
+287,human,1,mere,five,actors,adj-quant,num-num,noun-human,A mere five actors regularly show up at the door.,plural, good,0.9871109426152451
+288,human,1,mere,five,Americans,adj-quant,num-num,noun-human,A mere five Americans regularly show up at the door.,plural, good,0.9954195862382121
+289,human,1,mere,five,bankers,adj-quant,num-num,noun-human,A mere five bankers regularly show up at the door.,plural, good,0.9975107126270968
+290,human,1,lucky,five,soldiers,adj-human,num-num,noun-human,A lucky five soldiers regularly show up at the door.,plural, good,0.9940960578685161
+291,human,1,lucky,five,students,adj-human,num-num,noun-human,A lucky five students regularly show up at the door.,plural, good,0.9887124656863405
+292,human,1,lucky,five,athletes,adj-human,num-num,noun-human,A lucky five athletes regularly show up at the door.,plural, good,0.9739235832886262
+293,human,1,lucky,five,pianists,adj-human,num-num,noun-human,A lucky five pianists regularly show up at the door.,plural, good,0.9948951811009207
+294,human,1,lucky,five,teammates,adj-human,num-num,noun-human,A lucky five teammates regularly show up at the door.,plural, good,0.9905537785213991
+295,human,1,lucky,five,lawyers,adj-human,num-num,noun-human,A lucky five lawyers regularly show up at the door.,plural, good,0.987721833417032
+296,human,1,lucky,five,doctors,adj-human,num-num,noun-human,A lucky five doctors regularly show up at the door.,plural, good,0.9837774315139048
+297,human,1,lucky,five,actors,adj-human,num-num,noun-human,A lucky five actors regularly show up at the door.,plural, good,0.9725520860533602
+298,human,1,lucky,five,Americans,adj-human,num-num,noun-human,A lucky five Americans regularly show up at the door.,plural, good,0.9847740883934857
+299,human,1,lucky,five,bankers,adj-human,num-num,noun-human,A lucky five bankers regularly show up at the door.,plural, good,0.9894425057235509
+300,human,2,astonishing,five,soldiers,adj-ambig,num-num,noun-human,An astonishing five soldiers is here.,singular, bad,0.0032560481403698383
+301,human,2,astonishing,five,students,adj-ambig,num-num,noun-human,An astonishing five students is here.,singular, bad,0.002547045760466493
+302,human,2,astonishing,five,athletes,adj-ambig,num-num,noun-human,An astonishing five athletes is here.,singular, bad,0.0035015025920319687
+303,human,2,astonishing,five,pianists,adj-ambig,num-num,noun-human,An astonishing five pianists is here.,singular, bad,0.008406482245407854
+304,human,2,astonishing,five,teammates,adj-ambig,num-num,noun-human,An astonishing five teammates is here.,singular, bad,0.008113825769418215
+305,human,2,astonishing,five,lawyers,adj-ambig,num-num,noun-human,An astonishing five lawyers is here.,singular, bad,0.017257479013356614
+306,human,2,astonishing,five,doctors,adj-ambig,num-num,noun-human,An astonishing five doctors is here.,singular, bad,0.0061887329135602576
+307,human,2,astonishing,five,actors,adj-ambig,num-num,noun-human,An astonishing five actors is here.,singular, bad,0.003384020452438352
+308,human,2,astonishing,five,Americans,adj-ambig,num-num,noun-human,An astonishing five Americans is here.,singular, bad,0.0016496912609830217
+309,human,2,astonishing,five,bankers,adj-ambig,num-num,noun-human,An astonishing five bankers is here.,singular, bad,0.011251531671168324
+310,human,2,lovely,five,soldiers,adj-pos,num-num,noun-human,A lovely five soldiers is here.,singular, bad,0.05532665413887916
+311,human,2,lovely,five,students,adj-pos,num-num,noun-human,A lovely five students is here.,singular, bad,0.0037309811292919326
+312,human,2,lovely,five,athletes,adj-pos,num-num,noun-human,A lovely five athletes is here.,singular, bad,0.012251286355235758
+313,human,2,lovely,five,pianists,adj-pos,num-num,noun-human,A lovely five pianists is here.,singular, bad,0.1417801097618201
+314,human,2,lovely,five,teammates,adj-pos,num-num,noun-human,A lovely five teammates is here.,singular, bad,0.005525748576340805
+315,human,2,lovely,five,lawyers,adj-pos,num-num,noun-human,A lovely five lawyers is here.,singular, bad,0.026835360508766115
+316,human,2,lovely,five,doctors,adj-pos,num-num,noun-human,A lovely five doctors is here.,singular, bad,0.05912638719925878
+317,human,2,lovely,five,actors,adj-pos,num-num,noun-human,A lovely five actors is here.,singular, bad,0.013268499968964176
+318,human,2,lovely,five,Americans,adj-pos,num-num,noun-human,A lovely five Americans is here.,singular, bad,0.03755429037936164
+319,human,2,lovely,five,bankers,adj-pos,num-num,noun-human,A lovely five bankers is here.,singular, bad,0.016644507672557207
+320,human,2,mere,five,soldiers,adj-quant,num-num,noun-human,A mere five soldiers is here.,singular, bad,0.005266227547582214
+321,human,2,mere,five,students,adj-quant,num-num,noun-human,A mere five students is here.,singular, bad,0.0034095923934412964
+322,human,2,mere,five,athletes,adj-quant,num-num,noun-human,A mere five athletes is here.,singular, bad,0.005363147993364237
+323,human,2,mere,five,pianists,adj-quant,num-num,noun-human,A mere five pianists is here.,singular, bad,0.054236290810834475
+324,human,2,mere,five,teammates,adj-quant,num-num,noun-human,A mere five teammates is here.,singular, bad,0.015816484670379882
+325,human,2,mere,five,lawyers,adj-quant,num-num,noun-human,A mere five lawyers is here.,singular, bad,0.02338869153684775
+326,human,2,mere,five,doctors,adj-quant,num-num,noun-human,A mere five doctors is here.,singular, bad,0.005920687836763916
+327,human,2,mere,five,actors,adj-quant,num-num,noun-human,A mere five actors is here.,singular, bad,0.01774146662326348
+328,human,2,mere,five,Americans,adj-quant,num-num,noun-human,A mere five Americans is here.,singular, bad,0.002702136439387548
+329,human,2,mere,five,bankers,adj-quant,num-num,noun-human,A mere five bankers is here.,singular, bad,0.01449289906320117
+330,human,2,lucky,five,soldiers,adj-human,num-num,noun-human,A lucky five soldiers is here.,singular, bad,0.017581905411274024
+331,human,2,lucky,five,students,adj-human,num-num,noun-human,A lucky five students is here.,singular, bad,0.0038652722298380127
+332,human,2,lucky,five,athletes,adj-human,num-num,noun-human,A lucky five athletes is here.,singular, bad,0.0077164561052818215
+333,human,2,lucky,five,pianists,adj-human,num-num,noun-human,A lucky five pianists is here.,singular, bad,0.06624136974295836
+334,human,2,lucky,five,teammates,adj-human,num-num,noun-human,A lucky five teammates is here.,singular, bad,0.01545264549119818
+335,human,2,lucky,five,lawyers,adj-human,num-num,noun-human,A lucky five lawyers is here.,singular, bad,0.03190096688347588
+336,human,2,lucky,five,doctors,adj-human,num-num,noun-human,A lucky five doctors is here.,singular, bad,0.02740660683724938
+337,human,2,lucky,five,actors,adj-human,num-num,noun-human,A lucky five actors is here.,singular, bad,0.011280083348442882
+338,human,2,lucky,five,Americans,adj-human,num-num,noun-human,A lucky five Americans is here.,singular, bad,0.005640012075351253
+339,human,2,lucky,five,bankers,adj-human,num-num,noun-human,A lucky five bankers is here.,singular, bad,0.012106206035771505
+340,human,3,astonishing,five,soldiers,adj-ambig,num-num,noun-human,An astonishing five soldiers are here.,plural, good,0.9995741723903231
+341,human,3,astonishing,five,students,adj-ambig,num-num,noun-human,An astonishing five students are here.,plural, good,0.9991378082311052
+342,human,3,astonishing,five,athletes,adj-ambig,num-num,noun-human,An astonishing five athletes are here.,plural, good,0.9989299666943514
+343,human,3,astonishing,five,pianists,adj-ambig,num-num,noun-human,An astonishing five pianists are here.,plural, good,0.9995115310398266
+344,human,3,astonishing,five,teammates,adj-ambig,num-num,noun-human,An astonishing five teammates are here.,plural, good,0.9991687406376477
+345,human,3,astonishing,five,lawyers,adj-ambig,num-num,noun-human,An astonishing five lawyers are here.,plural, good,0.9992194647162673
+346,human,3,astonishing,five,doctors,adj-ambig,num-num,noun-human,An astonishing five doctors are here.,plural, good,0.9993991137444982
+347,human,3,astonishing,five,actors,adj-ambig,num-num,noun-human,An astonishing five actors are here.,plural, good,0.999042975440392
+348,human,3,astonishing,five,Americans,adj-ambig,num-num,noun-human,An astonishing five Americans are here.,plural, good,0.9978934366255916
+349,human,3,astonishing,five,bankers,adj-ambig,num-num,noun-human,An astonishing five bankers are here.,plural, good,0.9993104225678759
+350,human,3,lovely,five,soldiers,adj-pos,num-num,noun-human,A lovely five soldiers are here.,plural, good,0.8790063475429466
+351,human,3,lovely,five,students,adj-pos,num-num,noun-human,A lovely five students are here.,plural, good,0.7621352085453821
+352,human,3,lovely,five,athletes,adj-pos,num-num,noun-human,A lovely five athletes are here.,plural, bad,0.46098290907761896
+353,human,3,lovely,five,pianists,adj-pos,num-num,noun-human,A lovely five pianists are here.,plural, good,0.9345938117682843
+354,human,3,lovely,five,teammates,adj-pos,num-num,noun-human,A lovely five teammates are here.,plural, bad,0.49227348872232013
+355,human,3,lovely,five,lawyers,adj-pos,num-num,noun-human,A lovely five lawyers are here.,plural, good,0.6717267655679054
+356,human,3,lovely,five,doctors,adj-pos,num-num,noun-human,A lovely five doctors are here.,plural, good,0.8394247778442689
+357,human,3,lovely,five,actors,adj-pos,num-num,noun-human,A lovely five actors are here.,plural, good,0.5988889083020603
+358,human,3,lovely,five,Americans,adj-pos,num-num,noun-human,A lovely five Americans are here.,plural, good,0.57889370617389
+359,human,3,lovely,five,bankers,adj-pos,num-num,noun-human,A lovely five bankers are here.,plural, bad,0.10394596418821722
+360,human,3,mere,five,soldiers,adj-quant,num-num,noun-human,A mere five soldiers are here.,plural, good,0.9971095691621596
+361,human,3,mere,five,students,adj-quant,num-num,noun-human,A mere five students are here.,plural, good,0.9897472049458858
+362,human,3,mere,five,athletes,adj-quant,num-num,noun-human,A mere five athletes are here.,plural, good,0.9877732723463318
+363,human,3,mere,five,pianists,adj-quant,num-num,noun-human,A mere five pianists are here.,plural, good,0.9948225220821564
+364,human,3,mere,five,teammates,adj-quant,num-num,noun-human,A mere five teammates are here.,plural, good,0.9833807668551082
+365,human,3,mere,five,lawyers,adj-quant,num-num,noun-human,A mere five lawyers are here.,plural, good,0.9942364857430911
+366,human,3,mere,five,doctors,adj-quant,num-num,noun-human,A mere five doctors are here.,plural, good,0.9918942229235981
+367,human,3,mere,five,actors,adj-quant,num-num,noun-human,A mere five actors are here.,plural, good,0.9867105756247084
+368,human,3,mere,five,Americans,adj-quant,num-num,noun-human,A mere five Americans are here.,plural, good,0.985511155321352
+369,human,3,mere,five,bankers,adj-quant,num-num,noun-human,A mere five bankers are here.,plural, good,0.9920173042986111
+370,human,3,lucky,five,soldiers,adj-human,num-num,noun-human,A lucky five soldiers are here.,plural, good,0.9954243533140253
+371,human,3,lucky,five,students,adj-human,num-num,noun-human,A lucky five students are here.,plural, good,0.9834369706387596
+372,human,3,lucky,five,athletes,adj-human,num-num,noun-human,A lucky five athletes are here.,plural, good,0.9724909912777997
+373,human,3,lucky,five,pianists,adj-human,num-num,noun-human,A lucky five pianists are here.,plural, good,0.9966808303629359
+374,human,3,lucky,five,teammates,adj-human,num-num,noun-human,A lucky five teammates are here.,plural, good,0.9748372597429332
+375,human,3,lucky,five,lawyers,adj-human,num-num,noun-human,A lucky five lawyers are here.,plural, good,0.9544447960046287
+376,human,3,lucky,five,doctors,adj-human,num-num,noun-human,A lucky five doctors are here.,plural, good,0.9811830269545678
+377,human,3,lucky,five,actors,adj-human,num-num,noun-human,A lucky five actors are here.,plural, good,0.9718240202874966
+378,human,3,lucky,five,Americans,adj-human,num-num,noun-human,A lucky five Americans are here.,plural, good,0.9344448026650642
+379,human,3,lucky,five,bankers,adj-human,num-num,noun-human,A lucky five bankers are here.,plural, good,0.9049087184142065
+380,art,0,astonishing,five,movies,adj-ambig,num-num,noun-art,An astonishing five movies was reviewed in the newspaper.,singular, bad,0.0015927681962220053
+381,art,0,astonishing,five,paintings,adj-ambig,num-num,noun-art,An astonishing five paintings was reviewed in the newspaper.,singular, bad,0.0012766250200786367
+382,art,0,astonishing,five,books,adj-ambig,num-num,noun-art,An astonishing five books was reviewed in the newspaper.,singular, bad,0.00246568369591027
+383,art,0,astonishing,five,shows,adj-ambig,num-num,noun-art,An astonishing five shows was reviewed in the newspaper.,singular, bad,0.0011199832500777829
+384,art,0,astonishing,five,operas,adj-ambig,num-num,noun-art,An astonishing five operas was reviewed in the newspaper.,singular, bad,0.002282338795061789
+385,art,0,lovely,five,movies,adj-pos,num-num,noun-art,A lovely five movies was reviewed in the newspaper.,singular, bad,0.004961766168006365
+386,art,0,lovely,five,paintings,adj-pos,num-num,noun-art,A lovely five paintings was reviewed in the newspaper.,singular, bad,0.0031306978132542573
+387,art,0,lovely,five,books,adj-pos,num-num,noun-art,A lovely five books was reviewed in the newspaper.,singular, bad,0.2164243594637173
+388,art,0,lovely,five,shows,adj-pos,num-num,noun-art,A lovely five shows was reviewed in the newspaper.,singular, bad,0.0037862345697451394
+389,art,0,lovely,five,operas,adj-pos,num-num,noun-art,A lovely five operas was reviewed in the newspaper.,singular, bad,0.025588853748823026
+390,art,0,mere,five,movies,adj-quant,num-num,noun-art,A mere five movies was reviewed in the newspaper.,singular, bad,0.0028704625216662283
+391,art,0,mere,five,paintings,adj-quant,num-num,noun-art,A mere five paintings was reviewed in the newspaper.,singular, bad,0.0017022051027446583
+392,art,0,mere,five,books,adj-quant,num-num,noun-art,A mere five books was reviewed in the newspaper.,singular, bad,0.003909974764950808
+393,art,0,mere,five,shows,adj-quant,num-num,noun-art,A mere five shows was reviewed in the newspaper.,singular, bad,0.0022745293290488133
+394,art,0,mere,five,operas,adj-quant,num-num,noun-art,A mere five operas was reviewed in the newspaper.,singular, bad,0.019982662355468528
+395,art,1,astonishing,five,movies,adj-ambig,num-num,noun-art,An astonishing five movies were reviewed in the newspaper.,plural, good,0.9987785717514511
+396,art,1,astonishing,five,paintings,adj-ambig,num-num,noun-art,An astonishing five paintings were reviewed in the newspaper.,plural, good,0.9988531352526305
+397,art,1,astonishing,five,books,adj-ambig,num-num,noun-art,An astonishing five books were reviewed in the newspaper.,plural, good,0.9988758443369186
+398,art,1,astonishing,five,shows,adj-ambig,num-num,noun-art,An astonishing five shows were reviewed in the newspaper.,plural, good,0.9986944080277507
+399,art,1,astonishing,five,operas,adj-ambig,num-num,noun-art,An astonishing five operas were reviewed in the newspaper.,plural, good,0.9984846569934097
+400,art,1,lovely,five,movies,adj-pos,num-num,noun-art,A lovely five movies were reviewed in the newspaper.,plural, bad,0.48445794610153825
+401,art,1,lovely,five,paintings,adj-pos,num-num,noun-art,A lovely five paintings were reviewed in the newspaper.,plural, good,0.9087820977389881
+402,art,1,lovely,five,books,adj-pos,num-num,noun-art,A lovely five books were reviewed in the newspaper.,plural, good,0.9502766369382479
+403,art,1,lovely,five,shows,adj-pos,num-num,noun-art,A lovely five shows were reviewed in the newspaper.,plural, bad,0.034051008505778135
+404,art,1,lovely,five,operas,adj-pos,num-num,noun-art,A lovely five operas were reviewed in the newspaper.,plural, bad,0.4099307346058757
+405,art,1,mere,five,movies,adj-quant,num-num,noun-art,A mere five movies were reviewed in the newspaper.,plural, good,0.9913083110378182
+406,art,1,mere,five,paintings,adj-quant,num-num,noun-art,A mere five paintings were reviewed in the newspaper.,plural, good,0.9938666388236893
+407,art,1,mere,five,books,adj-quant,num-num,noun-art,A mere five books were reviewed in the newspaper.,plural, good,0.9930870123954474
+408,art,1,mere,five,shows,adj-quant,num-num,noun-art,A mere five shows were reviewed in the newspaper.,plural, good,0.9901823815824194
+409,art,1,mere,five,operas,adj-quant,num-num,noun-art,A mere five operas were reviewed in the newspaper.,plural, good,0.9951064217602725
+410,art,2,astonishing,five,movies,adj-ambig,num-num,noun-art,An astonishing five movies was enjoyed.,singular, bad,0.001134826297067959
+411,art,2,astonishing,five,paintings,adj-ambig,num-num,noun-art,An astonishing five paintings was enjoyed.,singular, bad,0.0006861218107080402
+412,art,2,astonishing,five,books,adj-ambig,num-num,noun-art,An astonishing five books was enjoyed.,singular, bad,0.0024913135146049648
+413,art,2,astonishing,five,shows,adj-ambig,num-num,noun-art,An astonishing five shows was enjoyed.,singular, bad,0.0008059853192010635
+414,art,2,astonishing,five,operas,adj-ambig,num-num,noun-art,An astonishing five operas was enjoyed.,singular, bad,0.0012742402655567808
+415,art,2,lovely,five,movies,adj-pos,num-num,noun-art,A lovely five movies was enjoyed.,singular, bad,0.0032561669522418457
+416,art,2,lovely,five,paintings,adj-pos,num-num,noun-art,A lovely five paintings was enjoyed.,singular, bad,0.0018134269508108813
+417,art,2,lovely,five,books,adj-pos,num-num,noun-art,A lovely five books was enjoyed.,singular, bad,0.11355374379156291
+418,art,2,lovely,five,shows,adj-pos,num-num,noun-art,A lovely five shows was enjoyed.,singular, bad,0.0022563529999501952
+419,art,2,lovely,five,operas,adj-pos,num-num,noun-art,A lovely five operas was enjoyed.,singular, bad,0.023256908482452987
+420,art,2,mere,five,movies,adj-quant,num-num,noun-art,A mere five movies was enjoyed.,singular, bad,0.0017188329118265067
+421,art,2,mere,five,paintings,adj-quant,num-num,noun-art,A mere five paintings was enjoyed.,singular, bad,0.0011972928722642218
+422,art,2,mere,five,books,adj-quant,num-num,noun-art,A mere five books was enjoyed.,singular, bad,0.00565473446034237
+423,art,2,mere,five,shows,adj-quant,num-num,noun-art,A mere five shows was enjoyed.,singular, bad,0.0011960994021964488
+424,art,2,mere,five,operas,adj-quant,num-num,noun-art,A mere five operas was enjoyed.,singular, bad,0.007257681898790502
+425,art,3,astonishing,five,movies,adj-ambig,num-num,noun-art,An astonishing five movies were enjoyed.,plural, good,0.9955415401727046
+426,art,3,astonishing,five,paintings,adj-ambig,num-num,noun-art,An astonishing five paintings were enjoyed.,plural, good,0.982359504920726
+427,art,3,astonishing,five,books,adj-ambig,num-num,noun-art,An astonishing five books were enjoyed.,plural, good,0.9973310616657837
+428,art,3,astonishing,five,shows,adj-ambig,num-num,noun-art,An astonishing five shows were enjoyed.,plural, good,0.9971509347118033
+429,art,3,astonishing,five,operas,adj-ambig,num-num,noun-art,An astonishing five operas were enjoyed.,plural, good,0.9970876938152843
+430,art,3,lovely,five,movies,adj-pos,num-num,noun-art,A lovely five movies were enjoyed.,plural, bad,0.25775427880783774
+431,art,3,lovely,five,paintings,adj-pos,num-num,noun-art,A lovely five paintings were enjoyed.,plural, good,0.5653591421231258
+432,art,3,lovely,five,books,adj-pos,num-num,noun-art,A lovely five books were enjoyed.,plural, good,0.9347456301707275
+433,art,3,lovely,five,shows,adj-pos,num-num,noun-art,A lovely five shows were enjoyed.,plural, bad,0.031066412895468742
+434,art,3,lovely,five,operas,adj-pos,num-num,noun-art,A lovely five operas were enjoyed.,plural, bad,0.4021345976212949
+435,art,3,mere,five,movies,adj-quant,num-num,noun-art,A mere five movies were enjoyed.,plural, good,0.9201248698973403
+436,art,3,mere,five,paintings,adj-quant,num-num,noun-art,A mere five paintings were enjoyed.,plural, good,0.9648375440017619
+437,art,3,mere,five,books,adj-quant,num-num,noun-art,A mere five books were enjoyed.,plural, good,0.9699766499412157
+438,art,3,mere,five,shows,adj-quant,num-num,noun-art,A mere five shows were enjoyed.,plural, good,0.9624560800290299
+439,art,3,mere,five,operas,adj-quant,num-num,noun-art,A mere five operas were enjoyed.,plural, good,0.9745053198436618
+440,distance,0,astonishing,five,meters,adj-ambig,num-num,noun-distance,An astonishing five meters is a long way.,singular, good,0.9965873087135042
+441,distance,0,astonishing,five,feet,adj-ambig,num-num,noun-distance,An astonishing five feet is a long way.,singular, good,0.9952508428792842
+442,distance,0,astonishing,five,yards,adj-ambig,num-num,noun-distance,An astonishing five yards is a long way.,singular, good,0.9983709906783995
+443,distance,0,astonishing,five,blocks,adj-ambig,num-num,noun-distance,An astonishing five blocks is a long way.,singular, good,0.9923531629657296
+444,distance,0,astonishing,five,steps,adj-ambig,num-num,noun-distance,An astonishing five steps is a long way.,singular, good,0.9956664132039547
+445,distance,0,lovely,five,meters,adj-pos,num-num,noun-distance,A lovely five meters is a long way.,singular, good,0.898624498278124
+446,distance,0,lovely,five,feet,adj-pos,num-num,noun-distance,A lovely five feet is a long way.,singular, good,0.8445781052807407
+447,distance,0,lovely,five,yards,adj-pos,num-num,noun-distance,A lovely five yards is a long way.,singular, good,0.981100830808382
+448,distance,0,lovely,five,blocks,adj-pos,num-num,noun-distance,A lovely five blocks is a long way.,singular, good,0.9267171537367023
+449,distance,0,lovely,five,steps,adj-pos,num-num,noun-distance,A lovely five steps is a long way.,singular, good,0.9164854018314911
+450,distance,0,mere,five,meters,adj-quant,num-num,noun-distance,A mere five meters is a long way.,singular, good,0.9826849428063943
+451,distance,0,mere,five,feet,adj-quant,num-num,noun-distance,A mere five feet is a long way.,singular, good,0.9872839766111282
+452,distance,0,mere,five,yards,adj-quant,num-num,noun-distance,A mere five yards is a long way.,singular, good,0.9906930730529397
+453,distance,0,mere,five,blocks,adj-quant,num-num,noun-distance,A mere five blocks is a long way.,singular, good,0.9450005702967047
+454,distance,0,mere,five,steps,adj-quant,num-num,noun-distance,A mere five steps is a long way.,singular, good,0.9899242934897987
+455,distance,1,astonishing,five,meters,adj-ambig,num-num,noun-distance,An astonishing five meters are a long way.,plural, good,0.693085659949685
+456,distance,1,astonishing,five,feet,adj-ambig,num-num,noun-distance,An astonishing five feet are a long way.,plural, bad,0.2586725882062779
+457,distance,1,astonishing,five,yards,adj-ambig,num-num,noun-distance,An astonishing five yards are a long way.,plural, good,0.88476677834271
+458,distance,1,astonishing,five,blocks,adj-ambig,num-num,noun-distance,An astonishing five blocks are a long way.,plural, good,0.6551211294410898
+459,distance,1,astonishing,five,steps,adj-ambig,num-num,noun-distance,An astonishing five steps are a long way.,plural, good,0.9841029287619278
+460,distance,1,lovely,five,meters,adj-pos,num-num,noun-distance,A lovely five meters are a long way.,plural, bad,0.011132859902688086
+461,distance,1,lovely,five,feet,adj-pos,num-num,noun-distance,A lovely five feet are a long way.,plural, bad,0.008560855388763167
+462,distance,1,lovely,five,yards,adj-pos,num-num,noun-distance,A lovely five yards are a long way.,plural, bad,0.015332124596239893
+463,distance,1,lovely,five,blocks,adj-pos,num-num,noun-distance,A lovely five blocks are a long way.,plural, bad,0.016792028447241703
+464,distance,1,lovely,five,steps,adj-pos,num-num,noun-distance,A lovely five steps are a long way.,plural, bad,0.18993830698504066
+465,distance,1,mere,five,meters,adj-quant,num-num,noun-distance,A mere five meters are a long way.,plural, bad,0.33446524591924987
+466,distance,1,mere,five,feet,adj-quant,num-num,noun-distance,A mere five feet are a long way.,plural, bad,0.20146725976914281
+467,distance,1,mere,five,yards,adj-quant,num-num,noun-distance,A mere five yards are a long way.,plural, bad,0.33738226254610515
+468,distance,1,mere,five,blocks,adj-quant,num-num,noun-distance,A mere five blocks are a long way.,plural, bad,0.5000278339452702
+469,distance,1,mere,five,steps,adj-quant,num-num,noun-distance,A mere five steps are a long way.,plural, good,0.9489557257910329
+470,distance,2,astonishing,five,meters,adj-ambig,num-num,noun-distance,An astonishing five meters is not far.,singular, good,0.9851391044393307
+471,distance,2,astonishing,five,feet,adj-ambig,num-num,noun-distance,An astonishing five feet is not far.,singular, good,0.9759584677590842
+472,distance,2,astonishing,five,yards,adj-ambig,num-num,noun-distance,An astonishing five yards is not far.,singular, good,0.9940017047368714
+473,distance,2,astonishing,five,blocks,adj-ambig,num-num,noun-distance,An astonishing five blocks is not far.,singular, good,0.988418670921562
+474,distance,2,astonishing,five,steps,adj-ambig,num-num,noun-distance,An astonishing five steps is not far.,singular, good,0.9938142470339917
+475,distance,2,lovely,five,meters,adj-pos,num-num,noun-distance,A lovely five meters is not far.,singular, good,0.7950250781361394
+476,distance,2,lovely,five,feet,adj-pos,num-num,noun-distance,A lovely five feet is not far.,singular, good,0.8475257556854353
+477,distance,2,lovely,five,yards,adj-pos,num-num,noun-distance,A lovely five yards is not far.,singular, good,0.9811054194276981
+478,distance,2,lovely,five,blocks,adj-pos,num-num,noun-distance,A lovely five blocks is not far.,singular, good,0.9754466532356857
+479,distance,2,lovely,five,steps,adj-pos,num-num,noun-distance,A lovely five steps is not far.,singular, good,0.962710237597057
+480,distance,2,mere,five,meters,adj-quant,num-num,noun-distance,A mere five meters is not far.,singular, good,0.9848610527089967
+481,distance,2,mere,five,feet,adj-quant,num-num,noun-distance,A mere five feet is not far.,singular, good,0.9855346965074822
+482,distance,2,mere,five,yards,adj-quant,num-num,noun-distance,A mere five yards is not far.,singular, good,0.9932763154022857
+483,distance,2,mere,five,blocks,adj-quant,num-num,noun-distance,A mere five blocks is not far.,singular, good,0.9854520274113694
+484,distance,2,mere,five,steps,adj-quant,num-num,noun-distance,A mere five steps is not far.,singular, good,0.9950276825025053
+485,distance,3,astonishing,five,meters,adj-ambig,num-num,noun-distance,An astonishing five meters are not far.,plural, good,0.697939350776454
+486,distance,3,astonishing,five,feet,adj-ambig,num-num,noun-distance,An astonishing five feet are not far.,plural, bad,0.3500026935343239
+487,distance,3,astonishing,five,yards,adj-ambig,num-num,noun-distance,An astonishing five yards are not far.,plural, good,0.8448286780930132
+488,distance,3,astonishing,five,blocks,adj-ambig,num-num,noun-distance,An astonishing five blocks are not far.,plural, good,0.9935897773025327
+489,distance,3,astonishing,five,steps,adj-ambig,num-num,noun-distance,An astonishing five steps are not far.,plural, good,0.9921292419100434
+490,distance,3,lovely,five,meters,adj-pos,num-num,noun-distance,A lovely five meters are not far.,plural, bad,0.01873871174740538
+491,distance,3,lovely,five,feet,adj-pos,num-num,noun-distance,A lovely five feet are not far.,plural, bad,0.017049281631842272
+492,distance,3,lovely,five,yards,adj-pos,num-num,noun-distance,A lovely five yards are not far.,plural, bad,0.015128101941376482
+493,distance,3,lovely,five,blocks,adj-pos,num-num,noun-distance,A lovely five blocks are not far.,plural, bad,0.2463290107620315
+494,distance,3,lovely,five,steps,adj-pos,num-num,noun-distance,A lovely five steps are not far.,plural, good,0.5678351280013713
+495,distance,3,mere,five,meters,adj-quant,num-num,noun-distance,A mere five meters are not far.,plural, bad,0.2874490353043263
+496,distance,3,mere,five,feet,adj-quant,num-num,noun-distance,A mere five feet are not far.,plural, bad,0.10012774084169695
+497,distance,3,mere,five,yards,adj-quant,num-num,noun-distance,A mere five yards are not far.,plural, bad,0.28635011924636655
+498,distance,3,mere,five,blocks,adj-quant,num-num,noun-distance,A mere five blocks are not far.,plural, good,0.9751644232222246
+499,distance,3,mere,five,steps,adj-quant,num-num,noun-distance,A mere five steps are not far.,plural, good,0.9835272710165841
+500,unitlike,0,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,An astonishing five pages was uncovered.,singular, good,0.9007512604689384
+501,unitlike,0,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,An astonishing five acts was uncovered.,singular, bad,0.003094219405277543
+502,unitlike,0,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,An astonishing five paragraphs was uncovered.,singular, good,0.8263964557240321
+503,unitlike,0,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,An astonishing five awards was uncovered.,singular, bad,0.001442804555268129
+504,unitlike,0,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,An astonishing five meals was uncovered.,singular, bad,0.002229409866049248
+505,unitlike,0,lovely,five,pages,adj-pos,num-num,noun-unit_like,A lovely five pages was uncovered.,singular, good,0.7407644762694096
+506,unitlike,0,lovely,five,acts,adj-pos,num-num,noun-unit_like,A lovely five acts was uncovered.,singular, bad,0.006177886298819768
+507,unitlike,0,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,A lovely five paragraphs was uncovered.,singular, good,0.5461216641206054
+508,unitlike,0,lovely,five,awards,adj-pos,num-num,noun-unit_like,A lovely five awards was uncovered.,singular, bad,0.00964095115164254
+509,unitlike,0,lovely,five,meals,adj-pos,num-num,noun-unit_like,A lovely five meals was uncovered.,singular, bad,0.004765903866701282
+510,unitlike,0,mere,five,pages,adj-quant,num-num,noun-unit_like,A mere five pages was uncovered.,singular, bad,0.43501797358694083
+511,unitlike,0,mere,five,acts,adj-quant,num-num,noun-unit_like,A mere five acts was uncovered.,singular, bad,0.010265311318127468
+512,unitlike,0,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,A mere five paragraphs was uncovered.,singular, bad,0.4320884532837357
+513,unitlike,0,mere,five,awards,adj-quant,num-num,noun-unit_like,A mere five awards was uncovered.,singular, bad,0.004333472294401286
+514,unitlike,0,mere,five,meals,adj-quant,num-num,noun-unit_like,A mere five meals was uncovered.,singular, bad,0.0070612252641378825
+515,unitlike,1,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,An astonishing five pages were uncovered.,plural, good,0.9988050921715678
+516,unitlike,1,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,An astonishing five acts were uncovered.,plural, good,0.9982489195335231
+517,unitlike,1,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,An astonishing five paragraphs were uncovered.,plural, good,0.9977881142324907
+518,unitlike,1,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,An astonishing five awards were uncovered.,plural, good,0.9988245855413697
+519,unitlike,1,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,An astonishing five meals were uncovered.,plural, good,0.9985872372901445
+520,unitlike,1,lovely,five,pages,adj-pos,num-num,noun-unit_like,A lovely five pages were uncovered.,plural, good,0.8846175272381196
+521,unitlike,1,lovely,five,acts,adj-pos,num-num,noun-unit_like,A lovely five acts were uncovered.,plural, bad,0.18474000145775182
+522,unitlike,1,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,A lovely five paragraphs were uncovered.,plural, good,0.8064817099301057
+523,unitlike,1,lovely,five,awards,adj-pos,num-num,noun-unit_like,A lovely five awards were uncovered.,plural, good,0.7243857171263617
+524,unitlike,1,lovely,five,meals,adj-pos,num-num,noun-unit_like,A lovely five meals were uncovered.,plural, bad,0.13436784159233228
+525,unitlike,1,mere,five,pages,adj-quant,num-num,noun-unit_like,A mere five pages were uncovered.,plural, good,0.9884595033402456
+526,unitlike,1,mere,five,acts,adj-quant,num-num,noun-unit_like,A mere five acts were uncovered.,plural, good,0.9428794982866457
+527,unitlike,1,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,A mere five paragraphs were uncovered.,plural, good,0.975320884326562
+528,unitlike,1,mere,five,awards,adj-quant,num-num,noun-unit_like,A mere five awards were uncovered.,plural, good,0.9921532606575945
+529,unitlike,1,mere,five,meals,adj-quant,num-num,noun-unit_like,A mere five meals were uncovered.,plural, good,0.9315544002015117
+530,unitlike,2,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,An astonishing five pages makes an impression.,singular, good,0.9952907215880357
+531,unitlike,2,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,An astonishing five acts makes an impression.,singular, good,0.9246243796453527
+532,unitlike,2,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,An astonishing five paragraphs makes an impression.,singular, good,0.9936052738469803
+533,unitlike,2,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,An astonishing five awards makes an impression.,singular, good,0.9906314419725953
+534,unitlike,2,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,An astonishing five meals makes an impression.,singular, good,0.9802863324727603
+535,unitlike,2,lovely,five,pages,adj-pos,num-num,noun-unit_like,A lovely five pages makes an impression.,singular, good,0.9933486740455819
+536,unitlike,2,lovely,five,acts,adj-pos,num-num,noun-unit_like,A lovely five acts makes an impression.,singular, good,0.9473796448488521
+537,unitlike,2,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,A lovely five paragraphs makes an impression.,singular, good,0.9879390326326183
+538,unitlike,2,lovely,five,awards,adj-pos,num-num,noun-unit_like,A lovely five awards makes an impression.,singular, good,0.9349687992839674
+539,unitlike,2,lovely,five,meals,adj-pos,num-num,noun-unit_like,A lovely five meals makes an impression.,singular, good,0.845850067719461
+540,unitlike,2,mere,five,pages,adj-quant,num-num,noun-unit_like,A mere five pages makes an impression.,singular, good,0.9913875861591815
+541,unitlike,2,mere,five,acts,adj-quant,num-num,noun-unit_like,A mere five acts makes an impression.,singular, good,0.8378601230783023
+542,unitlike,2,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,A mere five paragraphs makes an impression.,singular, good,0.9873239091063957
+543,unitlike,2,mere,five,awards,adj-quant,num-num,noun-unit_like,A mere five awards makes an impression.,singular, good,0.9766806288406862
+544,unitlike,2,mere,five,meals,adj-quant,num-num,noun-unit_like,A mere five meals makes an impression.,singular, good,0.9183749219764205
+545,unitlike,3,astonishing,five,pages,adj-ambig,num-num,noun-unit_like,An astonishing five pages make an impression.,plural, good,0.9891770877570146
+546,unitlike,3,astonishing,five,acts,adj-ambig,num-num,noun-unit_like,An astonishing five acts make an impression.,plural, good,0.9913229150994297
+547,unitlike,3,astonishing,five,paragraphs,adj-ambig,num-num,noun-unit_like,An astonishing five paragraphs make an impression.,plural, good,0.9909312543878296
+548,unitlike,3,astonishing,five,awards,adj-ambig,num-num,noun-unit_like,An astonishing five awards make an impression.,plural, good,0.995717971141346
+549,unitlike,3,astonishing,five,meals,adj-ambig,num-num,noun-unit_like,An astonishing five meals make an impression.,plural, good,0.983931388003193
+550,unitlike,3,lovely,five,pages,adj-pos,num-num,noun-unit_like,A lovely five pages make an impression.,plural, good,0.9074334852678417
+551,unitlike,3,lovely,five,acts,adj-pos,num-num,noun-unit_like,A lovely five acts make an impression.,plural, good,0.8990175886670109
+552,unitlike,3,lovely,five,paragraphs,adj-pos,num-num,noun-unit_like,A lovely five paragraphs make an impression.,plural, good,0.9414289513335787
+553,unitlike,3,lovely,five,awards,adj-pos,num-num,noun-unit_like,A lovely five awards make an impression.,plural, good,0.854000380195391
+554,unitlike,3,lovely,five,meals,adj-pos,num-num,noun-unit_like,A lovely five meals make an impression.,plural, good,0.7403133918024677
+555,unitlike,3,mere,five,pages,adj-quant,num-num,noun-unit_like,A mere five pages make an impression.,plural, good,0.9654992769504206
+556,unitlike,3,mere,five,acts,adj-quant,num-num,noun-unit_like,A mere five acts make an impression.,plural, good,0.9772455528474102
+557,unitlike,3,mere,five,paragraphs,adj-quant,num-num,noun-unit_like,A mere five paragraphs make an impression.,plural, good,0.9742670824186721
+558,unitlike,3,mere,five,awards,adj-quant,num-num,noun-unit_like,A mere five awards make an impression.,plural, good,0.9833367202502743
+559,unitlike,3,mere,five,meals,adj-quant,num-num,noun-unit_like,A mere five meals make an impression.,plural, good,0.9534657994662501
