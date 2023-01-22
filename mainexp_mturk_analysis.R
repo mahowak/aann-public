@@ -6,11 +6,11 @@ cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2"
 
 # commented code is how we anonymize the original turk files.
 # we make only anonymous files public.
-# e1 = read.csv("mturk_data/main_exp_2022_10_06.csv") %>%
-#    mutate(batch=1)
-# 
-# e2 = read.csv("mturk_data/main_exp_2022_10_11.csv") %>%
-#    mutate(batch=2)
+#e1 = read.csv("mturk_data/main_exp_2022_10_06.csv") %>%
+#   mutate(batch=1)
+
+#e2 = read.csv("mturk_data/main_exp_2022_10_11.csv") %>%
+#   mutate(batch=2)
 # 
 # e = bind_rows(e1, e2)
 # 
@@ -198,14 +198,21 @@ g.turk$name = factor(g.turk$name, levels = c("a ADJ five days",
                                        "a five days",
                                        "a ADJ five day",
                                        "ADJ five days"))
+g$name = factor(g$name, levels = c("a ADJ five days",
+                                             "five ADJ days",
+                                             "a five ADJ days",
+                                             "a five days",
+                                             "a ADJ five day",
+                                             "ADJ five days"))
 
 l = lmer(value ~ name + (1|adjclass) + (1|adj) + 
-           (1 | temp) , data=g.turk)
+           (1 | temp) , data=g)
 summary(l)
 
 as.data.frame(fixef(l)) %>%
   xtable()
 
+g.turk$answer = g.turk$answer/10
 l.human = lmer(answer ~ name + (1|adjclass) + (1|adj) + 
            (1 | temp) + (1 |WorkerId), data=g.turk)
 summary(l.human)
