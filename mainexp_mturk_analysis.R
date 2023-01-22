@@ -44,7 +44,7 @@ filler.mean = group_by(fillers, WorkerId, good) %>%
   spread(good, m) %>%
   mutate(diff=`TRUE` - `FALSE`) 
 
-badp = filter(filler.mean, diff < 1, n > 4) 
+badp = filter(filler.mean, diff < 1 | n > 4)
 fillers = filter(fillers, WorkerId %in% badp$WorkerId == F)
 d = filter(d, !grepl("filler", value))
 d = filter(d, WorkerId %in% fillers$WorkerId)
@@ -90,6 +90,18 @@ g = bind_rows( read_csv("gpt3_data/sents_20221004.csv"),
 g.turk = right_join(g, turk)
 
 cor(g.turk$value, g.turk$answer, method="spearman")
+
+group_by(turk, adj, num, noun, temp, name) %>%
+  summarise(n=n()) %>%
+  filter(n > 1)
+
+
+select(g.turk, adjclass, adj, noun, num, temp, name) %>%
+  distinct() %>%
+  nrow()
+
+group_by(g.turk, adjclass, adj, noun, num, temp, name, value, answer) %>%
+  summarise(n=n())
 
 d.3 = select(g.turk, adjclass, name, firstadj, answer, value) %>%
   mutate(answer=answer/10) %>%
@@ -167,8 +179,9 @@ ggplot(filter(d.3, variable == "gpt3"), aes(x=name, y=m, fill=good,
   scale_fill_manual(values=cbbPalette) + 
   geom_point(data=filter(d.3, variable == "humans"), aes(x=name, y=m,
                                                          group=variable),
-             colour="red",
-             shape=2)
+             colour=cbbPalette[3],
+             shape=17,
+             size=4)
 ggsave("pngs/gpt3-humans.png", width=5.5, height=3)
 
 library(xtable)
@@ -194,7 +207,7 @@ as.data.frame(fixef(l)) %>%
   xtable()
 
 l.human = lmer(answer ~ name + (1|adjclass) + (1|adj) + 
-           (1 | temp) + (1 + name|WorkerId), data=g.turk)
+           (1 | temp) + (1 |WorkerId), data=g.turk)
 summary(l.human)
 
 as.data.frame(fixef(l.human)) %>%

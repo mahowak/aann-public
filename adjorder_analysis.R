@@ -1,6 +1,6 @@
 library(tidyverse)
 library(jsonlite)
-library(viridis)
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 # e = read.csv("mturk_data/adjorder_2022_10_06.csv")
 # e$WorkerId = paste0("ordS", as.numeric(as.factor(e$WorkerId)))
@@ -35,16 +35,11 @@ filler.mean = group_by(fillers, WorkerId, good) %>%
   spread(good, m) %>%
   mutate(diff=`TRUE` - `FALSE`)
 
-badp = filter(filler.mean, diff < 1, n > 1) 
+badp = filter(filler.mean, diff < 1 | n > max(n)) 
 
 fillers = filter(fillers, WorkerId %in% badp$WorkerId == F)
 
-bad = filter(fillers, value == "filler_0_3") 
-hist(bad$answer)
-
 d = filter(d, !grepl("filler", value))
-
-
 d = filter(d, WorkerId %in% fillers$WorkerId)
 
 turk = separate(d, value, into=c("adj", "num", "noun", "cond", "twoadjs", "template"), sep="-")
@@ -98,8 +93,7 @@ ggplot(d.3.sum, aes(x=adjclass, y=m, fill=variable,
     legend.title = element_blank()) + 
   xlab("") + ylab("mean probability of good") + 
   facet_grid(. ~ name) +
-  scale_fill_viridis(discrete=T)
-
+  scale_fill_manual(values=cbbPalette)
 ######################
 
 d.3.2 = d.3 %>%
@@ -120,15 +114,20 @@ ggplot(d.3.2, aes(x=variable, y=m, fill=name,
   theme(legend.position = c(.75, .9),
     legend.title = element_blank()) + 
   xlab("") + ylab("acceptability") + 
-  scale_fill_viridis(option = "C", discrete=T) +
+  scale_fill_manual(values=cbbPalette) +
   scale_y_continuous(breaks = c(0, 1), limits = c(0, 1))
 ggsave("pngs/adjorder.png", width=4, height=2)
 
 
 nrow(g.turk)
 
-group_by(g.turk, adj, num, noun, template) %>%
-  summarize(n=n())
+group_by(g.turk, adj, num, noun, template, adjclass, name) %>%
+  summarize(n=n()) %>%
+  arrange(n)
+
+group_by(g.turk, adj, num, noun, template, adjclass, name) %>%
+  summarize(n=n()) %>%
+  arrange(-n)
 
 
 l = lmer(value ~ name + (1|adj)  +

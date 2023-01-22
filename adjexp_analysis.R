@@ -1,5 +1,6 @@
 library(tidyverse)
 library(lme4)
+library(xtable)
 cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 
@@ -70,8 +71,6 @@ ggsave("pngs/adjs2.png", width=8, height=4)
 # write_csv(d, file="mturk_data/adjexp_turk.csv")
 d = read_csv("mturk_data/adjexp_turk.csv")
 
-group_by(fillers, value) %>%
-  summarise(m=mean(answer))
 
 fillers = filter(d, grepl("filler", value))
 fillers$good = grepl("filler_1", fillers$value)
@@ -82,7 +81,7 @@ filler.mean = group_by(fillers, WorkerId, good) %>%
 
 # filter participants with not a big enough diff 
 # between good and bad fillers or who did it more than once
-badp = filter(filler.mean, diff < 1, n > 1) 
+badp = filter(filler.mean, diff < 1 | n > max(n)) 
 
 fillers = filter(fillers, WorkerId %in% badp$WorkerId == F)
 
@@ -147,13 +146,14 @@ ggplot(d.3, aes(x=adjclass, y=m, fill=variable,
         axis.text.x = element_text(angle=90, vjust=0.5, hjust=1),
         legend.title = element_blank()) + 
   xlab("") + ylab("mean probability of good") + 
-  facet_grid(name ~ nounclass, drop=T, scales="free") +
-  scale_fill_viridis(discrete=T)
+  facet_grid(name ~ nounclass, drop=T, scales="free") 
 
 
 d.3 = mutate(d.3, adjclass = gsub("adj-", "", adjclass),
              nounclass = gsub("noun-", "", nounclass))
-
+d.3$adjclass = factor(d.3$adjclass, levels=c("quant", "ambig",
+                                             "qual.", "human",
+                                             "color", "stubborn"))
 
 ggplot(filter(d.3, variable == "gpt3"), aes(x=adjclass, y=m,
                 group=variable, ymin=l, ymax=u, fill=adjclass)) +
@@ -169,9 +169,9 @@ ggplot(filter(d.3, variable == "gpt3"), aes(x=adjclass, y=m,
   #scale_fill_viridis(discrete=T) + 
   geom_point(data=filter(d.3, variable == "humans"), aes(x=adjclass, y=m,
                                        group=variable),
-             colour="red",
-             shape=2)
-ggsave("adjs_turk.png", width=4, height=2.5)
+             colour=cbbPalette[8],
+             shape=17)
+ggsave("pngs/adjs_turk.png", width=4, height=2.5)
 
 ####################
 

@@ -1,4 +1,6 @@
 library(tidyverse)
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
 
 d = bind_rows( read_csv("gpt3_data/sents_20221004.csv"),
   read_csv("gpt3_data/sents_20221004_2.csv")) %>%
@@ -122,18 +124,6 @@ d.3$name = factor(d.3$name, levels = c("a ADJ five days",
                                        "a ADJ five day",
                                        "ADJ five days"))
   
-ggplot(d.3, aes(x=firstadj, y=m, fill=name,
-                group=name, ymin=l, ymax=u)) +
-  geom_bar(stat="identity", position=position_dodge(width=NULL)) +
-  geom_errorbar(position=position_dodge(width=NULL)) + 
-  theme_classic(20) +
-  theme(#legend.position = "bottom",
-        legend.title = element_blank()) + 
-  scale_fill_manual(values = c("red", "gray",
-                               "navyblue", "lightblue",
-                               "blue", "darkgreen")) +
-  xlab("") + ylab("mean probability of good")
-ggsave("pngs/fig1.png", width=7, height=4)
 
 sum(d.3$n)
 
@@ -236,7 +226,7 @@ ggplot(singplur, aes(x=nounclass, y=m, fill=singplur,
     legend.position=c(.15, .95), legend.title=element_blank(),
     legend.direction = "horizontal") + 
   #axis.text.x = element_text(angle=90, hjust=1, vjust=.5)) +
-  scale_fill_viridis(option="A", discrete=T) +
+  scale_fill_manual(values=cbbPalette) + 
   ylab("acceptability") + xlab("noun class") 
 
 ggsave("pngs/agreement.png", width=3, height=1.7)
@@ -338,8 +328,8 @@ write_csv(a, file="mturk_generation/runturk_main.csv")
 
 
 ########################## get adj ones
-adjs = bind_rows(read_csv("sents_adjs_20221004.csv"),
-                 read_csv("sents_adjs_20221004_2.csv")) %>%
+adjs = bind_rows(read_csv("gpt3_data/sents_adjs_20221004.csv"),
+                 read_csv("gpt3_data/sents_adjs_20221004_2.csv")) %>%
   rename(value=`goodness-sent`) 
 # get human sents
 human.sents = adjs %>%
@@ -462,3 +452,4 @@ dnum = filter(d, variable == "goodness-sent") %>%
     m=mean(value, na.rm=T)) 
 
 print(xtable(dnum), include.rownames=FALSE)
+
