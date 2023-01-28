@@ -71,7 +71,7 @@ def get_sents_dict():
           sents += [newd]
   return sents
 
-def get_ratings(sents, outfile, startnum):
+def get_ratings(sents, outfile, startnum, model):
   """Get ratings from GPT-3,
   write a dataframe with the ratings."""
   print("getting ratings for: " +  str(len(sents)))
@@ -84,7 +84,7 @@ def get_ratings(sents, outfile, startnum):
     for i in list(sent.keys()):
       if i.startswith("sent"):
         sentstorate += [sent[i]]
-        rating =get_judgment(getcolaprompt(sent[i]))
+        rating =get_judgment(getcolaprompt(sent[i]), model)
         newsent["rating-" + i] = rating[0]
         if "good" in rating[0]:
           newsent["goodness-" + i] = rating[1]
@@ -104,9 +104,12 @@ if __name__ == "__main__":
   parser.add_argument("--outfile", type=str)
   parser.add_argument("--numsents", type=int, default=-1)
   parser.add_argument("--start", type=int, default=0, help="start at this sentence number")
-  parser.add_argument("--adj", type=str, default="adj", adj="run only the adjective experiment")
+  parser.add_argument("--adj", type=str, default="main", help="run only the adjective experiment")
+  parser.add_argument("--model", type=str, default="text-davinci-002", help="run the model")
+
   args = parser.parse_args()
 
+  
   if args.adj == "adj":
     aann = pd.read_csv("generate_sentence_templates/adj_exp.csv")
     templates = pd.read_csv("generate_sentence_templates/templates_adj.csv", keep_default_na=False)
@@ -151,4 +154,4 @@ if __name__ == "__main__":
 
   if args.numsents > 0:
     sents = sents[:args.numsents]
-  get_ratings(sents, args.outfile, args.start)
+  get_ratings(sents, args.outfile, args.start, args.model)

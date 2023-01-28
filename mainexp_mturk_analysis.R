@@ -140,7 +140,7 @@ ggplot(d.3, aes(x=adjclass, y=m, fill=variable,
   xlab("") + ylab("mean probability of good") + 
   facet_grid(. ~ name) +
   scale_fill_viridis(discrete=T)
-ggsave("pngs/full-human-gpt.png", width=7, height=4)
+ggsave("pngs/full-human-gpt.png", width=7, height=4.3)
 
 d.3 = select(g.turk, adjclass, name, firstadj, answer, value) %>%
   mutate(answer=answer/10) %>%
@@ -179,10 +179,10 @@ ggplot(filter(d.3, variable == "gpt3"), aes(x=name, y=m, fill=good,
   scale_fill_manual(values=cbbPalette) + 
   geom_point(data=filter(d.3, variable == "humans"), aes(x=name, y=m,
                                                          group=variable),
-             colour=cbbPalette[3],
+             colour="springgreen4",
              shape=17,
              size=4)
-ggsave("pngs/gpt3-humans.png", width=5.5, height=3)
+ggsave("pngs/gpt3-humans.png", width=5.5, height=3.7)
 
 library(xtable)
 d.3.table = select(d.3, name, variable, m) %>%

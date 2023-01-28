@@ -38,10 +38,10 @@ def getcolaprompt(x):
   Answer:"""
 
 
-def get_judgment(prompt):
+def get_judgment(prompt, model):
     openai.api_key = KEY
     response = openai.Completion.create(
-        engine="text-davinci-002",
+        engine=model,
         prompt=prompt,
         temperature=0,
         max_tokens=1,
