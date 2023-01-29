@@ -2,7 +2,7 @@ library(tidyverse)
 library(jsonlite)
 library(viridis)
 library(lme4)
-cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+cbbPalette <- c("gray", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 # commented code is how we anonymize the original turk files.
 # we make only anonymous files public.
@@ -168,20 +168,22 @@ d.3$good = ifelse(d.3$name %in% c("a ADJ five days", "five ADJ days"),
 ggplot(filter(d.3, variable == "gpt3"), aes(x=name, y=m, fill=good,
                 group=variable, ymin=l, ymax=u)) +
   geom_bar(stat="identity", position=position_dodge(width=NULL)) +
-  geom_errorbar(position=position_dodge(width=NULL)) + 
+  geom_errorbar(position=position_dodge(width=NULL), width=.5) + 
   theme_classic(10) +
-  theme(legend.position = c(.8, .9),
+  theme(legend.position = "none", #$c(.8, .9),
         legend.key.size = unit(.1, 'cm'),
     axis.text.x = element_text(angle=90, vjust=0.5, hjust=1),
     legend.title = element_blank()) + 
   xlab("") + ylab("acceptability") + 
   #scale_fill_viridis(discrete=T) +
   scale_fill_manual(values=cbbPalette) + 
-  geom_point(data=filter(d.3, variable == "humans"), aes(x=name, y=m,
-                                                         group=variable),
+  geom_point(data=filter(d.3, variable == "humans"), aes(x=name, y=m),
              colour="springgreen4",
              shape=17,
-             size=4)
+             size=4) +
+  guides(shape="none",
+         colour="none",
+         size="none")
 ggsave("pngs/gpt3-humans.png", width=5.5, height=3.7)
 
 library(xtable)

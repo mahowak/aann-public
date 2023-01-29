@@ -1,6 +1,6 @@
 library(tidyverse)
 library(jsonlite)
-cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+cbbPalette <- c("gray", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 # e = read.csv("mturk_data/adjorder_2022_10_06.csv")
 # e$WorkerId = paste0("ordS", as.numeric(as.factor(e$WorkerId)))
@@ -106,6 +106,7 @@ d.3.2 = d.3 %>%
   )
 
 
+d.3.2$variable = ifelse(d.3.2$variable == "gpt3", "GPT-3", d.3.2$variable)
 ggplot(d.3.2, aes(x=variable, y=m, fill=name,
                 group=name, ymin=l, ymax=u)) +
   geom_bar(stat="identity", position=position_dodge(width=NULL)) +
@@ -115,7 +116,7 @@ ggplot(d.3.2, aes(x=variable, y=m, fill=name,
     legend.title = element_blank()) + 
   xlab("") + ylab("acceptability") + 
   scale_fill_manual(values=cbbPalette) +
-  scale_y_continuous(breaks = c(0, 1), limits = c(0, 1))
+  scale_y_continuous(breaks = c(0, 1), limits = c(0, 1)) 
 ggsave("pngs/adjorder.png", width=4, height=2)
 
 
